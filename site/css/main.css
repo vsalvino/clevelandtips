@@ -21,6 +21,11 @@ h2 {
 }
 h3 {
   margin-top: 3em;
+  margin-bottom: 0;
+}
+
+p, table {
+  margin: 1em 0;
 }
 
 a {
@@ -73,7 +78,7 @@ a:hover {
   margin-bottom: 5px;
 }
 .selection .place {
-  margin: 0 0 30px 0;
+  margin: 0 0 20px 0;
 }
 .selection button {
   border: none;
@@ -85,8 +90,13 @@ a:hover {
   color: #888;
 }
 
+.place-link {
+  font-size: 0.8em;
+  display: block;
+  color: #9ab;
+}
 table {
-  font-size: 14px;
+  font-size: 13px;
 }
 table td {
   border-top: 1.5px solid #f0f2f8;

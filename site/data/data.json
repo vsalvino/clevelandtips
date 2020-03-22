@@ -1,6 +1,8 @@
 [
   {
     "name": "Merry Arts",
+    "website": "https://merryartspubandgrille.com/",
+    "note": "",
     "workers": [
       {
         "name": "Stephanie Hornacky",
@@ -12,6 +14,8 @@
   },
   {
     "name": "Saucy Brew Works",
+    "website": "https://www.saucybrewworks.com/",
+    "note": "Saucy will match the first $5,000 in tips to their employees.",
     "workers": [
       {
         "name": "Angel Savacool Mendez",

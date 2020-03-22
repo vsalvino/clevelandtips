@@ -69,7 +69,10 @@
         <h1>{{random.worker.name}}</h1>
         <p class="place">{{random.place}}</p>
         <div class="tips" v-for="app in random.apps">
-          <a class="btn" :class="app.type" :href="app.link">Tip on {{app.name}}</a>
+          <a class="btn" :class="app.type" :href="app.link"
+            v-on:click="trackTip(random.worker.name, random.place)">
+            Tip on {{app.name}}
+          </a>
           <p>{{app.username}}</p>
         </div>
         <div class="text-right">
@@ -88,21 +91,26 @@
 
       <h2>Full List</h2>
 
-      <div v-for="place in places" class="text-left">
+      <div v-for="place in places" class="text-left place">
         <h3>{{place.name}}</h3>
+        <a class="place-link" :href="place.website">{{place.website}}</a>
+        <p v-if="place.note">{{place.note}}</p>
         <table width="100%">
           <tr v-for="worker in place.workers">
             <td width="40%">{{worker.name}}</td>
             <td width="20%">
-              <a v-if="worker.paypal" :href="paypalLink(worker.paypal)">PayPal</a>
+              <a v-if="worker.paypal" :href="paypalLink(worker.paypal)"
+                v-on:click="trackTip(worker.name, place.name)">PayPal</a>
               <span v-else>—</span>
             </td>
             <td width="20%">
-              <a v-if="worker.venmo" :href="venmoLink(worker.venmo)">Venmo</a>
+              <a v-if="worker.venmo" :href="venmoLink(worker.venmo)"
+                v-on:click="trackTip(worker.name, place.name)">Venmo</a>
               <span v-else>—</span>
             </td>
             <td width="20%">
-              <a v-if="worker.cashapp" :href="cashappLink(worker.cashapp)">Cash App</a>
+              <a v-if="worker.cashapp" :href="cashappLink(worker.cashapp)"
+                v-on:click="trackTip(worker.name, place.name)">Cash App</a>
               <span v-else>—</span>
             </td>
         </table>
@@ -113,12 +121,12 @@
     <p>
       This website is run by volunteers.
       If you have a problem or believe any information is incorrect,
-      <a href="https://forms.gle/ApQUChduP51yZ6Gr5">report a problem here</a>.
+      <a href="https://forms.gle/ApQUChduP51yZ6Gr5">contact us here</a>.
     </p>
   </div>
 
   <script>
-    //var dataURL = "data/test.json";
+    // var dataURL = "data/data.json";
     var dataURL = "https://raw.githubusercontent.com/vsalvino/clevelandtips/master/site/data/data.json";
 
     var App = new Vue({
@@ -177,6 +185,12 @@
             worker: rworker,
             apps: this.donateInfo(rworker),
           }
+        },
+        trackTip: function(workername, placename) {
+          gtag('event', 'click-tip', {
+            'event_category': placename,
+            'event_label': workername
+          });
         }
       },
       mounted: function() {
