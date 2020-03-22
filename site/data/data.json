@@ -1,11 +1,64 @@
 [
   {
+    "name": "Merry Arts",
+    "workers": [
+      {
+        "name": "Stephanie Hornacky",
+        "paypal": "",
+        "venmo": "Stephanie-Hornacky",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
     "name": "Saucy Brew Works",
     "workers": [
+      {
+        "name": "Angel Savacool Mendez",
+        "paypal": "",
+        "venmo": "AngelMSavacool",
+        "cashapp": ""
+      },
       {
         "name": "Annie Kosman",
         "paypal": "Anniekosman",
         "venmo": "Anniekosman",
+        "cashapp": ""
+      },
+      {
+        "name": "Chris Minnillo",
+        "paypal": "",
+        "venmo": "Chris-Minnillo",
+        "cashapp": ""
+      },
+      {
+        "name": "Devin Sharp",
+        "paypal": "",
+        "venmo": "Devin-Sharp-3",
+        "cashapp": ""
+      },
+      {
+        "name": "Ian Hoffman",
+        "paypal": "",
+        "venmo": "Ian-Hoffman-30",
+        "cashapp": ""
+      },
+      {
+        "name": "Jessica Rowan",
+        "paypal": "",
+        "venmo": "Jessica-Rowan-20",
+        "cashapp": ""
+      },
+      {
+        "name": "Kadiata Djigo",
+        "paypal": "",
+        "venmo": "Kadiata-Djigo",
+        "cashapp": ""
+      },
+      {
+        "name": "Khleef Reid",
+        "paypal": "",
+        "venmo": "Khleef-Reid",
         "cashapp": ""
       },
       {
@@ -21,9 +74,9 @@
         "cashapp": ""
       },
       {
-        "name": "Nathan Jochum",
+        "name": "Mark Fort",
         "paypal": "",
-        "venmo": "NathanOpposition",
+        "venmo": "MMRico1069",
         "cashapp": ""
       },
       {
@@ -33,21 +86,9 @@
         "cashapp": ""
       },
       {
-        "name": "Khleef Reid",
+        "name": "Nathan Jochum",
         "paypal": "",
-        "venmo": "Khleef-Reid",
-        "cashapp": ""
-      },
-      {
-        "name": "Jessica Rowan",
-        "paypal": "",
-        "venmo": "Jessica-Rowan-20",
-        "cashapp": ""
-      },
-      {
-        "name": "Angel Savacool Mendez",
-        "paypal": "",
-        "venmo": "AngelMSavacool",
+        "venmo": "NathanOpposition",
         "cashapp": ""
       },
       {
@@ -57,50 +98,9 @@
         "cashapp": ""
       },
       {
-        "name": "Ian Hoffman",
-        "paypal": "",
-        "venmo": "Ian-Hoffman-30",
-        "cashapp": ""
-      },
-      {
-        "name": "Kadiata Djigo",
-        "paypal": "",
-        "venmo": "Kadiata-Djigo",
-        "cashapp": ""
-      },
-      {
         "name": "Sileye Djigo",
         "paypal": "",
         "venmo": "Sileye-Djigo",
-        "cashapp": ""
-      },
-      {
-        "name": "Devin Sharp",
-        "paypal": "",
-        "venmo": "Devin-Sharp-3",
-        "cashapp": ""
-      },
-      {
-        "name": "Mark Fort",
-        "paypal": "",
-        "venmo": "MMRico1069",
-        "cashapp": ""
-      },
-      {
-        "name": "Chris Minnillo",
-        "paypal": "",
-        "venmo": "Chris-Minnillo",
-        "cashapp": ""
-      }
-    ]
-  },
-  {
-    "name": "Merry Arts",
-    "workers": [
-      {
-        "name": "Stephanie Hornacky",
-        "paypal": "",
-        "venmo": "Stephanie-Hornacky",
         "cashapp": ""
       }
     ]
