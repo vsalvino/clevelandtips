@@ -3,29 +3,47 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Cleveland Virtual Tip Jar</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- SEO -->
+  <title>Cleveland Virtual Tip Jar</title>
+  <link rel="shortcut icon" href="favicon.ico">
+  <meta name="description" content="Help the Cleveland service industry. Every time you have a drink or a take-out meal at home during social
+  distancing, consider tipping a local worker through Venmo, PayPal, or Cash App.">
+  <link rel="canonical" href="https://clevelandtips.com/">
+  <meta property="og:title" content="Cleveland Virtual Tip Jar">
+  <meta property="og:description" content="Help the Cleveland service industry. Every time you have a drink or a take-out meal at home during social
+  distancing, consider tipping a local worker through Venmo, PayPal, or Cash App.">
+  <meta property="og:site_name" content="Cleveland Virtual Tip Jar">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://clevelandtips.com/">
+  <meta property="og:image" content="https://clevelandtips.com/img/opengraph.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cleveland Virtual Tip Jar">
+  <meta name="twitter:image" content="https://clevelandtips.com/img/opengraph.jpg">
+
+  <!-- Style -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
 
-  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-
+  <!-- Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58517406-5"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'UA-58517406-5');
   </script>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 </head>
 
 <body>
 
   <div class="banner">
     <div class="inner">
-      <h1>Cleveland Tip Jar</h1>
+      <h1><img src="img/logo.png" alt="Cleveland Tip Jar" width="300px"></h1>
       <p><strong>Help the Cleveland Service Industry</strong></p>
       <p>
         Every time you have a drink or a take-out meal at home during social
@@ -162,7 +180,7 @@
         }
       },
       mounted: function() {
-        // Load the data from json
+        // On app load...
         var self = this;
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function() {

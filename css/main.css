@@ -45,9 +45,15 @@ a:hover {
 
 .banner {
   background-color: slateblue;
+  background: url("../img/banner.jpg");
+  background-size: cover;
+  background-position: center center;
   color: white;
-  padding: 40px 0;
+  padding: 20px 0 40px 0;
   margin-bottom: 40px;
+}
+.banner h1 {
+  margin: 0;
 }
 .banner p {
   font-size: larger;
