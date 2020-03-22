@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Denny's",
+    "workers": [
+      {
+        "name": "Joe Biden",
+        "paypal": "biden",
+        "venmo": "",
+        "cashapp": ""
+      },
+      {
+        "name": "Bernie Sanders",
+        "paypal": "",
+        "venmo": "bernie",
+        "cashapp": "bernie"
+      }
+    ]
+  },
+  {
+    "name": "IHOP",
+    "workers": [
+      {
+        "name": "Elizabeth Warren",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "liz"
+      },
+      {
+        "name": "Kamela Harris",
+        "paypal": "kammy",
+        "venmo": "kam",
+        "cashapp": "kam"
+      }
+    ]
+  }
+]

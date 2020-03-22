@@ -1,0 +1,4 @@
+*.css tet eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf

@@ -1,0 +1,183 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Cleveland Virtual Tip Jar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58517406-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-58517406-5');
+  </script>
+</head>
+
+<body>
+
+  <div class="banner">
+    <div class="inner">
+      <h1>Cleveland Tip Jar</h1>
+      <p><strong>Help the Cleveland Service Industry</strong></p>
+      <p>
+        Every time you have a drink or a take-out meal at home during social
+        distancing, consider tipping a local worker through Venmo, PayPal, or Cash App.
+      </p>
+    </div>
+  </div>
+
+  <div class="inner">
+    <div id="app">
+      <p>
+        This page shows a random server to support, or find someone
+        from your favorite establishment on the list below.
+      </p>
+      <p>
+        <b>Servers:</b>
+        <a href="https://forms.gle/iH6E5tR7FcY2TgUPA">Add yourself to this list</a>.
+        List is updated daily.
+      </p>
+
+      <div class="selection">
+        <p class="label">Your random server is:</p>
+        <h1>{{random.worker.name}}</h1>
+        <p class="place">{{random.place}}</p>
+        <div class="tips" v-for="app in random.apps">
+          <a class="btn" :class="app.type" :href="app.link">Tip on {{app.name}}</a>
+          <p>{{app.username}}</p>
+        </div>
+        <div class="text-right">
+          <button v-on:click="randomWorker">Tip another</button>
+        </div>
+      </div>
+
+      <h2>Thank You</h2>
+      <p>
+        This website is made possible by
+        <a href="https://www.coderedcorp.com/">CodeRed Web Development</a>
+        and <a href="https://www.saucybrewworks.com/">Saucy&nbsp;Brew&nbsp;Works</a>.
+        Developers: join the effort on
+        <a href="https://github.com/vsalvino/clevelandtips">GitHub</a>.
+      </p>
+
+      <h2>Full List</h2>
+
+      <div v-for="place in places" class="text-left">
+        <h3>{{place.name}}</h3>
+        <table width="100%">
+          <tr v-for="worker in place.workers">
+            <td width="40%">{{worker.name}}</td>
+            <td width="20%">
+              <a v-if="worker.paypal" :href="paypalLink(worker.paypal)">PayPal</a>
+              <span v-else>—</span>
+            </td>
+            <td width="20%">
+              <a v-if="worker.venmo" :href="venmoLink(worker.venmo)">Venmo</a>
+              <span v-else>—</span>
+            </td>
+            <td width="20%">
+              <a v-if="worker.cashapp" :href="cashappLink(worker.cashapp)">Cash App</a>
+              <span v-else>—</span>
+            </td>
+        </table>
+      </div>
+    </div>
+
+    <h2>Disclaimer</h2>
+    <p>
+      This website is run by volunteers.
+      If you have a problem or believe any information is incorrect,
+      <a href="https://forms.gle/ApQUChduP51yZ6Gr5">report a problem here</a>.
+    </p>
+  </div>
+
+  <script>
+    var dataURL = "data/data.json";
+
+    var App = new Vue({
+      el: "#app",
+      data: {
+        places: {},
+        random: {
+          worker: {}
+        },
+      },
+      methods: {
+        paypalLink: function(username) {
+          return "https://paypal.me/" + username;
+        },
+        venmoLink: function(username) {
+          return "https://venmo.com/" + username;
+        },
+        cashappLink: function(username) {
+          return "https://cash.app/$" + username;
+        },
+        donateInfo: function(worker) {
+          infos = [];
+          if (worker.paypal) {
+            infos.push({
+              type: "paypal",
+              name: "PayPal",
+              link: this.paypalLink(worker.paypal),
+              username: "@" + worker.paypal,
+            });
+          }
+          if (worker.venmo) {
+            infos.push({
+              type: "venmo",
+              name: "Venmo",
+              link: this.venmoLink(worker.venmo),
+              username: "@" + worker.venmo,
+            });
+          }
+          if (worker.cashapp) {
+            infos.push({
+              type: "cashapp",
+              name: "Cash App",
+              link: this.cashappLink(worker.cashapp),
+              username: "$" + worker.cashapp,
+            })
+          }
+          return infos;
+        },
+        randomWorker: function() {
+          pix = Math.floor(Math.random() * this.places.length);
+          wix = Math.floor(Math.random() * this.places[pix].workers.length);
+          rplace = this.places[pix];
+          rworker = this.places[pix].workers[wix];
+          this.random = {
+            place:  rplace.name,
+            worker: rworker,
+            apps: this.donateInfo(rworker),
+          }
+        }
+      },
+      mounted() {
+        // Load the data from json
+        var self = this;
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            // Set places from json
+            self.places = JSON.parse(this.responseText);
+            // Pick a random worker.
+            self.randomWorker();
+          }
+        };
+        xmlhttp.open("GET", dataURL, true);
+        xmlhttp.send();
+      },
+    });
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,125 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5em;
+  text-align: center;
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+}
+button:hover {
+  cursor: pointer;
+}
+
+h2 {
+  border-bottom: 1.5px solid #ddd;
+  padding: 0.5em 0;
+  margin-top: 3em;
+}
+h3 {
+  margin-top: 3em;
+}
+
+a {
+  color: slateblue;
+}
+a:hover {
+  color: darkslateblue;
+}
+
+.inner {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+
+.banner {
+  background-color: slateblue;
+  color: white;
+  padding: 40px 0;
+  margin-bottom: 40px;
+}
+.banner p {
+  font-size: larger;
+}
+
+.selection {
+  background-color: #f0f2f8;
+  padding: 15px;
+  margin: 40px 0;
+  border-radius: 10px;
+}
+.selection .label {
+  color: #9ab;
+  margin: 0;
+}
+.selection h1 {
+  margin-bottom: 5px;
+}
+.selection .place {
+  margin: 0 0 30px 0;
+}
+.selection button {
+  border: none;
+  color: #9ab;
+  text-decoration: underline;
+  background-color: transparent;
+}
+.selection button:hover {
+  color: #888;
+}
+
+table {
+  font-size: 14px;
+}
+table td {
+  border-top: 1.5px solid #f0f2f8;
+  padding: 4px;
+}
+
+.tips {
+  display: inline-block;
+  margin: 10px;
+}
+
+.btn {
+  padding: 15px 20px;
+  color: white;
+  font-weight: bold;
+  font-size: 1.1em;
+  text-decoration: none;
+  background-color: slateblue;
+  border-radius: 4px;
+}
+.btn:hover {
+  background-color: darkslateblue;
+  color: white;
+}
+.btn.paypal {
+  background-color :blue;
+}
+.btn.paypal:hover {
+  background-color: darkblue;
+}
+.btn.venmo {
+  background-color: #3d95ce;
+}
+.btn.venmo:hover {
+  background-color: #1d75ae;
+}
+.btn.cashapp {
+  background-color: #00D54B;
+}
+.btn.cashapp:hover {
+  background-color: green;
+}
