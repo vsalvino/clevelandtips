@@ -100,7 +100,8 @@
   </div>
 
   <script>
-    var dataURL = "data/data.json";
+    //var dataURL = "data/test.json";
+    var dataURL = "https://raw.githubusercontent.com/vsalvino/clevelandtips/master/data/data.json";
 
     var App = new Vue({
       el: "#app",
@@ -160,7 +161,7 @@
           }
         }
       },
-      mounted() {
+      mounted: function() {
         // Load the data from json
         var self = this;
         var xmlhttp = new XMLHttpRequest();
