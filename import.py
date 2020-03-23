@@ -58,11 +58,11 @@ with open("raw.csv", "r") as csvfile:
                 record["paypal"] = parse_username(col)
             if colnum == 5:
                 record["venmo"] = parse_username(col)
-            if colnum == 6:
-                record["cashapp"] = parse_username(col)
             # Is phoneNumber col 7?
-            if colnum == 7:
+            if colnum == 6:
                 record["phoneNumber"] = col.strip()
+            if colnum == 7:
+                record["cashapp"] = parse_username(col)
 
         # Add parsed response to the list.
         responses.append(record)
