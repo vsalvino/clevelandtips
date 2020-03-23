@@ -1,5 +1,89 @@
 [
   {
+    "name": "16-Bit Bar + Arcade",
+    "website": "http://www.16-bitbar.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Joseph Sadoski",
+        "paypal": "JSadoski",
+        "venmo": "Joseph-Sadoski-1",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "1899 Pub",
+    "website": "https://www.1899pub.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "AnnaMarie Futchi",
+        "paypal": "Venmo",
+        "venmo": "AnnaMarie-Futchi",
+        "cashapp": "",
+        "phoneNumber": "1524"
+      }
+    ]
+  },
+  {
+    "name": "35 Brix",
+    "website": "http://www.35brix.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda Hardman",
+        "paypal": "",
+        "venmo": "Amanda-Hardman-3",
+        "cashapp": "",
+        "phoneNumber": "0678"
+      },
+      {
+        "name": "Astionna Blair",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "AstionnaBlair",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Kayla Mckee",
+        "paypal": "",
+        "venmo": "Kayylayvonne",
+        "cashapp": "",
+        "phoneNumber": "1273"
+      }
+    ]
+  },
+  {
+    "name": "AC Hotel by Marriott in Pinecrest",
+    "website": "https://ac-hotels.marriott.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Rachel Reid",
+        "paypal": "raelauren",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "AJs Urban Grill",
+    "website": "https://www.ajsurbangrill.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jody Hayes",
+        "paypal": "",
+        "venmo": "hayjody",
+        "cashapp": "",
+        "phoneNumber": "5759"
+      }
+    ]
+  },
+  {
     "name": "AMF Brookgate Lanes",
     "website": "https://www.amf.com/location/amf-brookgate-lanes",
     "note": "",
@@ -9,6 +93,48 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "machsprinciple"
+      }
+    ]
+  },
+  {
+    "name": "AWOLJ",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jen Bennett",
+        "paypal": "",
+        "venmo": "Jen-Bennett-20",
+        "cashapp": "",
+        "phoneNumber": "2869"
+      }
+    ]
+  },
+  {
+    "name": "Academy Tavern on Larchmere",
+    "website": "https://academytavernonlarchmere.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Joey Ashworth",
+        "paypal": "",
+        "venmo": "joey-ashworth",
+        "cashapp": "jash786",
+        "phoneNumber": "1433"
+      }
+    ]
+  },
+  {
+    "name": "Aladdin\u2019s Eatery",
+    "website": "https://aladdins.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Diane Wisner",
+        "paypal": "",
+        "venmo": "Diane-Wisner",
+        "cashapp": "",
+        "phoneNumber": ""
       }
     ]
   },
@@ -26,15 +152,99 @@
     ]
   },
   {
+    "name": "American Legion Post 91",
+    "website": "http://postbythelake.org/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Regina Hoff",
+        "paypal": "",
+        "venmo": "Regina-Hoff",
+        "cashapp": "",
+        "phoneNumber": "8781"
+      }
+    ]
+  },
+  {
+    "name": "Amp 150",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Christopher Sands",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Charmtopher89",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Ulyss  Ray Newborn",
+        "paypal": "PayPal",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
     "name": "Applebee's",
     "website": "https://www.applebees.com",
     "note": "",
     "workers": [
       {
+        "name": "Jeanine Rizzo",
+        "paypal": "",
+        "venmo": "code?user_id=2914862451654656717",
+        "cashapp": "",
+        "phoneNumber": "1616"
+      } ,
+      {
         "name": "Megan Janosik",
         "paypal": "",
         "venmo": "",
         "cashapp": "empowermeg"
+      } ,
+      {
+        "name": "Savannah Kalman",
+        "paypal": "",
+        "venmo": "savvkalman",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Arrabiatas\u2019s Italian Restaurant",
+    "website": "https://www.arrabiatas.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alyssa Guardo",
+        "paypal": "",
+        "venmo": "alyssaguardo",
+        "cashapp": "AlyssaGuardo",
+        "phoneNumber": "7806"
+      },
+      {
+        "name": "Emily Rini",
+        "paypal": "",
+        "venmo": "Emily-Rini-1",
+        "cashapp": "",
+        "phoneNumber": "6088"
+      } ,
+      {
+        "name": "Gina Lalley",
+        "paypal": "",
+        "venmo": "gina-lalley",
+        "cashapp": "",
+        "phoneNumber": "0951"
+      } ,
+      {
+        "name": "Tiffany Przeracki",
+        "paypal": "",
+        "venmo": "Tiffany-Przeracki",
+        "cashapp": "",
+        "phoneNumber": "2587"
       }
     ]
   },
@@ -44,10 +254,66 @@
     "note": "",
     "workers": [
       {
+        "name": "Alexander Kerr",
+        "paypal": "",
+        "venmo": "kerryaki",
+        "cashapp": "",
+        "phoneNumber": "1069"
+      } ,
+      {
         "name": "Brittni Wonderling",
         "paypal": "",
         "venmo": "Brittni-Wonderling",
         "cashapp": ""
+      },
+      {
+        "name": "Cheyene Horner",
+        "paypal": "",
+        "venmo": "Cheyene-Horner",
+        "cashapp": "",
+        "phoneNumber": "7341"
+      },
+      {
+        "name": "Emily Whitlock",
+        "paypal": "emilywb0624",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Melissa LaRupe",
+        "paypal": "",
+        "venmo": "Melissa-LaRupe",
+        "cashapp": "",
+        "phoneNumber": "0445"
+      }
+    ]
+  },
+  {
+    "name": "B2s",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Erica Osborne",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "EricaOzzy",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Bad Tom Smith Brewing",
+    "website": "http://www.badtomsmithbrewing.com",
+    "note": "",
+    "workers": [
+      {
+        "name": "Denise Ben",
+        "paypal": "",
+        "venmo": "Denise-Ben",
+        "cashapp": "",
+        "phoneNumber": ""
       }
     ]
   },
@@ -64,10 +330,66 @@
     ]
   },
   {
+    "name": "Banter Beer & Wine",
+    "website": "http://www.bantercleveland.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alyse Fiore",
+        "paypal": "",
+        "venmo": "alyseeileen",
+        "cashapp": "alysefiore",
+        "phoneNumber": "0077"
+      } ,
+      {
+        "name": "Barrie Dale Farber",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "BarrieDFarber",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "John Stephens",
+        "paypal": "",
+        "venmo": "John-Stephens-49",
+        "cashapp": "",
+        "phoneNumber": "9918"
+      }
+    ]
+  },
+  {
+    "name": "Bar Nova",
+    "website": "http://barnovaavon.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Senyitko",
+        "paypal": "Ashleysenyitko",
+        "venmo": "ashleysenyitko",
+        "cashapp": "ashleysenyitko",
+        "phoneNumber": "3551"
+      }
+    ]
+  },
+  {
     "name": "Bar Symon",
     "website": "https://www.facebook.com/barsymon/",
     "note": "",
     "workers": [
+      {
+        "name": "Billy Terry",
+        "paypal": "",
+        "venmo": "Billykardashian",
+        "cashapp": "",
+        "phoneNumber": "1515"
+      },
+      {
+        "name": "Diane Roskos",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "DianeRoskos",
+        "phoneNumber": ""
+      },
       {
         "name": "Rob Gallagher",
         "paypal": "",
@@ -77,8 +399,22 @@
     ]
   },
   {
+    "name": "Barra Modern Mexican",
+    "website": "https://www.barra-sandusky.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alexis Pullin",
+        "paypal": "",
+        "venmo": "Alexis-Pullin-1",
+        "cashapp": "",
+        "phoneNumber": "3159"
+      }
+    ]
+  },
+  {
     "name": "Barrio",
-    "website": "",
+    "website": "https://barrio-tacos.com/",
     "note": "",
     "workers": [
       {
@@ -86,6 +422,97 @@
         "paypal": "",
         "venmo": "SmashTheBarBabe",
         "cashapp": ""
+      },
+      {
+        "name": "Joy Mueller",
+        "paypal": "",
+        "venmo": "Joyashley18",
+        "cashapp": "",
+        "phoneNumber": "4217"
+      },
+      {
+        "name": "Tim Gnandt",
+        "paypal": "",
+        "venmo": "code?user_id=2970928661135360371",
+        "cashapp": "",
+        "phoneNumber": "8671"
+      },
+      {
+        "name": "Marcus P Hackney",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "MarcusPHackney",
+        "phoneNumber": ""
+      }
+    ]
+  } ,
+  {
+    "name": "Barroco Arepa Bar",
+    "website": "https://www.barrocoarepabar.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Haley Norman",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "hay14",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Rhonda Basen",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "RhondaaGore",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Yomy Alvarez",
+        "paypal": "yomayraliz",
+        "venmo": "",
+        "cashapp": "Yomayraliz",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Bd\u2019s Mongolian Grill",
+    "website": "https://www.gomongo.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Maureen Matthews",
+        "paypal": "",
+        "venmo": "maureenmatthews",
+        "cashapp": "",
+        "phoneNumber": "2797"
+      }
+    ]
+  },
+  {
+    "name": "Beachland Ballroom & Tavern",
+    "website": "https://www.beachlandballroom.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Charlie Wilson",
+        "paypal": "cwilson2109",
+        "venmo": "Charlie-Wilson-39",
+        "cashapp": "cwilson2109",
+        "phoneNumber": "6538"
+      }
+    ]
+  },
+  {
+    "name": "Becky's Bar & Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Eric Taylor",
+        "paypal": "porkchoplamf",
+        "venmo": "porkchoplamf",
+        "cashapp": "",
+        "phoneNumber": "8778"
       }
     ]
   },
@@ -99,6 +526,13 @@
         "paypal": "",
         "venmo": "Alyssa-patchin-1",
         "cashapp": ""
+      } ,
+      {
+        "name": "Neil Crawford",
+        "paypal": "",
+        "venmo": "Narflarger",
+        "cashapp": "",
+        "phoneNumber": "8073"
       }
     ]
   },
@@ -112,7 +546,7 @@
         "paypal": "",
         "venmo": "Emilypresson52",
         "cashapp": ""
-      }, 
+      },
       {
         "name": "Jenna Krivonic",
         "paypal": "",
@@ -122,10 +556,164 @@
     ]
   },
   {
+    "name": "Blue Point  Grille",
+    "website": "http://www.bluepointgrille.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jarred Burke",
+        "paypal": "",
+        "venmo": "Jarrobarro",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Kevin Myers",
+        "paypal": "TheIri5hman",
+        "venmo": "The_Iri5man",
+        "cashapp": "Iri5hman",
+        "phoneNumber": "7333"
+      }
+    ]
+  },
+  {
+    "name": "Boiler 65",
+    "website": "https://www.theboiler65.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alejandra Cardona",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Alejjjc",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Bomba Tacos and Rum",
+    "website": "https://bombatacos.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lacey Medlyn",
+        "paypal": "",
+        "venmo": "LaceyMedlyn",
+        "cashapp": "",
+        "phoneNumber": "3403"
+      }
+    ]
+  },
+  {
+    "name": "Boomers",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alexandra Keegan",
+        "paypal": "alexandrakeegan245",
+        "venmo": "",
+        "cashapp": "ACKeegan",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Bourbon Street Barrel Room",
+    "website": "http://www.bourbonstreetbarrelroom.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alexandra Voiers",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "AlexVoiers",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Hanna Bernstein",
+        "paypal": "hannarose225",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Megan Rook",
+        "paypal": "meguncorked",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Brew Kettle",
+    "website": "https://thebrewkettle.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Karen Peddle",
+        "paypal": "",
+        "venmo": "kpedd7",
+        "cashapp": "",
+        "phoneNumber": "9226"
+      }
+    ]
+  },
+  {
+    "name": "Brewnuts",
+    "website": "https://www.brewnutscleveland.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nicole Walters",
+        "paypal": "",
+        "venmo": "Nicole-bobby28",
+        "cashapp": "",
+        "phoneNumber": "6926"
+      }
+    ]
+  },
+  {
+    "name": "Brother's Lounge",
+    "website": "http://brotherslounge.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nicole Yosick",
+        "paypal": "nicolette1980",
+        "venmo": "nyosick1980",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Bob Evans",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kelley Dea",
+        "paypal": "",
+        "venmo": "Kelley-Dea",
+        "cashapp": "",
+        "phoneNumber": "0782"
+      }
+    ]
+  },
+  {
     "name": "Buffalo Wild Wings",
     "website": "https://www.buffalowildwings.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Brian Blevins",
+        "paypal": "shortnessinc",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
       {
         "name": "Jamie Piskach",
         "paypal": "Piskachjamie",
@@ -135,15 +723,197 @@
     ]
   },
   {
+    "name": "Burntwood Tavern",
+    "website": "https://www.burntwoodtavern.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Derek Richards",
+        "paypal": "Drock1377",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Dijon Kinney",
+        "paypal": "",
+        "venmo": "Dijon-Kinney",
+        "cashapp": "$DijonKinney",
+        "phoneNumber": "0079"
+      } ,
+      {
+        "name": "Lindy Monteiro",
+        "paypal": "",
+        "venmo": "Lindy-Monteiro",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Nicole Westman",
+        "paypal": "nnwestman",
+        "venmo": "nnwestman",
+        "cashapp": "nnwestman",
+        "phoneNumber": "4629"
+      },
+      {
+        "name": "Sarah Stepnicka",
+        "paypal": "",
+        "venmo": "lilsarahdarah",
+        "cashapp": "",
+        "phoneNumber": "1001"
+      } ,
+      {
+        "name": "Tracy Cline",
+        "paypal": "",
+        "venmo": "TracyLov3",
+        "cashapp": "",
+        "phoneNumber": "4559"
+      }
+    ]
+  },
+  {
+    "name": "Capital Grille",
+    "website": "https://www.thecapitalgrille.com",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jaclyn Tymoszczuk",
+        "paypal": "",
+        "venmo": "A Jackie-tymo",
+        "cashapp": "Jackie0695",
+        "phoneNumber": "4042"
+      }
+    ]
+  },
+  {
+    "name": "Carney's Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Tiffany Lee",
+        "paypal": "",
+        "venmo": "Tiffany-Lee-44",
+        "cashapp": "",
+        "phoneNumber": "3835"
+      }
+    ]
+  },
+  {
+    "name": "Cava Tapas & Wine Bar",
+    "website": "https://www.cavatapaswinebar.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Allison Napolitan",
+        "paypal": "",
+        "venmo": "Allison-Napolitan",
+        "cashapp": "",
+        "phoneNumber": "0133"
+      }
+    ]
+  },
+  {
     "name": "Chagrin Valley Country Club",
     "website": "https://www.facebook.com/ChagrinValleyCountryClub/",
     "note": "",
     "workers": [
       {
+        "name": "Jade Faison",
+        "paypal": "jademet7",
+        "venmo": "Jade-Faison",
+        "cashapp": "JadeFaison",
+        "phoneNumber": "2370"
+      },
+      {
         "name": "Patrick Tregoning",
         "paypal": "",
         "venmo": "Patrick-Tregoning",
         "cashapp": "PatrickStarr1"
+      }
+    ]
+  },
+  {
+    "name": "Check Please Cafe",
+    "website": "https://www.facebook.com/checkpleasecafe/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jessica Goe",
+        "paypal": "roxysmomma1120",
+        "venmo": "Jessica-Goe-1",
+        "cashapp": "",
+        "phoneNumber": "0715"
+      }
+    ]
+  },
+  {
+    "name": "Chocolate Bar Cleveland",
+    "website": "https://www.thechocolatebar.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Shawn Freeman",
+        "paypal": "Sfreeman1916",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Cibreo",
+    "website": "https://thedriftwoodgroup.com/restaurants/cibreo/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jacquise Donald",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "jajani",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "City Tap",
+    "website": "https://www.citytapcleveland.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michelle Young",
+        "paypal": "michelleshoes",
+        "venmo": "Michelle-Young-74",
+        "cashapp": "",
+        "phoneNumber": "3522"
+      }
+    ]
+  },
+  {
+    "name": "Clay Street Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Abbey Wilson",
+        "paypal": "",
+        "venmo": "Abbey-Wilson-19",
+        "cashapp": "",
+        "phoneNumber": "2629"
+      }
+    ]
+  },
+  {
+    "name": "Cleveland Bagel",
+    "website": "http://clebagelco.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kim Corrigan",
+        "paypal": "kimcorrigan",
+        "venmo": "kimberlyscorrigan",
+        "cashapp": "",
+        "phoneNumber": "2651"
       }
     ]
   },
@@ -166,21 +936,84 @@
     ]
   },
   {
+    "name": "Cookies 10 Pin",
+    "website": "http://cookies10pin.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Chris Vazquez",
+        "paypal": "CV429",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Penny Pedraza",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "prettypenny0302",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Cooper\u2019s Hawk Winery & Restaurant",
+    "website": "https://chwinery.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Blair Watson",
+        "paypal": "blairwatson214",
+        "venmo": "Blair-watson-9",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Corkscrew Saloon",
+    "website": "https://thecorkscrewsaloon.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Gwen Morgan",
+        "paypal": "4llegory",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
     "name": "Corky\u2019s Place",
     "website": "https://www.facebook.com/Corkys-Place-115185908504060/",
     "note": "",
     "workers": [
       {
+        "name": "Andrea Vann",
+        "paypal": "",
+        "venmo": "avann23",
+        "cashapp": "#Vanndrea",
+        "phoneNumber": ""
+      } ,
+      {
         "name": "Nikai Boyarko",
         "paypal": "",
         "venmo": "NikaiBoyarko",
         "cashapp": ""
+      } ,
+      {
+        "name": "Spencier Ciaralli",
+        "paypal": "",
+        "venmo": "The_Spencier",
+        "cashapp": "",
+        "phoneNumber": ""
       }
     ]
   },
   {
     "name": "Cornerstone Brewing Company",
-    "website": "",
+    "website": "http://www.cornerstonebrewing.com/",
     "note": "",
     "workers": [
       {
@@ -188,6 +1021,34 @@
         "paypal": "ZachjHarley",
         "venmo": "",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Cory\u2019s Place",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jorden Elliott",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "gorgonblue",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Craft Collective",
+    "website": "https://craft-collective.co/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kenneth Budney Jr",
+        "paypal": "",
+        "venmo": "kenneth-budneyjr",
+        "cashapp": "",
+        "phoneNumber": "0145"
       }
     ]
   },
@@ -209,6 +1070,13 @@
     "website": "http://www.creeksiderestaurant.com/",
     "workers": [
       {
+        "name": "Antonia Tokatyan",
+        "paypal": "ToniTokatyan",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
         "name": "Heidi Baker",
         "paypal": "",
         "venmo": "Heidi-baker-31",
@@ -221,10 +1089,45 @@
         "cashapp": ""
       },
       {
+        "name": "Nicole Lewis",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Coley0619",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Stacey Zweifel",
+        "paypal": "",
+        "venmo": "Stacey-zweifel",
+        "cashapp": "",
+        "phoneNumber": "6470"
+      } ,
+      {
+        "name": "Tess Casper",
+        "paypal": "",
+        "venmo": "Tess-Casper-2",
+        "cashapp": "",
+        "phoneNumber": "6431"
+      },
+      {
         "name": "Trish Ptak",
         "paypal": "trishptak",
         "venmo": "",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Dante",
+    "website": "https://danteboccuzzi.com/dante-tremont/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Tinnie Hascher",
+        "paypal": "",
+        "venmo": "tinnie-hascher",
+        "cashapp": "",
+        "phoneNumber": ""
       }
     ]
   },
@@ -257,11 +1160,25 @@
     "website": "https://deagans.com/",
     "workers": [
       {
+        "name": "Abby Sullivan",
+        "paypal": "",
+        "venmo": "abbsul",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
         "name": "Andrea Tsiros",
         "paypal": "",
         "venmo": "Andrea-Tsiros",
         "cashapp": ""
       },
+      {
+        "name": "Clara Florian",
+        "paypal": "",
+        "venmo": "aralc",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
       {
         "name": "Jamie Garrett",
         "paypal": "",
@@ -273,6 +1190,223 @@
         "paypal": "",
         "venmo": "Laura-Fischer-26",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Diamonds",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Courtney Cooper",
+        "paypal": "Cooper303",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Don's Lighthouse Grille",
+    "website": "http://www.donslighthouse.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Joseph Sandy",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "$JoeSandy277",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "El Carnicero",
+    "website": "http://elcarnicerolakewood.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kara Dement",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Karadement21",
+        "phoneNumber": "8092"
+      }
+    ]
+  },
+  {
+    "name": "FWD Nightclub",
+    "website": "https://www.fwdnightclub.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brittany Buddie",
+        "paypal": "",
+        "venmo": "Brittany-Buddie",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Famous Dave's Bqq",
+    "website": "https://www.famousdaves.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "David Simbeck",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "DavidAllen93",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Destynie Ross",
+        "paypal": "",
+        "venmo": "Destynie-Ross",
+        "cashapp": "",
+        "phoneNumber": "2999"
+      }
+    ]
+  },
+  {
+    "name": "Fat Head's Brewery",
+    "website": "https://fatheads.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jamie Hall",
+        "paypal": "",
+        "venmo": "Jamie-HallKlann",
+        "cashapp": "",
+        "phoneNumber": "0999"
+      } ,
+      {
+        "name": "Mark Zitney",
+        "paypal": "",
+        "venmo": "Mark-Zitney",
+        "cashapp": "",
+        "phoneNumber": "6860"
+      } ,
+      {
+        "name": "Quinn Seemann",
+        "paypal": "",
+        "venmo": "Quinn-Seemann",
+        "cashapp": "QuinnSeemann",
+        "phoneNumber": "5377"
+      } ,
+      {
+        "name": "Trent Musal",
+        "paypal": "tmusal456",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Fiona\u2019s Coffee Bar & Bakery",
+    "website": "http://fionascoffeebar.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ebony Williams",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Ebonywilliams26",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Firehouse Bar and Grille",
+    "website": "http://www.firehousegrilleandpub.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Leslie Pfeiffer",
+        "paypal": "",
+        "venmo": "lesliepfeiffer",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Samantha Pisco",
+        "paypal": "",
+        "venmo": "Samantha-Pisco",
+        "cashapp": "",
+        "phoneNumber": "1063"
+      }
+    ]
+  },
+  {
+    "name": "Fire House Sports Bar and Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Allie Maciaszek",
+        "paypal": "alliemaciaszek",
+        "venmo": "Allie-maciaszek",
+        "cashapp": "",
+        "phoneNumber": "6708"
+      },
+      {
+        "name": "Brianne Pliske",
+        "paypal": "",
+        "venmo": "Brianne-Pliske",
+        "cashapp": "",
+        "phoneNumber": "7408"
+      },
+      {
+        "name": "Kathy Eichler",
+        "paypal": "kathyeichler",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": "0636"
+      }
+    ]
+  },
+  {
+    "name": "First Stop Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Laura Hienton",
+        "paypal": "",
+        "venmo": "laurahienton",
+        "cashapp": "laurahienton",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Flannery's Pub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jennifer Byrne",
+        "paypal": "",
+        "venmo": "Jennifer-Byrne-24",
+        "cashapp": "JAB2424",
+        "phoneNumber": "2852"
+      }
+    ]
+  },
+  {
+    "name": "Flat Iron",
+    "website": "https://www.flatironcafe.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Chelsea Seufert",
+        "paypal": "",
+        "venmo": "Chelsea-Seufert-1",
+        "cashapp": "",
+        "phoneNumber": ""
       }
     ]
   },
@@ -290,6 +1424,139 @@
     ]
   },
   {
+    "name": "Flour Restaurant",
+    "website": "https://flourrestaurant.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Noelle Auman",
+        "paypal": "",
+        "venmo": "Noelle-Auman",
+        "cashapp": "",
+        "phoneNumber": "8406"
+      },
+      {
+        "name": "Tina Nobile",
+        "paypal": "tinafay531",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Forage Public House",
+    "website": "http://foragepublichouse.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Danielle Blanc",
+        "paypal": "",
+        "venmo": "daniblanc",
+        "cashapp": "",
+        "phoneNumber": "1038"
+      }
+    ]
+  },
+  {
+    "name": "Forest City Brewery",
+    "website": "http://www.forestcitybrewery.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ruby Thomas",
+        "paypal": "",
+        "venmo": "Ruby-Thomas-2",
+        "cashapp": "",
+        "phoneNumber": "2083"
+      }
+    ]
+  },
+  {
+    "name": "Foundry Social",
+    "website": "https://thefoundrysocial.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "David Jersan Jr",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "DJJ1972",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Galloway Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Hockenbery",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "ASHLEYHOCKENBERY",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Garage Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Daniela Hartman",
+        "paypal": "DanielaHartman",
+        "venmo": "Daniela-Hartman",
+        "cashapp": "DanielaHartman",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Georgetown",
+    "website": "https://www.georgetownrestaurant.net",
+    "note": "",
+    "workers": [
+      {
+        "name": "Asmaa Wadi",
+        "paypal": "",
+        "venmo": "Asmaa-wadi",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Geraci's Restaurant",
+    "website": "https://www.geracisrestaurant.com/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Samantha Sube",
+        "paypal": "",
+        "venmo": "sammsube",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Ginko",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Joey Sprague",
+        "paypal": "",
+        "venmo": "NebulaKiing",
+        "cashapp": "NebulaKiing",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
     "name": "Gypsy Beans & Baking Co",
     "website": "https://www.facebook.com/GypsyBeans/",
     "note": "",
@@ -303,6 +1570,97 @@
     ]
   },
   {
+    "name": "Harbor Inn",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Greg Kamola",
+        "paypal": "",
+        "venmo": "Greg-Kamola",
+        "cashapp": "",
+        "phoneNumber": "1417"
+      },
+      {
+        "name": "Lauren Fiffick",
+        "paypal": "",
+        "venmo": "Lauren-Fiffick",
+        "cashapp": "lfiffick",
+        "phoneNumber": "1055"
+      }
+    ]
+  },
+  {
+    "name": "Harry Buffalo",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jill McCarty",
+        "paypal": "",
+        "venmo": "code?user_id=296921204994867250",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Kim Wolfe",
+        "paypal": "Kwolfe69",
+        "venmo": "Kimberly-Wolfe-2",
+        "cashapp": "",
+        "phoneNumber": "0647"
+      } ,
+      {
+        "name": "Michaela Kenny",
+        "paypal": "",
+        "venmo": "Michaela-Kenny",
+        "cashapp": "",
+        "phoneNumber": "0195"
+      }
+    ]
+  },
+  {
+    "name": "Hatfield's Goode Grub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Gloria Diaz",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "gloworm11",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Highlander",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Becky Mrosko",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": "1287"
+      }
+    ]
+  },
+  {
+    "name": "Hob Nob",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lisa Riley",
+        "paypal": "lisam1302",
+        "venmo": "Lisa-Riley2050",
+        "cashapp": "Lisam1302",
+        "phoneNumber": "4744"
+      }
+    ]
+  },
+  {
     "name": "Hooley House",
     "website": "https://www.1funpub.com/",
     "workers": [
@@ -311,6 +1669,147 @@
         "paypal": "Zeekzombie",
         "venmo": "MandalorianZeek",
         "cashapp": ""
+      },
+      {
+        "name": "Carrie Orlando",
+        "paypal": "",
+        "venmo": "Carrie-Orlando",
+        "cashapp": "",
+        "phoneNumber": "7494"
+      }
+    ]
+  },
+  {
+    "name": "House of Blues",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michelle Nigro",
+        "paypal": "",
+        "venmo": "MichNigro",
+        "cashapp": "",
+        "phoneNumber": "7486"
+      },
+      {
+        "name": "Sarah Sweeten",
+        "paypal": "",
+        "venmo": "SarahSweeten20",
+        "cashapp": "",
+        "phoneNumber": "5297"
+      },
+      {
+        "name": "Tiyana howard",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "choclatluv",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Hyde Park Steakhouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Emilie Embrescia",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "emilieembrescia",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Jennifer's Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Cheri Wanicki",
+        "paypal": "",
+        "venmo": "Cheri641",
+        "cashapp": "",
+        "phoneNumber": "7488"
+      } ,
+      {
+        "name": "Skye",
+        "paypal": "skye1222",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+
+  {
+    "name": "Jerzees",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kaleigh Riddell",
+        "paypal": "",
+        "venmo": "Kaleigh-Riddell",
+        "cashapp": "",
+        "phoneNumber": "8830"
+      }
+    ]
+  },
+  {
+    "name": "Jo Jo Carloni\u2019s",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lauren Lund",
+        "paypal": "",
+        "venmo": "lauren-Lund-2",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "John Christ Winery",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Hanna Hujo",
+        "paypal": "hellohann",
+        "venmo": "Hanna-Hujo",
+        "cashapp": "",
+        "phoneNumber": "9650"
+      }
+    ]
+  },
+  {
+    "name": "Julie Eifel",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Julie Eifel",
+        "paypal": "",
+        "venmo": "Julie-Eifel",
+        "cashapp": "",
+        "phoneNumber": "3108"
+      }
+    ]
+  },
+  {
+    "name": "Kozar\u2019s Wood Fired Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda Gindlesperger",
+        "paypal": "",
+        "venmo": "Amanda-Gindlesperger",
+        "cashapp": "",
+        "phoneNumber": "9446"
       }
     ]
   },
@@ -320,6 +1819,13 @@
     "note": "",
     "workers": [
       {
+        "name": "Ben Liu",
+        "paypal": "BenLiu325",
+        "venmo": "Ben-Liu-3",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
         "name": "Claudia Schneider",
         "paypal": "claw93",
         "venmo": "claw93",
@@ -327,6 +1833,7 @@
       }
     ]
   },
+
   {
     "name": "Lakewood Country Club",
     "website": "https://www.lakewoodcountryclub.com/",
@@ -341,21 +1848,98 @@
     ]
   },
   {
-    "name": "Le Petite Triangle",
-    "website": "http://lepetittriangle.com/",
+    "name": "Le Petit Triangle",
+    "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Bee Brown",
+        "paypal": "",
+        "venmo": "bee-brown",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
       {
         "name": "Cali Jacobs",
         "paypal": "",
         "venmo": "cali-jacobs",
         "cashapp": ""
+      },
+      {
+        "name": "Connor Toomey",
+        "paypal": "",
+        "venmo": "Connor-Toomey-3",
+        "cashapp": "",
+        "phoneNumber": "6772"
       } ,
       {
         "name": "Edie Smith",
         "paypal": "",
         "venmo": "Edith-Smith-5",
         "cashapp": ""
+      }  ,
+      {
+        "name": "Shannon Metelko",
+        "paypal": "",
+        "venmo": "Shannon-Metelko",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Lindey's Lakehouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Samantha Lias",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "samlias94",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Stacy Karpel",
+        "paypal": "",
+        "venmo": "Stacy-Kehl-1",
+        "cashapp": "",
+        "phoneNumber": "3924"
+      }
+    ]
+  },
+  {
+    "name": "Lizardville",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kat Szafraniec",
+        "paypal": "",
+        "venmo": "Kat-Szafraniec",
+        "cashapp": "",
+        "phoneNumber": "4995"
+      } ,
+      {
+        "name": "Stephen Cline",
+        "paypal": "",
+        "venmo": "stephengcline",
+        "cashapp": "",
+        "phoneNumber": "2515"
+      }
+    ]
+  },
+  {
+    "name": "Lola Bistro",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michelle Haller",
+        "paypal": "",
+        "venmo": "Michelle-Haller-10",
+        "cashapp": "",
+        "phoneNumber": "3157"
       }
     ]
   },
@@ -373,6 +1957,224 @@
     ]
   },
   {
+    "name": "Longhorn Steakhouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jennifer McGillivray",
+        "paypal": "steakslinger",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Makayla Kristen Wilkinson",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "makwilkinson",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Nikki Reid",
+        "paypal": "",
+        "venmo": "Nikki-Reid-3",
+        "cashapp": "",
+        "phoneNumber": "2553"
+      }
+    ]
+  },
+  {
+    "name": "Luca Italian Cuisine",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "David Long",
+        "paypal": "",
+        "venmo": "dslong1",
+        "cashapp": "",
+        "phoneNumber": "6847"
+      }
+    ]
+  },
+  {
+    "name": "Luxe",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Hetman",
+        "paypal": "",
+        "venmo": "Ashley-Hetman",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Daniel Stavarz",
+        "paypal": "",
+        "venmo": "stavarz",
+        "cashapp": "",
+        "phoneNumber": "3169"
+      } ,
+      {
+        "name": "Tara Nelson",
+        "paypal": "tara1010",
+        "venmo": "TeaNelly10",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+
+  {
+    "name": "L\u2019albatros",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michelle Guidry",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Michelleguidrygray",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "M Italian",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Chloe Soltis",
+        "paypal": "chloesol",
+        "venmo": "",
+        "cashapp": "chloesoltis",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Deanna Bowdish",
+        "paypal": "",
+        "venmo": "Deanna-Bowdish",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Emily Rogers",
+        "paypal": "",
+        "venmo": "Emily-Rogers-195",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Kelly Parcell Cobb",
+        "paypal": "kellyparcellcobb",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Kevin OHanlon",
+        "paypal": "",
+        "venmo": "Kohanlo1",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Liz Church",
+        "paypal": "clevelandcouponer",
+        "venmo": "LizChurch",
+        "cashapp": "lizAchurch",
+        "phoneNumber": "4331"
+      }
+    ]
+  },
+  {
+    "name": "Macaroni Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Erin Hoffman",
+        "paypal": "ehoffman85",
+        "venmo": "erin-Hoffman-55",
+        "cashapp": "",
+        "phoneNumber": "6933"
+      }
+    ]
+  },
+  {
+    "name": "Mahall\u2019s",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Adriana Mundy",
+        "paypal": "",
+        "venmo": "Adriana-Mundy",
+        "cashapp": "",
+        "phoneNumber": "2882"
+      },
+      {
+        "name": "Alyse Peterson",
+        "paypal": "",
+        "venmo": "Alyse-Peterson-1",
+        "cashapp": "",
+        "phoneNumber": "5081"
+      },
+      {
+        "name": "Cassie Trainer",
+        "paypal": "",
+        "venmo": "Cassie-Trainer",
+        "cashapp": "CassieTrainer",
+        "phoneNumber": "4509"
+      },
+      {
+        "name": "John Dominick Cupple",
+        "paypal": "",
+        "venmo": "JD-Cupple",
+        "cashapp": "$jdcupple",
+        "phoneNumber": "1538"
+      },
+      {
+        "name": "Nate Melaragno",
+        "paypal": "nathanmelaragno",
+        "venmo": "Nathan-Melaragno",
+        "cashapp": "",
+        "phoneNumber": "5516"
+      }
+    ]
+  },
+  {
+    "name": "Main Street Grille",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Susan Steele",
+        "paypal": "susansteele95?locale.x=en_US",
+        "venmo": "Susan-Steele-19",
+        "cashapp": "$usansteele",
+        "phoneNumber": "1556"
+      }
+    ]
+  },
+  {
+    "name": "Mama Roberto's",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Karen Szalma",
+        "paypal": "",
+        "venmo": "Karen Szalma",
+        "cashapp": "",
+        "phoneNumber": "4716"
+      }
+    ]
+  },
+  {
     "name": "Manchester Tavern",
     "website": "https://www.facebook.com/Manchester-Tavern-1980997118845119",
     "note": "",
@@ -386,6 +2188,97 @@
     ]
   },
   {
+    "name": "Maproom",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Sara Allooh",
+        "paypal": "",
+        "venmo": "sara-allooh",
+        "cashapp": "SaraAllooh",
+        "phoneNumber": "1880"
+      }
+    ]
+  },
+  {
+    "name": "Marble Room Steaks and Raw Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Reginald Wilson",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "reggie2loud",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Market, Rocky River",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Elizabeth Swartz",
+        "paypal": "",
+        "venmo": "eswartz04",
+        "cashapp": "eswartz04",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Masthead Brewing Co.",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Areej Alkadhi",
+        "paypal": "",
+        "venmo": "notareej",
+        "cashapp": "jeerajeera",
+        "phoneNumber": "5588"
+      },
+      {
+        "name": "Kyle Barnett",
+        "paypal": "",
+        "venmo": "kybarnett",
+        "cashapp": "",
+        "phoneNumber": "1405"
+      }
+    ]
+  },
+  {
+    "name": "McG\u2019s Pub N Grub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Gribble",
+        "paypal": "",
+        "venmo": "ashgribs",
+        "cashapp": "",
+        "phoneNumber": "2233"
+      }
+    ]
+  },
+  {
+    "name": "Melt Bar and Grille",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Moira Papa",
+        "paypal": "",
+        "venmo": "moirpa",
+        "cashapp": "",
+        "phoneNumber": "7743"
+      }
+    ]
+  },
+  {
     "name": "Merry Arts Pub and Grille",
     "website": "https://merryartspubandgrille.com/",
     "note": "",
@@ -395,7 +2288,28 @@
         "paypal": "",
         "venmo": "Apopik1",
         "cashapp": ""
-      } ,
+      },
+      {
+        "name": "Angelica Pierce",
+        "paypal": "",
+        "venmo": "Angelica-Pierce",
+        "cashapp": "$gelpierce",
+        "phoneNumber": "3332"
+      },
+      {
+        {
+          "name": "Ashley Corrigan",
+          "paypal": "",
+          "venmo": "Ashxcorr",
+          "cashapp": "",
+          "phoneNumber": "8573"
+        } ,
+        "name": "Dani Burke",
+        "paypal": "",
+        "venmo": "Dani-Burke-2",
+        "cashapp": "",
+        "phoneNumber": "9869"
+      },
       {
         "name": "Katie Martin",
         "paypal": "",
@@ -407,6 +2321,34 @@
         "paypal": "",
         "venmo": "Stephanie-Hornacky",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Metropolitan at the 9",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "David Zimmer",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "zimmerd1987",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Michealangelos Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Cassidy Leduc",
+        "paypal": "",
+        "venmo": "Cassi-leduc",
+        "cashapp": "",
+        "phoneNumber": ""
       }
     ]
   },
@@ -424,6 +2366,104 @@
     ]
   },
   {
+    "name": "Moosehead Bar and Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jakob Papp",
+        "paypal": "",
+        "venmo": "Jakob-Papp",
+        "cashapp": "",
+        "phoneNumber": "8330"
+      }
+    ]
+  },
+  {
+    "name": "Morton\u2019s the Steakhouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michael Flaherty",
+        "paypal": "",
+        "venmo": "thedyingbirds",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Mullens on Madison",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amy K Dhillon",
+        "paypal": "",
+        "venmo": "Amy-Dhillon-2",
+        "cashapp": "",
+        "phoneNumber": "4478"
+      } ,
+      {
+        "name": "Cori Ellison",
+        "paypal": "",
+        "venmo": "Cori-Ellison-1",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Music Box Supper Club",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jordan Goens",
+        "paypal": "",
+        "venmo": "Jordan-Goens",
+        "cashapp": "JordanGoens",
+        "phoneNumber": "7910"
+      },
+      {
+        "name": "Kyle Wall",
+        "paypal": "",
+        "venmo": "kyle-wall-8",
+        "cashapp": "Evolvere",
+        "phoneNumber": "1807"
+      } ,
+      {
+        "name": "Nina Swerdlow",
+        "paypal": "",
+        "venmo": "Nina Swerdlow",
+        "cashapp": "",
+        "phoneNumber": "2933"
+      }
+    ]
+  },
+  {
+    "name": "Ninja City",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "John Madden",
+        "paypal": "",
+        "venmo": "John-Madden-51",
+        "cashapp": "",
+        "phoneNumber": "0556"
+      },
+      {
+        "name": "Kat Shy",
+        "paypal": "KatherineBi",
+        "venmo": "katshy88",
+        "cashapp": "",
+        "phoneNumber": "9502"
+      }
+    ]
+  },
+  {
     "name": "Ninja City Kitchen and Bar",
     "website": "https://ninjacity.com/",
     "note": "",
@@ -433,6 +2473,34 @@
         "paypal": "",
         "venmo": "Jennie-Demeraski",
         "cashapp": ""
+      },
+      {
+        "name": "Katherine Shy",
+        "paypal": "",
+        "venmo": "katshy88",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Noble Beast",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Holmes",
+        "paypal": "",
+        "venmo": "trashbaggy",
+        "cashapp": "trashmom",
+        "phoneNumber": "3785"
+      } ,
+      {
+        "name": "John Winzig",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": "6694"
       }
     ]
   },
@@ -442,10 +2510,108 @@
     "note": "",
     "workers": [
       {
+        "name": "Briana Lemmerbrock",
+        "paypal": "",
+        "venmo": "Briana-Simmons-5",
+        "cashapp": "",
+        "phoneNumber": "9763"
+      } ,
+      {
         "name": "Kayla Ujczo",
         "paypal": "",
         "venmo": "Kayla-ujczo",
         "cashapp": ""
+      } ,
+      {
+        "name": "Kyle Kromar",
+        "paypal": "",
+        "venmo": "Kyle-Kromar",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Michael Fenner",
+        "paypal": "",
+        "venmo": "mfenner24",
+        "cashapp": "",
+        "phoneNumber": "6912"
+      }
+    ]
+  },
+  {
+    "name": "ODonnel's Pub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Natalie Seemann",
+        "paypal": "",
+        "venmo": "Natalie-Seemann",
+        "cashapp": "",
+        "phoneNumber": "9717"
+      }
+    ]
+  },
+  {
+    "name": "Oak Barrel",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Annette E.",
+        "paypal": "",
+        "venmo": "anness",
+        "cashapp": "",
+        "phoneNumber": "1347"
+      }
+    ]
+  },
+  {
+    "name": "Olive Garden",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "William Baire",
+        "paypal": "WilliamBaire347",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Otis's Cruise Inn",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jessica Dreger",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "jdreger88",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Outback Steakhouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Sager",
+        "paypal": "",
+        "venmo": "AshleySager",
+        "cashapp": "",
+        "phoneNumber": "9562"
+      },
+      {
+        "name": "Daniel Butcher",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "drayb991",
+        "phoneNumber": ""
       }
     ]
   },
@@ -455,10 +2621,248 @@
     "note": "",
     "workers": [
       {
+        "name": "Mike Gibson",
+        "paypal": "",
+        "venmo": "gibson216",
+        "cashapp": "gibson216",
+        "phoneNumber": "7520"
+      },
+      {
+        "name": "Nicole Balogh",
+        "paypal": "",
+        "venmo": "Nicole-Balogh-4",
+        "cashapp": "",
+        "phoneNumber": "9798"
+      } ,
+      {
         "name": "Nicole C",
         "paypal": "",
         "venmo": "Nicole-Cucuzza-2",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Panda Wok",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Libby McGinty",
+        "paypal": "",
+        "venmo": "Libby McGinty",
+        "cashapp": "",
+        "phoneNumber": "2545"
+      },
+      {
+        "name": "Mary Elizabeth McGinty",
+        "paypal": "",
+        "venmo": "Libby McGinty",
+        "cashapp": "",
+        "phoneNumber": "2545"
+      }
+    ]
+  },
+  {
+    "name": "Paninis Bar and Grille Gateway",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brandon Kochis",
+        "paypal": "",
+        "venmo": "Brandon Kochis",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Jen Blaney",
+        "paypal": "jenblaney",
+        "venmo": "",
+        "cashapp": "blayblay23",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Pappadeaux Seafood Kitchen",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jessica Meyer",
+        "paypal": "",
+        "venmo": "JLOVE9476",
+        "cashapp": "Jlove9476",
+        "phoneNumber": "7742"
+      }
+    ]
+  },
+  {
+    "name": "Paradise Island Saloon",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Melissa vaneyk",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "liss925",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Parnell\u2019s Irish Pub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Sara Haber",
+        "paypal": "",
+        "venmo": "Sara-Haber-1",
+        "cashapp": "",
+        "phoneNumber": "3198"
+      }
+    ]
+  },
+  {
+    "name": "Patio Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Cecilia Aguiar",
+        "paypal": "",
+        "venmo": "CAguiar823",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Pearl Road Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jackie Klaczek",
+        "paypal": "Jklaczek",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Perkins Restaurant and Bakery",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nehaya Najjar",
+        "paypal": "",
+        "venmo": "Nehaya-N",
+        "cashapp": "",
+        "phoneNumber": "7536"
+      }
+    ]
+  },
+  {
+    "name": "Peties Family Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amy",
+        "paypal": "AmyFinster",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Pier W",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Gabby Rovito",
+        "paypal": "",
+        "venmo": "Gabby-Rovito",
+        "cashapp": "",
+        "phoneNumber": "9998"
+      }
+    ]
+  },
+  {
+    "name": "Pink Bandana Bakery",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Megan St.John",
+        "paypal": "",
+        "venmo": "Megan-Stjohn-0",
+        "cashapp": "",
+        "phoneNumber": "1833"
+      }
+    ]
+  },
+  {
+    "name": "Pizza Pan",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Talia Gross",
+        "paypal": "",
+        "venmo": "Talia-Gross",
+        "cashapp": "taliagross23",
+        "phoneNumber": "9925"
+      }
+    ]
+  },
+  {
+    "name": "Pok\u00e9 Fresh",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Domonique Murray",
+        "paypal": "CosmicMermaid",
+        "venmo": "",
+        "cashapp": "TheCosmicMermaid",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Pounders Bar and Grille",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lisa Toler",
+        "paypal": "",
+        "venmo": "Lisa-Toler-2",
+        "cashapp": "",
+        "phoneNumber": "2592"
+      }
+    ]
+  },
+  {
+    "name": "Punch Bowl Social Cleveland",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michael Sumlin",
+        "paypal": "junelikemike",
+        "venmo": "",
+        "cashapp": "$MikealJune320",
+        "phoneNumber": ""
       }
     ]
   },
@@ -468,10 +2872,129 @@
     "note": "",
     "workers": [
       {
+        "name": "Jessica Strang",
+        "paypal": "",
+        "venmo": "JStrang89",
+        "cashapp": "",
+        "phoneNumber": "5502"
+      } ,
+      {
         "name": "Jocelyn Weston",
         "paypal": "",
         "venmo": "jocelyn-Nicole-2",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Red Robin",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda woods",
+        "paypal": "",
+        "venmo": "Amanda-Woods-128",
+        "cashapp": "",
+        "phoneNumber": "0088"
+      },
+      {
+        "name": "Briana Buemi",
+        "paypal": "BrianaChablis",
+        "venmo": "",
+        "cashapp": "brichablis",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Chris Wagner",
+        "paypal": "",
+        "venmo": "Chris-wagner-42",
+        "cashapp": "",
+        "phoneNumber": "3441"
+      },
+      {
+        "name": "Lynell Oliver",
+        "paypal": "Lynelloliver716@aol.com",
+        "venmo": "Lynell-Oliver",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Red the Steakhouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kristine Leonard",
+        "paypal": "",
+        "venmo": "Kristine-Leonard",
+        "cashapp": "",
+        "phoneNumber": "3200"
+      }
+    ]
+  },
+  {
+    "name": "Republic Food and Drink",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Rachael Toth",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "ricksans",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Rick's Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Sara Hall",
+        "paypal": "sarahall36",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Roosters",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Caroline Bope",
+        "paypal": "",
+        "venmo": "Caroline-Bope",
+        "cashapp": "",
+        "phoneNumber": "5865"
+      },
+      {
+        "name": "Marguerite Marcum",
+        "paypal": "",
+        "venmo": "Marguerite-Marcum",
+        "cashapp": "",
+        "phoneNumber": "1207"
+      }
+    ]
+  },
+  {
+    "name": "Rowley Inn",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kaley Millis",
+        "paypal": "",
+        "venmo": "Kaley-Millis",
+        "cashapp": "",
+        "phoneNumber": "3564"
       }
     ]
   },
@@ -489,6 +3012,83 @@
     ]
   },
   {
+    "name": "Sammy's of Parma",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Missy Jay",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "mjay621",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "SOHO Chicken + Whiskey",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amber Esner",
+        "paypal": "amberesner",
+        "venmo": "amberesner",
+        "cashapp": "",
+        "phoneNumber": "6509"
+      }
+    ]
+  },
+  {
+    "name": "Salt+",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Allison Stavnicky",
+        "paypal": "astavnicky",
+        "venmo": "allison-stavnicky",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Cory Overbeck",
+        "paypal": "",
+        "venmo": "Cory-Overbeck",
+        "cashapp": "",
+        "phoneNumber": "4714"
+      },
+      {
+        "name": "Eliza Dole",
+        "paypal": "",
+        "venmo": "elizadole",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Molly Marvar",
+        "paypal": "",
+        "venmo": "Mmarvar2020",
+        "cashapp": "MMarvar2020",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Sauced Taproom and Kitchen",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jimmy Kilbane",
+        "paypal": "",
+        "venmo": "Jim-Kilbane-69",
+        "cashapp": "",
+        "phoneNumber": "8945"
+      }
+    ]
+  },
+  {
     "name": "Saucy Brew Works",
     "website": "https://www.saucybrewworks.com/",
     "note": "Saucy will match the first $5,000 in tips to their employees.",
@@ -500,10 +3100,24 @@
         "cashapp": ""
       },
       {
+        "name": "Angel Savacool Melendez",
+        "paypal": "",
+        "venmo": "AngelMSavacool",
+        "cashapp": "",
+        "phoneNumber": "7906"
+      },
+      {
         "name": "Angel Savacool Mendez",
         "paypal": "",
         "venmo": "AngelMSavacool",
         "cashapp": ""
+      },
+      {
+        "name": "Angelica Savacool Melendez",
+        "paypal": "lilhoneybun",
+        "venmo": "angelMSavacool",
+        "cashapp": "AngelMSavacool",
+        "phoneNumber": "7906"
       },
       {
         "name": "Annie Kosman",
@@ -596,6 +3210,13 @@
         "cashapp": ""
       },
       {
+        "name": "Sileye",
+        "paypal": "",
+        "venmo": "Sileye-Djigo",
+        "cashapp": "",
+        "phoneNumber": "1494"
+      },
+      {
         "name": "Sileye Djigo",
         "paypal": "",
         "venmo": "Sileye-Djigo",
@@ -612,6 +3233,76 @@
         "paypal": "",
         "venmo": "alexandragraham21",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Scrambler\u2019s",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Maddie Cook",
+        "paypal": "maddiecookkk",
+        "venmo": "maddiecook_",
+        "cashapp": "",
+        "phoneNumber": "5312"
+      },
+      {
+        "name": "Nikki Jerome",
+        "paypal": "NJerome",
+        "venmo": "",
+        "cashapp": "NicJer",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Paige Watkins",
+        "paypal": "",
+        "venmo": "Paige-Watkins-8",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Serenite Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Wendi Vicory",
+        "paypal": "wendivicory",
+        "venmo": "Wendi-Vicory-1",
+        "cashapp": "WendiVicory",
+        "phoneNumber": "3667"
+      }
+    ]
+  },
+  {
+    "name": "Sheraton hotel",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Richard rafail",
+        "paypal": "RichardRafail",
+        "venmo": "",
+        "cashapp": "dikrafail",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Sibling Revelry Brewing",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Anne Carey",
+        "paypal": "AnneCarey2",
+        "venmo": "annecareyy",
+        "cashapp": "nickdige",
+        "phoneNumber": ""
       }
     ]
   },
@@ -642,6 +3333,55 @@
     ]
   },
   {
+    "name": "Society Lounge",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jarod Perry-Richardson",
+        "paypal": "",
+        "venmo": "OdP-R",
+        "cashapp": "",
+        "phoneNumber": "1257"
+      }
+    ]
+  },
+  {
+    "name": "Soho Chicken and Whiskey",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Courtney Langmo",
+        "paypal": "",
+        "venmo": "Courtney-Langmo",
+        "cashapp": "",
+        "phoneNumber": "5211"
+      },
+      {
+        "name": "Sarah Epperson",
+        "paypal": "",
+        "venmo": "Sarah-Epperson-6",
+        "cashapp": "",
+        "phoneNumber": "6013"
+      }
+    ]
+  },
+  {
+    "name": "Southside",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Bronwynn Millisor",
+        "paypal": "",
+        "venmo": "scumbagangelbaby",
+        "cashapp": "",
+        "phoneNumber": "0490"
+      }
+    ]
+  },
+  {
     "name": "Spaghetti Warehouse",
     "website": "http://www.meatballs.com/",
     "note": "",
@@ -651,6 +3391,20 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "Hessen"
+      }
+    ]
+  },
+  {
+    "name": "Spice Kitchen + Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Elizabeth Russell",
+        "paypal": "elizabethannxp",
+        "venmo": "",
+        "cashapp": "littlebarspoon",
+        "phoneNumber": ""
       }
     ]
   },
@@ -668,6 +3422,41 @@
     ]
   },
   {
+    "name": "Starbucks",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Cari Greene",
+        "paypal": "clgreene",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Elizabeth McDermott",
+        "paypal": "",
+        "venmo": "Elizabeth-McDermott-25",
+        "cashapp": "",
+        "phoneNumber": "0300"
+      }
+    ]
+  },
+  {
+    "name": "Stella\u2019s Music Club",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Matthew Jarrell",
+        "paypal": "",
+        "venmo": "Matthew-Jarrell-1",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
     "name": "Summer House",
     "website": "https://summerhousecle.com/",
     "note": "",
@@ -677,9 +3466,17 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "abigailreese03"
+      } ,
+      {
+        "name": "Kayla Ujczo",
+        "paypal": "",
+        "venmo": "Kayla-Ujczo",
+        "cashapp": "",
+        "phoneNumber": "8521"
       }
     ]
   },
+
   {
     "name": "Sung's House",
     "website": "http://www.sungshouse.com/",
@@ -701,14 +3498,15 @@
         "name": "Beth Watkins",
         "paypal": "",
         "venmo": "Beth-Watkins-17",
-        "cashapp": ""
-      },
+        "cashapp": "",
+        "phoneNumber": "7382"
+      }
       {
         "name": "Jamie Kaib",
         "paypal": "",
         "venmo": "jamie13",
         "cashapp": ""
-      } ,
+      },
       {
         "name": "Julie Wilson",
         "paypal": "",
@@ -724,6 +3522,279 @@
     ]
   },
   {
+    "name": "The 1761 Old Mill Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jared Rowland",
+        "paypal": "",
+        "venmo": "jared-rowland -3",
+        "cashapp": "",
+        "phoneNumber": "5241"
+      }
+    ]
+  },
+  {
+    "name": "The Agora",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Rachel Lynch",
+        "paypal": "rachielynch",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Avenue Taphouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Bradley Kaczmarski",
+        "paypal": "",
+        "venmo": "bradleykaczmarski",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Corner Alley",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Elizabeth Flood",
+        "paypal": "",
+        "venmo": "Elizabeth-Flood-11",
+        "cashapp": "",
+        "phoneNumber": "2837"
+      },
+      {
+        "name": "Zach Hutnyan",
+        "paypal": "",
+        "venmo": "ZacharyHutnyan",
+        "cashapp": "ZHut1015",
+        "phoneNumber": "6319"
+      } ,
+      {
+        "name": "Megan Murphy",
+        "paypal": "",
+        "venmo": "Samhainbabe",
+        "cashapp": "Samhainbabe",
+        "phoneNumber": "9198"
+      }
+    ]
+  },
+  {
+    "name": "The Foundry Kitchen and Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Gwendolyn A Just",
+        "paypal": "",
+        "venmo": "Wendy-Just",
+        "cashapp": "",
+        "phoneNumber": "9557"
+      }
+    ]
+  },
+  {
+    "name": "The Hawk",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Robert Uhoda",
+        "paypal": "",
+        "venmo": "Robert-Uhoda",
+        "cashapp": "",
+        "phoneNumber": "3438"
+      }
+    ]
+  },
+  {
+    "name": "The Highlander Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Sarah Difrancesco",
+        "paypal": "",
+        "venmo": "Sarah88304",
+        "cashapp": "",
+        "phoneNumber": "3509"
+      }
+    ]
+  },
+  {
+    "name": "The Islander Bar and Grille",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kala Humphrey",
+        "paypal": "khumphrey19",
+        "venmo": "kala-humphrey",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Plum",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Taylor Paletta",
+        "paypal": "",
+        "venmo": "Taylor-Petunia",
+        "cashapp": "taylorpaletta",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Pub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Eve Hart",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Evelhart",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Rowley Inn",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Misty Pachta",
+        "paypal": "",
+        "venmo": "Misty-Pachta",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Rusty Barrel",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alison Brock",
+        "paypal": "",
+        "venmo": "ali_eighty8 (7639)",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Southside",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Antigone Cupach",
+        "paypal": "",
+        "venmo": "Antigone-Brianna",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "The Treehouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kira Walker",
+        "paypal": "kirawalker415",
+        "venmo": "kirawalker415",
+        "cashapp": "",
+        "phoneNumber": "4585"
+      }
+    ]
+  },
+  {
+    "name": "The Winking Lizard",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Christopher Hoskins",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "babytoph",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Emily Stein",
+        "paypal": "",
+        "venmo": "Emily-Stein-30",
+        "cashapp": "estein1010",
+        "phoneNumber": "4392"
+      } ,
+      {
+        "name": "Morgan Puthoff",
+        "paypal": "MorganPuthoff11",
+        "venmo": "morganwilliams",
+        "cashapp": "",
+        "phoneNumber": "5216"
+      } ,
+      {
+        "name": "Rozalyn Bilek",
+        "paypal": "",
+        "venmo": "Rozalyn-Bilek",
+        "cashapp": "",
+        "phoneNumber": "6440"
+      }
+    ]
+  },
+  {
+    "name": "The Wright Place Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda Barber",
+        "paypal": "amandabarber17",
+        "venmo": "amandabarber17",
+        "cashapp": "",
+        "phoneNumber": "6349"
+      }
+    ]
+  },
+  {
+    "name": "Thyme Table",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Chrissy Wallick",
+        "paypal": "",
+        "venmo": "Christina-Wallick",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
     "name": "Tomato Grill (Hudson)",
     "website": "http://www.tomatogrill.com",
     "note": "",
@@ -733,6 +3804,104 @@
         "paypal": "dvonalt",
         "venmo": "",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "TopGolf Cleveland",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Nero",
+        "paypal": "",
+        "venmo": "AshleyNero",
+        "cashapp": "",
+        "phoneNumber": "4650"
+      },
+      {
+        "name": "Janay Washington",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Janay1",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Jennifer Holahan",
+        "paypal": "",
+        "venmo": "Jenn-Holahan",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Madison Talboo",
+        "paypal": "",
+        "venmo": "Maddie-Talboo",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Nora Eaton",
+        "paypal": "",
+        "venmo": "Nora-Eaton-1",
+        "cashapp": "",
+        "phoneNumber": "2249"
+      } ,
+      {
+        "name": "Robert Fenbers",
+        "paypal": "",
+        "venmo": "Robert-Fenbers",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Toths Too",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Dan Ryman",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Danryman",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Treehouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda Huber",
+        "paypal": "",
+        "venmo": "thebatsquirrel",
+        "cashapp": "",
+        "phoneNumber": "2630"
+      }
+    ]
+  },
+  {
+    "name": "Tremont Taphouse",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Bailey",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "abailey721",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Lisa Gehringer",
+        "paypal": "",
+        "venmo": "Lisa-Gehringer",
+        "cashapp": "",
+        "phoneNumber": "6855"
       }
     ]
   },
@@ -751,18 +3920,109 @@
         "paypal": "Acolonie",
         "venmo": "Angelique Colonie",
         "cashapp": ""
-      } ,
+      },
+      {
+        "name": "Megan Mccann",
+        "paypal": "",
+        "venmo": "Megan-Mccann-77585",
+        "cashapp": "",
+        "phoneNumber": "8290"
+      },
+      {
+        "name": "Pamela Morris",
+        "paypal": "pmdanielle91",
+        "venmo": "Pamela-Danielle-1",
+        "cashapp": "",
+        "phoneNumber": "3224"
+      },
       {
         "name": "Samantha Churnega",
         "paypal": "",
         "venmo": "",
         "cashapp": "SamanthaChurnega"
-      } ,
+      },
       {
         "name": "Tabitha Kunsman",
         "paypal": "",
         "venmo": "tabitha-kunsman",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Urban Farmer",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Michael Johnson",
+        "paypal": "",
+        "venmo": "mcjohnson20",
+        "cashapp": "",
+        "phoneNumber": "9117"
+      }
+    ]
+  },
+  {
+    "name": "Vero",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Sam LaTourette",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "SamLaTourette",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Voodoo Brewery Cleveland Heights",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lindsey Moore",
+        "paypal": "",
+        "venmo": "Lindsey-Moore-24",
+        "cashapp": "",
+        "phoneNumber": "0366"
+      }
+    ]
+  },
+  {
+    "name": "Wahlburgers",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Cheyenne Shvorob",
+        "paypal": "",
+        "venmo": "cheyenneshvorob",
+        "cashapp": "cheyenneshvorob",
+        "phoneNumber": "5963"
+      }
+    ]
+  },
+  {
+    "name": "Willoughby Brewing Company",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Adam Taylor",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "AtayBossMan",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Emily Ingle",
+        "paypal": "",
+        "venmo": "Emingle",
+        "cashapp": "Emingle02",
+        "phoneNumber": "4947"
       }
     ]
   },
@@ -776,6 +4036,188 @@
         "paypal": "Nziemak@gmail.com",
         "venmo": "",
         "cashapp": ""
+      } ,
+      {
+        "name": "Mike Dupay",
+        "paypal": "dupay44",
+        "venmo": "Dupadupafly",
+        "cashapp": "",
+        "phoneNumber": "7307"
+      }
+    ]
+  },
+  {
+    "name": "Winking Lizard Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda Konecny",
+        "paypal": "cocvid19sucks",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Brittany Johnson",
+        "paypal": "",
+        "venmo": "Brittany-Johnson-537",
+        "cashapp": "",
+        "phoneNumber": "8074"
+      },
+      {
+        "name": "Caitlin Luskin",
+        "paypal": "",
+        "venmo": "Caitlin-Luskin",
+        "cashapp": "",
+        "phoneNumber": "0488"
+      } ,
+      {
+        "name": "Eden Montanez",
+        "paypal": "",
+        "venmo": "Eden-Montanez",
+        "cashapp": "",
+        "phoneNumber": "7243"
+      },
+      {
+        "name": "Erin Whitted",
+        "paypal": "",
+        "venmo": "Erin-Whitted",
+        "cashapp": "ErinWhitted",
+        "phoneNumber": "8706"
+      },
+      {
+        "name": "Heather Alexa",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Missh610",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Heather Barrett",
+        "paypal": "",
+        "venmo": "Heather-Barrett-52",
+        "cashapp": "",
+        "phoneNumber": "6858"
+      },
+      {
+        "name": "Jason Knotek",
+        "paypal": "crtrfrmthblcklgn",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Jennifer Dankowski",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "jend625",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Kelly Pallas",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Kelly-Pallas-1",
+        "phoneNumber": "5306"
+      },
+      {
+        "name": "Kloee Cuckler",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "KloeeCuckler",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Lissette Barna",
+        "paypal": "",
+        "venmo": "Lissette-Barna",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Michelle Hall",
+        "paypal": "",
+        "venmo": "Michelle-Hall-46329",
+        "cashapp": "",
+        "phoneNumber": "5351"
+      },
+      {
+        "name": "Porsha Battiste McIntyre",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Pmoneymac",
+        "phoneNumber": ""
+      },
+      {
+        "name": "Raven Young",
+        "paypal": "",
+        "venmo": "Raven-Young-710",
+        "cashapp": "",
+        "phoneNumber": "5533"
+      } ,
+      {
+        "name": "Shannon Yee",
+        "paypal": "",
+        "venmo": "ShannonYee3",
+        "cashapp": "",
+        "phoneNumber": "9564"
+      } ,
+      {
+        "name": "Tiffany Trew",
+        "paypal": "tiffanytrew",
+        "venmo": "Tiffany-Trew",
+        "cashapp": "",
+        "phoneNumber": ""
+      } ,
+      {
+        "name": "Victoria Willman",
+        "paypal": "rosethevictor",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Wonder Bar",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Robin Harris",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "happyhourharris",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Woody's",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alexandra Dadad",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Alexandradadas13",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Wright Place Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Mason Reimer",
+        "paypal": "",
+        "venmo": "Mason-Reimer",
+        "cashapp": "",
+        "phoneNumber": "3671"
       }
     ]
   },
@@ -790,5 +4232,61 @@
         "cashapp": "RisaKatz"
       }
     ]
-  }
+  },
+  {
+    "name": "Yours Truly Chagrin Falls",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ryan Schlaker",
+        "paypal": "",
+        "venmo": "Ryan-Schlaker",
+        "cashapp": "",
+        "phoneNumber": "7183"
+      }
+    ]
+  },
+  {
+    "name": "Yvette Ortiz",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Yvette Ortiz",
+        "paypal": "Yvette0128",
+        "venmo": "",
+        "cashapp": "",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "Zig's Pub & Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Laurel Angelson",
+        "paypal": "",
+        "venmo": "Laurel-Angelson",
+        "cashapp": "",
+        "phoneNumber": "0822"
+      }
+    ]
+  },
+  {
+    "name": "cafe tandoor",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nikole Davis",
+        "paypal": "",
+        "venmo": "nikoledavis111",
+        "cashapp": "safetysocks",
+        "phoneNumber": "1718"
+      }
+    ]
+  },
 ]
