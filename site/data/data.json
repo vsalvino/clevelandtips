@@ -1,9 +1,129 @@
 [
   {
-    "name": "Merry Arts",
+    "name": "Ballantine",
+    "website": "https://www.ballantinerestaurant.com/",
+    "workers": [
+      {
+        "name": "Maranda Rudiak",
+        "paypal": "",
+        "venmo": "Maranda-Rudiak",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Clevelander Bar & Grill",
+    "website": "https://www.clevelanderbar.com/",
+    "workers": [
+      {
+        "name": "Mckenzie Morgan",
+        "paypal": "",
+        "venmo": "mckenzie-Morgan-4",
+        "cashapp": ""
+      },
+      {
+        "name": "Parker Knapp",
+        "paypal": "",
+        "venmo": "Parkerknapp",
+        "cashapp": "Imparkerknapp"
+      }
+    ]
+  },
+  {
+    "name": "Creekside Restaurant",
+    "website": "http://www.creeksiderestaurant.com/",
+    "workers": [
+      {
+        "name": "Heidi Baker",
+        "paypal": "",
+        "venmo": "Heidi-baker-31",
+        "cashapp": ""
+      },
+      {
+        "name": "Nicole Kaib",
+        "paypal": "",
+        "venmo": "nicole-Kaib-1",
+        "cashapp": ""
+      },
+      {
+        "name": "Trish Ptak",
+        "paypal": "trishptak",
+        "venmo": "",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Dave's Cosmic Subs",
+    "website": "https://www.davescosmicsubs.com/",
+    "workers": [
+      {
+        "name": "Bella bradac",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "BBrad6"
+      },
+      {
+        "name": "Linda Emerson",
+        "paypal": "lindayungemerson",
+        "venmo": "",
+        "cashapp": ""
+      },
+      {
+        "name": "Sonia Torres",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Steph1050"
+      }
+    ]
+  },
+  {
+    "name": "Deagan's Kitchen & Bar",
+    "website": "https://deagans.com/",
+    "workers": [
+      {
+        "name": "Laura Fischer",
+        "paypal": "",
+        "venmo": "Laura-Fischer-26",
+        "cashapp": ""
+      },
+      {
+        "name": "Jamie Garrett",
+        "paypal": "",
+        "venmo": "Jamie-Garrett-19",
+        "cashapp": ""
+      },
+      {
+        "name": "Andrea Tsiros",
+        "paypal": "",
+        "venmo": "Andrea-Tsiros",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Hooley House",
+    "website": "https://www.1funpub.com/",
+    "workers": [
+      {
+        "name": "Bruce Strauss",
+        "paypal": "Zeekzombie",
+        "venmo": "MandalorianZeek",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Merry Arts Pub and Grille",
     "website": "https://merryartspubandgrille.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Katie Martin",
+        "paypal": "",
+        "venmo": "Kanderson35",
+        "cashapp": ""
+      },
       {
         "name": "Stephanie Hornacky",
         "paypal": "",
@@ -17,6 +137,12 @@
     "website": "https://www.saucybrewworks.com/",
     "note": "Saucy will match the first $5,000 in tips to their employees.",
     "workers": [
+      {
+        "name": "Amber King",
+        "paypal": "",
+        "venmo": "Amber-King-77",
+        "cashapp": ""
+      },
       {
         "name": "Angel Savacool Mendez",
         "paypal": "",
@@ -42,10 +168,22 @@
         "cashapp": ""
       },
       {
+        "name": "Greg Davis",
+        "paypal": "",
+        "venmo": "GDavis1770",
+        "cashapp": ""
+      },
+      {
         "name": "Ian Hoffman",
         "paypal": "",
         "venmo": "Ian-Hoffman-30",
         "cashapp": ""
+      },
+      {
+        "name": "Jared Sansonette",
+        "paypal": "",
+        "venmo": "JaredSansonette",
+        "cashapp": "JSansi"
       },
       {
         "name": "Jessica Rowan",
@@ -106,6 +244,54 @@
         "paypal": "",
         "venmo": "Sileye-Djigo",
         "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Sawyer's",
+    "website": "https://www.sawyers.restaurant/",
+    "workers": [
+      {
+        "name": "Alexandra Graham",
+        "paypal": "",
+        "venmo": "alexandragraham21",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "TGI Friday's",
+    "website": "https://www.tgifridays.com/",
+    "workers": [
+      {
+        "name": "Jamie Kaib",
+        "paypal": "",
+        "venmo": "jamie13",
+        "cashapp": ""
+      }
+    ]
+  },
+  {
+    "name": "Two Bucks",
+    "website": "https://www.twobucks.us/",
+    "workers": [
+      {
+        "name": "Samantha Churnega",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "SamanthaChurnega"
+      }
+    ]
+  },
+  {
+    "name": "XO prime steaks",
+    "website": "https://xoprimesteaks.com/",
+    "workers": [
+      {
+        "name": "Risa Katz",
+        "paypal": "",
+        "venmo": "Risa-Katz",
+        "cashapp": "RisaKatz"
       }
     ]
   }
