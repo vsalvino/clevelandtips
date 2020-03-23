@@ -24,7 +24,7 @@
 
   <!-- Style -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/main.css?v=1">
 
   <!-- Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58517406-5"></script>
@@ -61,9 +61,8 @@
       <p>
         <b>Servers:</b>
         <a href="https://forms.gle/iH6E5tR7FcY2TgUPA">Add yourself to this list</a>.
-        List is updated daily.
+        Site is updated daily.
       </p>
-
       <div class="selection">
         <p class="label">Your random server is:</p>
         <h1>{{random.worker.name}}</h1>
@@ -90,11 +89,15 @@
       </p>
 
       <h2>Full List</h2>
-
+      <p>
+        Employers: If you offer tip-matching,
+        <a href="https://forms.gle/ApQUChduP51yZ6Gr5">contact us</a> and we’ll
+        list you first.
+      </p>
       <div v-for="place in places" class="text-left place">
         <h3>{{place.name}}</h3>
         <a class="place-link" :href="place.website">{{place.website}}</a>
-        <p v-if="place.note">{{place.note}}</p>
+        <p v-if="place.note"><span class="place-icon">$</span> {{place.note}}</p>
         <table width="100%">
           <tr v-for="worker in place.workers">
             <td width="40%">{{worker.name}}</td>
@@ -200,7 +203,21 @@
         xmlhttp.onreadystatechange = function() {
           if (this.readyState == 4 && this.status == 200) {
             // Set places from json
-            self.places = JSON.parse(this.responseText);
+            places = JSON.parse(this.responseText);
+            // Move places with notes to the top.
+            places.sort(function(a, b) {
+              // if less than 0, a comes first.
+              // if greater than 0, b comes first.
+              // if 0, stay the same.
+              if(a.note && !b.note) {
+                return -1;
+              }
+              if(b.note && !a.note) {
+                return 1;
+              }
+              return 0;
+            });
+            self.places = places;
             // Pick a random worker.
             self.randomWorker();
           }

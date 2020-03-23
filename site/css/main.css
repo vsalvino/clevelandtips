@@ -95,6 +95,21 @@ a:hover {
   display: block;
   color: #9ab;
 }
+.place-icon {
+  color: #00D54B;
+  border: 1.5px solid #00D54B;
+  border-radius: 100%;
+  padding: 2px;
+  line-height: 1;
+  font-size: 0.6em;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+}
+
 table {
   font-size: 13px;
 }
