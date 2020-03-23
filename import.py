@@ -42,6 +42,7 @@ with open("raw.csv", "r") as csvfile:
             "paypal": "",
             "venmo": "",
             "cashapp": "",
+            "phoneNumber": ""
         }
         colnum = 0
         for col in row:
@@ -59,6 +60,9 @@ with open("raw.csv", "r") as csvfile:
                 record["venmo"] = parse_username(col)
             if colnum == 6:
                 record["cashapp"] = parse_username(col)
+            # Is phoneNumber col 7?
+            if colnum == 7:
+                record["phoneNumber"] = col.strip()
 
         # Add parsed response to the list.
         responses.append(record)
@@ -85,6 +89,7 @@ for person in responses:
                     "paypal": person["paypal"],
                     "venmo": person["venmo"],
                     "cashapp": person["cashapp"],
+                    "phoneNumber": person["phoneNumber"]
                 })
 
     # Add this new place and worker.
@@ -98,6 +103,7 @@ for person in responses:
                 "paypal": person["paypal"],
                 "venmo": person["venmo"],
                 "cashapp": person["cashapp"],
+                "phoneNumber": person["phoneNumber"]
             }]
         })
 
