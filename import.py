@@ -6,6 +6,7 @@ TODO: import from Google sheets CSV.
 import csv
 import json
 import os
+import re
 
 
 def parse_username(username: str):
@@ -42,7 +43,7 @@ with open("raw.csv", "r", encoding="utf-8") as csvfile:
             "paypal": "",
             "venmo": "",
             "cashapp": "",
-            "phoneNumber": ""
+            "last4": ""
         }
         colnum = 0
         for col in row:
@@ -52,15 +53,17 @@ with open("raw.csv", "r", encoding="utf-8") as csvfile:
                 continue
             if colnum == 2:
                 record["name"] = col.strip()
+                # Strip leading "The" from place names.
+                if record["name"].lower().startswith("the "):
+                    record["name"] = re.sub(r"^[Tt]he ", "", record["name"])
             if colnum == 3:
                 record["place"] = col.strip()
             if colnum == 4:
                 record["paypal"] = parse_username(col)
             if colnum == 5:
                 record["venmo"] = parse_username(col)
-            # Is phoneNumber col 7?
             if colnum == 6:
-                record["phoneNumber"] = col.strip()
+                record["last4"] = col.strip()
             if colnum == 7:
                 record["cashapp"] = parse_username(col)
 
@@ -78,9 +81,13 @@ for person in responses:
             place_exists = True
             # Then loop through existing workers and check.
             person_exists = False
+            wix = -1
             for worker in place["workers"]:
+                wix += 1
                 if person["name"].lower() == worker["name"].lower():
                     person_exists = True
+                    # Update the worker info.
+                    data[pix]["workers"][wix]["last4"] = person["last4"]
                     break
             # Add this worker.
             if not person_exists:
@@ -89,7 +96,7 @@ for person in responses:
                     "paypal": person["paypal"],
                     "venmo": person["venmo"],
                     "cashapp": person["cashapp"],
-                    "phoneNumber": person["phoneNumber"]
+                    "last4": person["last4"],
                 })
 
     # Add this new place and worker.
@@ -103,7 +110,7 @@ for person in responses:
                 "paypal": person["paypal"],
                 "venmo": person["venmo"],
                 "cashapp": person["cashapp"],
-                "phoneNumber": person["phoneNumber"]
+                "last4": person["last4"],
             }]
         })
 

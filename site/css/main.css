@@ -24,6 +24,13 @@ h3 {
   margin-bottom: 0;
 }
 
+small {
+  color: #9ab;
+  font-size: 0.75em;
+  line-height: 1.2em;
+  display: inline-block;
+}
+
 p, table {
   margin: 1em 0;
 }

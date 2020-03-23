@@ -24,7 +24,7 @@
 
   <!-- Style -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/main.css?v=1">
+  <link rel="stylesheet" href="css/main.css?v=2">
 
   <!-- Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58517406-5"></script>
@@ -72,12 +72,22 @@
             v-on:click="trackTip(random.worker.name, random.place)">
             Tip on {{app.name}}
           </a>
-          <p>{{app.username}}</p>
+          <p>
+            {{app.username}}
+            <span v-if="app.type == 'venmo' && random.worker.last4">
+              ({{random.worker.last4}})
+            </span>
+          </p>
         </div>
         <div class="text-right">
           <button v-on:click="randomWorker">Tip another</button>
         </div>
       </div>
+      <p><small>
+        Note for Venmo: sometimes Venmo asks for the last 4 digits of the recipient’s
+        phone number to prevent spam. If the server has provided theirs, it is (shown
+        in parenthesis).
+      </small></p>
 
       <h2>Thank You</h2>
       <p>
@@ -107,8 +117,11 @@
               <span v-else>—</span>
             </td>
             <td width="20%">
-              <a v-if="worker.venmo" :href="venmoLink(worker.venmo)"
-                v-on:click="trackTip(worker.name, place.name)">Venmo {{ (worker.phoneNumber != null && worker.phoneNumber != '') ? '(' + worker.phoneNumber + ')' : '' }}</a>
+              <span v-if="worker.venmo">
+                <a :href="venmoLink(worker.venmo)"
+                  v-on:click="trackTip(worker.name, place.name)">Venmo</a>
+                <span v-if="worker.last4">({{worker.last4}})</span>
+              </span>
               <span v-else>—</span>
             </td>
             <td width="20%">
@@ -129,7 +142,7 @@
   </div>
 
   <script>
-     // var dataURL = "data/data.json";
+    // var dataURL = "data/data.json";
     var dataURL = "https://raw.githubusercontent.com/vsalvino/clevelandtips/master/site/data/data.json";
 
     var App = new Vue({
