@@ -19,12 +19,12 @@ def parse_username(username: str):
 # Load the current data file.
 path = os.path.join("site", "data", "data.json")
 data = []
-with open(path, "r") as jfile:
+with open(path, "r", encoding="utf-8") as jfile:
     data = json.loads(jfile.read())
 
 # Load the CSV form responses.
 responses = []
-with open("raw.csv", "r") as csvfile:
+with open("raw.csv", "r", encoding="utf-8") as csvfile:
     rdr = csv.reader(csvfile)
 
     # Loop through rows
