@@ -108,7 +108,7 @@
             </td>
             <td width="20%">
               <a v-if="worker.venmo" :href="venmoLink(worker.venmo)"
-                v-on:click="trackTip(worker.name, place.name)">Venmo</a>
+                v-on:click="trackTip(worker.name, place.name)">Venmo {{ (worker.phoneNumber != null && worker.phoneNumber != '') ? '(' + worker.phoneNumber + ')' : '' }}</a>
               <span v-else>—</span>
             </td>
             <td width="20%">
