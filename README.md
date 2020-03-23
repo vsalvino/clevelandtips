@@ -19,7 +19,8 @@ Data pull requests will be accepted providing that the data is in
 
 To use the data import script, install Python, then:
 
-1. Download a CSV from Google Forms/Sheets.
+1. Download a CSV from Google Forms/Sheets and place it in this directory named
+   `raw.csv`.
 
 2. Run the data import script:
    ```
@@ -27,4 +28,5 @@ To use the data import script, install Python, then:
    ```
 
 3. Review the `data.json` file diff before committing. Update any necessary
-   data points such as website, and clean up misspellings, duplicates, etc.
+   data points such as website, and clean up misspellings, duplicates,
+   proper capitalization, etc.
