@@ -23,10 +23,10 @@ pull request when complete. Each shift normally takes about 30 minutes.
 | Thursday mornings  | @vsalvino    |
 | Thursday evenings  |              |
 | Friday mornings    |              |
-| Friday evenings    |              |
+| Friday evenings    | @samsawan    |
 | Saturday mornings  | @vsalvino    |
 | Saturday evenings  |              |
-| Sunday mornings    |              |
+| Sunday mornings    | @samsawan    |
 | Sunday evenings    |              |
 
 
