@@ -26,7 +26,20 @@ To use the data import script, install Python, then:
    ```
    python import.py
    ```
+   This script will also alphabetize all entries.
 
 3. Review the `data.json` file diff before committing. Update any necessary
    data points such as website, and clean up misspellings, duplicates,
-   proper capitalization, etc.
+   proper capitalization, etc. It is helpful to view this file in a visual diff
+   tool, such as VS Code. This is the most labor intensive part and where we
+   need the most help.
+
+4. Run the site locally using a web server, such as:
+   ```
+   python -m http.server -d site 8000
+   ```
+   Then go to http://localhost:8000/ and make sure it loads correctly with your
+   updated data. If it does not load, there is most likely a syntax error in the
+   JSON file.
+
+5. Commit the changes and make a pull request.

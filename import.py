@@ -14,7 +14,7 @@ def parse_username(username: str):
     Parses URLs and usernames into a consistent format for paypal, venmo, cashapp.
     """
     # Strip trailing slashes and user symbols, then take part after last slash.
-    return username.strip(" /@$").split("/")[-1]
+    return username.strip(" /").split("/")[-1].strip("@$")
 
 
 # Load the current data file.
