@@ -25,7 +25,7 @@ pull request when complete. Each shift normally takes about 30 minutes.
 | Friday mornings    |              |
 | Friday evenings    | @samsawan    |
 | Saturday mornings  | @vsalvino    |
-| Saturday evenings  |              |
+| Saturday evenings  | @mfonism     |
 | Sunday mornings    | @samsawan    |
 | Sunday evenings    |              |
 
