@@ -4,23 +4,52 @@ Cleveland Virtual Tip Jar
 Code for website at https://clevelandtips.com/
 
 
-Contributing
-------------
+Volunteers - Developers
+-----------------------
+
+**We need help processing submissions and cleaning data!** To volunteer, please
+make a pull request updating this README to sign up for a shift importing and
+reviewing data. Then at the designated time, follow the steps below and make a
+pull request when complete. Each shift normally takes about 30 minutes.
+
+| Shift              | GitHub User  |
+|--------------------|--------------|
+| Monday mornings    | @roxcoldiron |
+| Monday evenings    |              |
+| Tuesday mornings   | @vsalvino    |
+| Tuesday evenings   |              |
+| Wednesday mornings | @roxcoldiron |
+| Wednesday evenings |              |
+| Thursday mornings  | @vsalvino    |
+| Thursday evenings  |              |
+| Friday mornings    |              |
+| Friday evenings    |              |
+| Saturday mornings  | @vsalvino    |
+| Saturday evenings  |              |
+| Sunday mornings    |              |
+| Sunday evenings    |              |
+
 
 Code is in a static HTML page in `site/` directory, rendered client-side with
 Vue.js.
 
 Data is located in `site/data/data.json`. Data is imported and cleaned via
-`import.py` script. If you'd like to contribute data, make a pull request
-or submit your info from the form link on https://clevelandtips.com/.
+`import.py` script which does most of the heavy lifting. If you'd like to
+contribute data, make a pull request or submit your info from the form link on
+https://clevelandtips.com/.
 
 Data pull requests will be accepted providing that the data is in
 **alphabetical** order.
 
-To use the data import script, install Python, then:
 
-1. Download a CSV from Google Forms/Sheets and place it in this directory named
-   `raw.csv`.
+Steps for Importing and Reviewing Submissions
+---------------------------------------------
+
+Install Python 3.6 or higher, then:
+
+1. Download a CSV from our [Google Sheet](https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/edit?usp=sharing)
+   (read only, it is populated by the signup form) and place it in this
+   directory named `raw.csv`.
 
 2. Run the data import script:
    ```
