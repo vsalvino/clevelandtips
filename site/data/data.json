@@ -2297,13 +2297,13 @@
         "phoneNumber": "3332"
       },
       {
-        {
-          "name": "Ashley Corrigan",
-          "paypal": "",
-          "venmo": "Ashxcorr",
-          "cashapp": "",
-          "phoneNumber": "8573"
-        } ,
+        "name": "Ashley Corrigan",
+        "paypal": "",
+        "venmo": "Ashxcorr",
+        "cashapp": "",
+        "phoneNumber": "8573"
+      } ,
+      {
         "name": "Dani Burke",
         "paypal": "",
         "venmo": "Dani-Burke-2",
@@ -3500,7 +3500,7 @@
         "venmo": "Beth-Watkins-17",
         "cashapp": "",
         "phoneNumber": "7382"
-      }
+      },
       {
         "name": "Jamie Kaib",
         "paypal": "",
@@ -4276,7 +4276,7 @@
     ]
   },
   {
-    "name": "cafe tandoor",
+    "name": "Cafe Tandoor",
     "website": "",
     "note": "",
     "workers": [
@@ -4288,5 +4288,5 @@
         "phoneNumber": "1718"
       }
     ]
-  },
+  }
 ]
