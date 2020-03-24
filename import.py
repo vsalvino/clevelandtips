@@ -70,27 +70,29 @@ with open("raw.csv", "r", encoding="utf-8") as csvfile:
         # Add parsed response to the list.
         responses.append(record)
 
+# Get list of existing workers.
+existing_workers = []
+for place in data:
+    for worker in place["workers"]:
+        existing_workers.append(worker)
+
 # Next, cross reference existing data and only add new names.)
 for person in responses:
-    place_exists = False
-    pix = -1
-    for place in data:
-        pix += 1
-        # If the place appears to match...
-        if place["name"].lower() == person["place"].lower():
-            place_exists = True
-            # Then loop through existing workers and check.
-            person_exists = False
-            wix = -1
-            for worker in place["workers"]:
-                wix += 1
-                if person["name"].lower() == worker["name"].lower():
-                    person_exists = True
-                    # Update the worker info.
-                    data[pix]["workers"][wix]["last4"] = person["last4"]
-                    break
-            # Add this worker.
-            if not person_exists:
+    person_exists = False
+    for worker in existing_workers:
+        if person["name"].lower() == worker["name"].lower():
+            person_exists = True
+            break
+
+    # If person does not already exist, add them to the appropriate place.
+    if not person_exists:
+        place_exists = False
+        pix = -1
+        for place in data:
+            pix += 1
+            if place["name"].lower() == person["place"].lower():
+                place_exists = True
+                # Add this worker.
                 data[pix]["workers"].append({
                     "name": person["name"],
                     "paypal": person["paypal"],
@@ -99,20 +101,20 @@ for person in responses:
                     "last4": person["last4"],
                 })
 
-    # Add this new place and worker.
-    if not place_exists:
-        data.append({
-            "name": person["place"],
-            "website": "",
-            "note": "",
-            "workers": [{
-                "name": person["name"],
-                "paypal": person["paypal"],
-                "venmo": person["venmo"],
-                "cashapp": person["cashapp"],
-                "last4": person["last4"],
-            }]
-        })
+        # Add this new place and worker.
+        if not place_exists:
+            data.append({
+                "name": person["place"],
+                "website": "",
+                "note": "",
+                "workers": [{
+                    "name": person["name"],
+                    "paypal": person["paypal"],
+                    "venmo": person["venmo"],
+                    "cashapp": person["cashapp"],
+                    "last4": person["last4"],
+                }]
+            })
 
 # Alphabetize the places.
 data = sorted(data, key=lambda x: x["name"])
