@@ -1,2 +1,4 @@
 # Do not commit raw CSV files.
 *.csv
+credentials.json
+token.pickle

@@ -47,9 +47,7 @@ Steps for Importing and Reviewing Submissions
 
 Install Python 3.6 or higher, then:
 
-1. Download a CSV from our [Google Sheet](https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/edit?usp=sharing)
-   (read only, it is populated by the signup form) and place it in this
-   directory named `raw.csv`.
+1. Follow steps 1 and 2 [Here](https://developers.google.com/sheets/api/quickstart/python)
 
 2. Run the data import script:
    ```
