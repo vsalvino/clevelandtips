@@ -1494,6 +1494,13 @@
         "last4": ""
       },
       {
+        "name": "Jorden Elliott",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "gorgonblue",
+        "last4": ""
+      },
+      {
         "name": "Nikai Boyarko",
         "paypal": "",
         "venmo": "NikaiBoyarko",
@@ -1518,20 +1525,6 @@
         "paypal": "ZachjHarley",
         "venmo": "",
         "cashapp": ""
-      }
-    ]
-  },
-  {
-    "name": "Cory\u2019s Place",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Jorden Elliott",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "gorgonblue",
-        "last4": ""
       }
     ]
   },
@@ -1922,7 +1915,7 @@
     ]
   },
   {
-    "name": "Fire House Sports Bar and Grill",
+    "name": "Firehouse Sports Bar and Grill",
     "website": "",
     "note": "",
     "workers": [
@@ -1941,11 +1934,25 @@
         "last4": "7408"
       },
       {
+        "name": "Jeanette smith",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "jnutty1234",
+        "last4": ""
+      },
+      {
         "name": "Kathy Eichler",
         "paypal": "kathyeichler",
         "venmo": "",
         "cashapp": "",
         "last4": "0636"
+      },
+      {
+        "name": "Samantha Pisco",
+        "paypal": "",
+        "venmo": "Samantha-Pisco",
+        "cashapp": "",
+        "last4": "1063"
       }
     ]
   },
@@ -1955,25 +1962,11 @@
     "note": "",
     "workers": [
       {
-        "name": "Jeanette smith",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "jnutty1234",
-        "last4": ""
-      },
-      {
         "name": "Leslie Pfeiffer",
         "paypal": "",
         "venmo": "lesliepfeiffer",
         "cashapp": "",
         "last4": ""
-      },
-      {
-        "name": "Samantha Pisco",
-        "paypal": "",
-        "venmo": "Samantha-Pisco",
-        "cashapp": "",
-        "last4": "1063"
       }
     ]
   },
@@ -4820,9 +4813,9 @@
       },
       {
         "name": "Molly Marvar",
-        "paypal": "",
+        "paypal": "Mmarvar82",
         "venmo": "Mmarvar2020",
-        "cashapp": "MMarvar2020",
+        "cashapp": "CuriousChiron",
         "last4": ""
       }
     ]
