@@ -19,15 +19,15 @@ pull request when complete. Each shift normally takes about 30 minutes.
 | Tuesday mornings   | @vsalvino    |
 | Tuesday evenings   |              |
 | Wednesday mornings | @roxcoldiron |
-| Wednesday evenings |              |
+| Wednesday evenings | @shawninman  |
 | Thursday mornings  | @vsalvino    |
 | Thursday evenings  |              |
-| Friday mornings    |              |
+| Friday mornings    | @shawninman  |
 | Friday evenings    | @samsawan    |
 | Saturday mornings  | @vsalvino    |
 | Saturday evenings  |              |
 | Sunday mornings    | @samsawan    |
-| Sunday evenings    |              |
+| Sunday evenings    | @shawninman  |
 
 
 Code is in a static HTML page in `site/` directory, rendered client-side with
