@@ -10,7 +10,6 @@ import re
 import sys
 import urllib.request
 
-
 def parse_username(username: str):
     """
     Parses URLs and usernames into a consistent format for paypal, venmo, cashapp.
@@ -133,7 +132,19 @@ for person in responses:
 data = sorted(data, key=lambda x: x["name"])
 
 # Alphabetize the workers in each place.
-for i in range(0, len(data)):
+for i in sorted(range(0, len(data)), reverse=True):
+
+    # Merge duplicated restraunts using known aliases
+    if "alias" in data[i].keys():
+        known_as = []
+        known_as += map(lambda x:x.lower(), data[i]["alias"])
+
+        for ix in sorted(range(0, len(data)), reverse=True):
+            if data[ix]["name"].lower() in known_as:
+                print("Merging {} into {}".format(data[ix]["name"], data[i]["name"]))
+                data[i]["workers"] += data[ix]["workers"]
+                del data[ix]
+
     data[i]["workers"] = sorted(data[i]["workers"], key=lambda x: x["name"])
 
 # Write the file back.
