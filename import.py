@@ -88,7 +88,12 @@ for place in data:
 for person in responses:
     person_exists = False
     for worker in existing_workers:
-        if person["name"].lower() == worker["name"].lower():
+
+        # prevent duplicate entries with same name or app username
+        if person["name"].lower() == worker["name"].lower() \
+        or person["paypal"].lower() == worker["paypal"].lower() \
+        or person["venmo"].lower() == worker["venmo"].lower() \
+        or person["cashapp"].lower() == worker["cashapp"].lower():
             person_exists = True
             break
 
