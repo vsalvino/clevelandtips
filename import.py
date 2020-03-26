@@ -7,6 +7,8 @@ import csv
 import json
 import os
 import re
+import sys
+import urllib.request
 
 
 def parse_username(username: str):
@@ -16,6 +18,12 @@ def parse_username(username: str):
     # Strip trailing slashes and user symbols, then take part after last slash.
     return username.strip(" /").split("/")[-1].strip("@$")
 
+if "--download" in str(sys.argv):
+    print("Downloading latest data from Google Sheets")
+    url = "https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/gviz/tq?tqx=out:csv&sheet=Form+Responses+1"
+    urllib.request.urlretrieve(url, "raw.csv")
+else:
+    print("Use the `--download` flag to download the latest data")
 
 # Load the current data file.
 path = os.path.join("site", "data", "data.json")
