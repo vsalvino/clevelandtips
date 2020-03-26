@@ -1886,11 +1886,25 @@
         "last4": "6538"
       },
       {
+        "name": "Jessica Crespo",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "jessicacrespo33",
+        "last4": ""
+      },
+      {
         "name": "Krystle Steinbach",
         "paypal": "",
         "venmo": "",
         "cashapp": "KRY5TL3",
         "last4": ""
+      },
+      {
+        "name": "Ryan Colin McGrew",
+        "paypal": "",
+        "venmo": "Ryan-McGrew-4",
+        "cashapp": "",
+        "last4": "9173"
       }
     ]
   },
@@ -14427,27 +14441,6 @@
     ]
   },
   {
-    "name": "The Beachland Ballroom and Tavern",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Jessica Crespo",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "jessicacrespo33",
-        "last4": ""
-      },
-      {
-        "name": "Ryan Colin McGrew",
-        "paypal": "",
-        "venmo": "Ryan-McGrew-4",
-        "cashapp": "",
-        "last4": "9173"
-      }
-    ]
-  },
-  {
     "name": "The Bistro at Bratenahl Place",
     "website": "",
     "note": "",
@@ -16978,6 +16971,9 @@
     "name": "Winking Lizard",
     "website": "",
     "note": "",
+    "alias": [
+      "Winking Lizard Tavern"
+    ],
     "workers": [
       {
         "name": "Alivia Parrott",
@@ -16994,6 +16990,20 @@
         "last4": "6369"
       },
       {
+        "name": "Amanda Batzel",
+        "paypal": "amandacb216",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Amanda Konecny",
+        "paypal": "cocvid19sucks",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Amber Bellew",
         "paypal": "",
         "venmo": "",
@@ -17006,6 +17016,13 @@
         "venmo": "",
         "cashapp": "amberbellew",
         "last4": ""
+      },
+      {
+        "name": "Amy Renicker",
+        "paypal": "",
+        "venmo": "AmyRenicker",
+        "cashapp": "",
+        "last4": "9889"
       },
       {
         "name": "Andrea Davis",
@@ -17020,6 +17037,13 @@
         "venmo": "",
         "cashapp": "andnicoled",
         "last4": ""
+      },
+      {
+        "name": "Andrew Morilak",
+        "paypal": "",
+        "venmo": "Andrunas45",
+        "cashapp": "",
+        "last4": "5178"
       },
       {
         "name": "Angelique Herak",
@@ -17043,6 +17067,20 @@
         "last4": ""
       },
       {
+        "name": "Austin Ossa",
+        "paypal": "",
+        "venmo": "AOssa",
+        "cashapp": "",
+        "last4": "8495"
+      },
+      {
+        "name": "Brianna Mahaffey",
+        "paypal": "BriannaMahaffey",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Brinn Feeney",
         "paypal": "Ardenfeeney",
         "venmo": "",
@@ -17050,10 +17088,31 @@
         "last4": ""
       },
       {
+        "name": "Brittany Johnson",
+        "paypal": "",
+        "venmo": "Brittany-Johnson-537",
+        "cashapp": "",
+        "last4": "8074"
+      },
+      {
+        "name": "Caitlin Luskin",
+        "paypal": "",
+        "venmo": "Caitlin-Luskin",
+        "cashapp": "",
+        "last4": "0488"
+      },
+      {
         "name": "Cara Hartman",
         "paypal": "CaraHartman",
         "venmo": "",
         "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Carlee Whalen",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "cwhalenx3",
         "last4": ""
       },
       {
@@ -17155,11 +17214,39 @@
         "last4": "0779"
       },
       {
+        "name": "Eden Montanez",
+        "paypal": "",
+        "venmo": "Eden-Montanez",
+        "cashapp": "",
+        "last4": "7243"
+      },
+      {
         "name": "Emily Stein",
         "paypal": "",
         "venmo": "Emily-Stein-30",
         "cashapp": "estein1010",
         "last4": "4392"
+      },
+      {
+        "name": "Erin Whitted",
+        "paypal": "",
+        "venmo": "Erin-Whitted",
+        "cashapp": "ErinWhitted",
+        "last4": "8706"
+      },
+      {
+        "name": "Heather Alexa",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Missh610",
+        "last4": ""
+      },
+      {
+        "name": "Heather Barrett",
+        "paypal": "",
+        "venmo": "Heather-Barrett-52",
+        "cashapp": "",
+        "last4": "6858"
       },
       {
         "name": "Heather Eaton",
@@ -17218,6 +17305,34 @@
         "last4": "5116"
       },
       {
+        "name": "Jason Frient",
+        "paypal": "jfrient330",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Jason Knotek",
+        "paypal": "crtrfrmthblcklgn",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Jennifer Dankowski",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "jend625",
+        "last4": ""
+      },
+      {
+        "name": "Jessica Stokes",
+        "paypal": "joylenestokes",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Jordan Matyasi",
         "paypal": "",
         "venmo": "jordan-matyasi",
@@ -17230,6 +17345,27 @@
         "venmo": "Juliana-Bacon-1",
         "cashapp": "",
         "last4": "9537"
+      },
+      {
+        "name": "Kelly Dixon",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "kellyD87",
+        "last4": ""
+      },
+      {
+        "name": "Kelly Pallas",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Kelly-Pallas-1",
+        "last4": "5306"
+      },
+      {
+        "name": "Kloee Cuckler",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "KloeeCuckler",
+        "last4": ""
       },
       {
         "name": "Kortney Oatess",
@@ -17251,6 +17387,20 @@
         "venmo": "Lreggie15@gmail.com",
         "cashapp": "",
         "last4": "0638"
+      },
+      {
+        "name": "Lissette Barna",
+        "paypal": "",
+        "venmo": "Lissette-Barna",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Michelle Hall",
+        "paypal": "",
+        "venmo": "Michelle-Hall-46329",
+        "cashapp": "",
+        "last4": "5351"
       },
       {
         "name": "Michelle Strah",
@@ -17281,6 +17431,27 @@
         "last4": ""
       },
       {
+        "name": "Nicole Ohlemacher",
+        "paypal": "",
+        "venmo": "Nicole-Ohlemacher",
+        "cashapp": "",
+        "last4": "8546"
+      },
+      {
+        "name": "Porsha Battiste McIntyre",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Pmoneymac",
+        "last4": ""
+      },
+      {
+        "name": "Raven Young",
+        "paypal": "",
+        "venmo": "Raven-Young-710",
+        "cashapp": "",
+        "last4": "5533"
+      },
+      {
         "name": "Robin Galippo",
         "paypal": "",
         "venmo": "",
@@ -17302,11 +17473,53 @@
         "last4": ""
       },
       {
+        "name": "Sarah Jane Houser",
+        "paypal": "",
+        "venmo": "Sarah-Houser-18",
+        "cashapp": "",
+        "last4": "1989"
+      },
+      {
+        "name": "Sarah Thompson",
+        "paypal": "",
+        "venmo": "Sarah-Thompson-507",
+        "cashapp": "",
+        "last4": "4407"
+      },
+      {
+        "name": "Sarah Valencic",
+        "paypal": "",
+        "venmo": "SarahVal",
+        "cashapp": "",
+        "last4": "5195"
+      },
+      {
+        "name": "Shannon Smith",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "happyshan",
+        "last4": ""
+      },
+      {
+        "name": "Shannon Yee",
+        "paypal": "",
+        "venmo": "ShannonYee3",
+        "cashapp": "",
+        "last4": "9564"
+      },
+      {
         "name": "Shawna Frame",
         "paypal": "",
         "venmo": "Shawna-Frame",
         "cashapp": "",
         "last4": "9741"
+      },
+      {
+        "name": "Stacey Pasuit",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Staceypasuit",
+        "last4": ""
       },
       {
         "name": "Stephanie Ignat",
@@ -17328,6 +17541,27 @@
         "venmo": "Taylor-Daugherty-7",
         "cashapp": "",
         "last4": "4244"
+      },
+      {
+        "name": "Tiffany Trew",
+        "paypal": "tiffanytrew",
+        "venmo": "Tiffany-Trew",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Trisha Palazzolo",
+        "paypal": "",
+        "venmo": "trisha-palazzolo",
+        "cashapp": "",
+        "last4": "4299"
+      },
+      {
+        "name": "Victoria Willman",
+        "paypal": "rosethevictor",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       }
     ]
   },
@@ -17527,251 +17761,6 @@
         "venmo": "abevere",
         "cashapp": "",
         "last4": "0953"
-      }
-    ]
-  },
-  {
-    "name": "Winking Lizard Tavern",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Amanda Batzel",
-        "paypal": "amandacb216",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Amanda Konecny",
-        "paypal": "cocvid19sucks",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Amy Renicker",
-        "paypal": "",
-        "venmo": "AmyRenicker",
-        "cashapp": "",
-        "last4": "9889"
-      },
-      {
-        "name": "Andrew Morilak",
-        "paypal": "",
-        "venmo": "Andrunas45",
-        "cashapp": "",
-        "last4": "5178"
-      },
-      {
-        "name": "Austin Ossa",
-        "paypal": "",
-        "venmo": "AOssa",
-        "cashapp": "",
-        "last4": "8495"
-      },
-      {
-        "name": "Brianna Mahaffey",
-        "paypal": "BriannaMahaffey",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Brittany Johnson",
-        "paypal": "",
-        "venmo": "Brittany-Johnson-537",
-        "cashapp": "",
-        "last4": "8074"
-      },
-      {
-        "name": "Caitlin Luskin",
-        "paypal": "",
-        "venmo": "Caitlin-Luskin",
-        "cashapp": "",
-        "last4": "0488"
-      },
-      {
-        "name": "Carlee Whalen",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "cwhalenx3",
-        "last4": ""
-      },
-      {
-        "name": "Eden Montanez",
-        "paypal": "",
-        "venmo": "Eden-Montanez",
-        "cashapp": "",
-        "last4": "7243"
-      },
-      {
-        "name": "Erin Whitted",
-        "paypal": "",
-        "venmo": "Erin-Whitted",
-        "cashapp": "ErinWhitted",
-        "last4": "8706"
-      },
-      {
-        "name": "Heather Alexa",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "Missh610",
-        "last4": ""
-      },
-      {
-        "name": "Heather Barrett",
-        "paypal": "",
-        "venmo": "Heather-Barrett-52",
-        "cashapp": "",
-        "last4": "6858"
-      },
-      {
-        "name": "Jason Frient",
-        "paypal": "jfrient330",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Jason Knotek",
-        "paypal": "crtrfrmthblcklgn",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Jennifer Dankowski",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "jend625",
-        "last4": ""
-      },
-      {
-        "name": "Jessica Stokes",
-        "paypal": "joylenestokes",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Kelly Dixon",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "kellyD87",
-        "last4": ""
-      },
-      {
-        "name": "Kelly Pallas",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "Kelly-Pallas-1",
-        "last4": "5306"
-      },
-      {
-        "name": "Kloee Cuckler",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "KloeeCuckler",
-        "last4": ""
-      },
-      {
-        "name": "Lissette Barna",
-        "paypal": "",
-        "venmo": "Lissette-Barna",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Michelle Hall",
-        "paypal": "",
-        "venmo": "Michelle-Hall-46329",
-        "cashapp": "",
-        "last4": "5351"
-      },
-      {
-        "name": "Nicole Ohlemacher",
-        "paypal": "",
-        "venmo": "Nicole-Ohlemacher",
-        "cashapp": "",
-        "last4": "8546"
-      },
-      {
-        "name": "Porsha Battiste McIntyre",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "Pmoneymac",
-        "last4": ""
-      },
-      {
-        "name": "Raven Young",
-        "paypal": "",
-        "venmo": "Raven-Young-710",
-        "cashapp": "",
-        "last4": "5533"
-      },
-      {
-        "name": "Sarah Jane Houser",
-        "paypal": "",
-        "venmo": "Sarah-Houser-18",
-        "cashapp": "",
-        "last4": "1989"
-      },
-      {
-        "name": "Sarah Thompson",
-        "paypal": "",
-        "venmo": "Sarah-Thompson-507",
-        "cashapp": "",
-        "last4": "4407"
-      },
-      {
-        "name": "Sarah Valencic",
-        "paypal": "",
-        "venmo": "SarahVal",
-        "cashapp": "",
-        "last4": "5195"
-      },
-      {
-        "name": "Shannon Smith",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "happyshan",
-        "last4": ""
-      },
-      {
-        "name": "Shannon Yee",
-        "paypal": "",
-        "venmo": "ShannonYee3",
-        "cashapp": "",
-        "last4": "9564"
-      },
-      {
-        "name": "Stacey Pasuit",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "Staceypasuit",
-        "last4": ""
-      },
-      {
-        "name": "Tiffany Trew",
-        "paypal": "tiffanytrew",
-        "venmo": "Tiffany-Trew",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Trisha Palazzolo",
-        "paypal": "",
-        "venmo": "trisha-palazzolo",
-        "cashapp": "",
-        "last4": "4299"
-      },
-      {
-        "name": "Victoria Willman",
-        "paypal": "rosethevictor",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
       }
     ]
   },
