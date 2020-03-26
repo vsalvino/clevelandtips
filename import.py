@@ -7,7 +7,8 @@ import csv
 import json
 import os
 import re
-
+import sys
+import urllib.request
 
 def parse_username(username: str):
     """
@@ -16,6 +17,12 @@ def parse_username(username: str):
     # Strip trailing slashes and user symbols, then take part after last slash.
     return username.strip(" /").split("/")[-1].strip("@$")
 
+if "--download" in str(sys.argv):
+    print("Downloading latest data from Google Sheets")
+    url = "https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/gviz/tq?tqx=out:csv&sheet=Form+Responses+1"
+    urllib.request.urlretrieve(url, "raw.csv")
+else:
+    print("Use the `--download` flag to download the latest data")
 
 # Load the current data file.
 path = os.path.join("site", "data", "data.json")
@@ -80,7 +87,12 @@ for place in data:
 for person in responses:
     person_exists = False
     for worker in existing_workers:
-        if person["name"].lower() == worker["name"].lower():
+
+        # prevent duplicate entries with same name or app username
+        if person["name"].lower() == worker["name"].lower() \
+        or person["paypal"].lower() == worker["paypal"].lower() \
+        or person["venmo"].lower() == worker["venmo"].lower() \
+        or person["cashapp"].lower() == worker["cashapp"].lower():
             person_exists = True
             break
 
@@ -120,7 +132,19 @@ for person in responses:
 data = sorted(data, key=lambda x: x["name"])
 
 # Alphabetize the workers in each place.
-for i in range(0, len(data)):
+for i in sorted(range(0, len(data)), reverse=True):
+
+    # Merge duplicated restraunts using known aliases
+    if "alias" in data[i].keys():
+        known_as = []
+        known_as += map(lambda x:x.lower(), data[i]["alias"])
+
+        for ix in sorted(range(0, len(data)), reverse=True):
+            if data[ix]["name"].lower() in known_as:
+                print("Merging {} into {}".format(data[ix]["name"], data[i]["name"]))
+                data[i]["workers"] += data[ix]["workers"]
+                del data[ix]
+
     data[i]["workers"] = sorted(data[i]["workers"], key=lambda x: x["name"])
 
 # Write the file back.

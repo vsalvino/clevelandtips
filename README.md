@@ -47,23 +47,26 @@ Steps for Importing and Reviewing Submissions
 
 Install Python 3.6 or higher, then:
 
-1. Download a CSV from our [Google Sheet](https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/edit?usp=sharing)
+(Optional) Download a CSV from our [Google Sheet](https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/edit?usp=sharing)
    (read only, it is populated by the signup form) and place it in this
    directory named `raw.csv`.
 
-2. Run the data import script:
+1. Run the data import script:
    ```
-   python import.py
+   python import.py --download
    ```
-   This script will also alphabetize all entries.
+   This script will download the latest data from the Google Sheet and alphabetize all entries.
 
-3. Review the `data.json` file diff before committing. Update any necessary
+2. Review the `data.json` file diff before committing. Update any necessary
    data points such as website, and clean up misspellings, duplicates,
-   proper capitalization, etc. It is helpful to view this file in a visual diff
+   proper capitalization, etc. Add common mispellings or alternate place names 
+   in the "alias" key and rerun the scrip to automatically merge places.
+   
+   It is helpful to view this file in a visual diff
    tool, such as VS Code. This is the most labor intensive part and where we
    need the most help.
 
-4. Run the site locally using a web server, such as:
+3. Run the site locally using a web server, such as:
    ```
    python -m http.server -d site 8000
    ```
@@ -71,4 +74,4 @@ Install Python 3.6 or higher, then:
    updated data. If it does not load, there is most likely a syntax error in the
    JSON file.
 
-5. Commit the changes and make a pull request.
+4. Commit the changes and make a pull request.
