@@ -1,5 +1,7 @@
 """
 Imports from CSV and alphabetizes the data.json file.
+
+This script is wildly hacky and inefficient ¯\_(ツ)_/¯
 """
 import csv
 import json
@@ -29,16 +31,22 @@ def parse_username(username: str):
     """
     Parses URLs and usernames into a consistent format for paypal, venmo, cashapp.
     """
-    # If URL is a venmo code, resolve it.
+    # If URL is a venmo code, try to resolve it.
     if username.startswith("https://venmo.com/code?user_id"):
-        username = urllib.request.urlopen(username).url
+        try:
+            username = urllib.request.urlopen(username).url
+        except:
+            pass
+    # Strip querystrings
+    elif username.startswith("https://"):
+        username = username.split("?")[0]
     # Strip trailing slashes and user symbols, then take part after last slash.
     return username.strip(" /").split("/")[-1].strip("@$")
 
 
 # Download CSV.
 if "--download" in str(sys.argv):
-    print("Downloading latest data from Google Sheets")
+    print("Downloading latest data from Google Sheets...")
     url = "https://docs.google.com/spreadsheets/d/1EPQ4uAyxqMYW8dEPVfduenf48ItutJkJxIXOsFdHXpE/gviz/tq?tqx=out:csv&sheet=Form+Responses+1"
     urllib.request.urlretrieve(url, "raw.csv")
 else:
@@ -55,6 +63,7 @@ with open(path, "r", encoding="utf-8") as jfile:
 # Load the CSV form responses.
 responses = []
 if os.path.exists("raw.csv"):
+    print("Churning through CSV of responses...")
     with open("raw.csv", "r", encoding="utf-8") as csvfile:
         rdr = csv.reader(csvfile)
 
@@ -83,7 +92,7 @@ if os.path.exists("raw.csv"):
                     continue
                 # Normalize people names.
                 if colnum == 2:
-                    record["name"] = col.strip().title().replace("  ", " ")
+                    record["name"] = col.strip().replace("  ", " ")
                 # Normalize place names.
                 if colnum == 3:
                     record["place"] = col.strip().title()\
@@ -120,6 +129,8 @@ for person in responses:
             ):
                 person_exists = True
                 break
+        if person_exists:
+            break
 
     # If person does not already exist, add them to the appropriate place.
     if not person_exists:
@@ -131,9 +142,7 @@ for person in responses:
             # or evaluate aliases.
             place_comp = string_for_compare(place["name"])
             person_place_comp = string_for_compare(person["place"])
-            aliases = []
-            if "alias" in place.keys():
-                aliases = map(lambda x:x.lower(), place["alias"])
+            aliases = [string_for_compare(x) for x in place.get("alias", [])]
             if person["place"] in aliases or place_comp == person_place_comp:
                 place_exists = True
                 # Add this worker.
@@ -146,10 +155,12 @@ for person in responses:
                 })
                 # Add a place alias.
                 if place["name"].lower() != person["place"].lower():
-                    print(f"Adding alias to {place['name']}: '{person['place']}'")
-                    if "alias" in data[pix].keys() and data[pix]["alias"]:
-                        data[pix]["alias"].append(person["place"])
+                    if "alias" in data[pix].keys():
+                        if person["place"] not in data[pix]["alias"]:
+                            print(f"Adding alias to {place['name']}: '{person['place']}'")
+                            data[pix]["alias"].append(person["place"])
                     else:
+                        print(f"Adding alias to {place['name']}: '{person['place']}'")
                         data[pix]["alias"] = [person["place"]]
                 break
 
@@ -177,21 +188,23 @@ for i in range(0, len(data)):
 
     # Merge duplicated restraunts using known aliases
     if "alias" in data[i].keys():
-        known_as = []
-        known_as += map(lambda x:x.lower(), data[i]["alias"])
+        known_as = [string_for_compare(x) for x in data[i].get("alias", [])]
 
         for ix in range(0, len(data)):
-            if data[ix]["name"].lower() in known_as:
+            if (
+                data[i]["name"] != data[ix]["name"] and
+                string_for_compare(data[ix]["name"]) in known_as
+            ):
                 print("Merging {} into {}".format(data[ix]["name"], data[i]["name"]))
                 data[i]["workers"] += data[ix]["workers"]
-                delete_places.append(data[i]["name"])
+                delete_places.append(data[ix]["name"])
 
     data[i]["workers"] = sorted(data[i]["workers"], key=lambda x: x["name"])
 
 # Delete merged places.
 new_data = []
 for place in data:
-    if not place["name"] in delete_places:
+    if place["name"] not in delete_places:
         new_data.append(place)
 data = new_data
 
