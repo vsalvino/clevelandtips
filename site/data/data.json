@@ -136,20 +136,6 @@
     ]
   },
   {
-    "name": "5th  Ave Deli and Grill",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Adriana Iannetta",
-        "paypal": "AIannetta",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      }
-    ]
-  },
-  {
     "name": "5th Ave Deli and Grill",
     "website": "",
     "note": "",
@@ -213,7 +199,7 @@
     ]
   },
   {
-    "name": "ABC the Tavern (OC)",
+    "name": "ABC the Tavern",
     "website": "https://abcthetavern.com/",
     "note": "",
     "workers": [
@@ -419,13 +405,6 @@
     "website": "",
     "note": "",
     "workers": [
-      {
-        "name": "Dan Miller",
-        "paypal": "danielmillerart",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
       {
         "name": "Dan Miller",
         "paypal": "danielmillerart",
@@ -664,13 +643,6 @@
         "last4": "8844"
       },
       {
-        "name": "Madeline Schreiber",
-        "paypal": "",
-        "venmo": "Madeline-Schreiber",
-        "cashapp": "MadelineSchreiber",
-        "last4": "8844"
-      },
-      {
         "name": "Melissa Ryder",
         "paypal": "PayPal.merydermelis",
         "venmo": "",
@@ -680,7 +652,7 @@
       {
         "name": "Meyah Gunn",
         "paypal": "",
-        "venmo": "code?user_id=2224156305260544196",
+        "venmo": "Meyah-Gunn",
         "cashapp": "wowmeyahwow",
         "last4": "8856"
       },
@@ -1164,13 +1136,6 @@
         "venmo": "Michael-Falcon-10157",
         "cashapp": "Falcon21669",
         "last4": ""
-      },
-      {
-        "name": "Michael Falcon",
-        "paypal": "",
-        "venmo": "Michael-Falcon-10157",
-        "cashapp": "Falcon21669",
-        "last4": "5778"
       },
       {
         "name": "Patrick Gibbons",
@@ -1978,12 +1943,6 @@
     ]
   },
   {
-    "name": "Beerhead in Avon",
-    "website": "",
-    "note": "",
-    "workers": []
-  },
-  {
     "name": "Bennett",
     "website": "",
     "note": "",
@@ -2046,7 +2005,7 @@
     "workers": [
       {
         "name": "Alexandra Raleigh",
-        "paypal": "alexleeraleigh?locale.x=en_US",
+        "paypal": "alexleeraleigh",
         "venmo": "Alexandra-Lee-11",
         "cashapp": "rallee18",
         "last4": "8616"
@@ -2073,6 +2032,20 @@
     "note": "",
     "workers": [
       {
+        "name": "Amy Williams",
+        "paypal": "globalresident",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Derek Hill",
+        "paypal": "DerekRussellHill",
+        "venmo": "DerekRussell",
+        "cashapp": "",
+        "last4": "0863"
+      },
+      {
         "name": "Emily Presson",
         "paypal": "",
         "venmo": "Emilypresson52",
@@ -2090,6 +2063,13 @@
         "venmo": "Paulina-Zaborny",
         "cashapp": "PaulinaZaborny",
         "last4": "8220"
+      },
+      {
+        "name": "Rachel Raver",
+        "paypal": "",
+        "venmo": "Rachel-Raver",
+        "cashapp": "",
+        "last4": "9773"
       }
     ]
   },
@@ -2870,13 +2850,6 @@
         "venmo": "Alex-Wendl",
         "cashapp": "",
         "last4": "0491"
-      },
-      {
-        "name": "Ali Mazzocco",
-        "paypal": "",
-        "venmo": "Ali-M-91",
-        "cashapp": "",
-        "last4": "2099"
       },
       {
         "name": "Ali Mazzocco",
@@ -3903,13 +3876,6 @@
         "last4": "1625"
       },
       {
-        "name": "Jaime Fischer",
-        "paypal": "",
-        "venmo": "Jaime-Fischer-1",
-        "cashapp": "",
-        "last4": "1625"
-      },
-      {
         "name": "Jay Cox",
         "paypal": "",
         "venmo": "Jay-Cox-5150",
@@ -3972,7 +3938,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Jennifer  Roberts",
+        "name": "Jennifer Roberts",
         "paypal": "oreoace",
         "venmo": "",
         "cashapp": "",
@@ -4140,13 +4106,6 @@
         "venmo": "Lauren-Rosenberg-2",
         "cashapp": "",
         "last4": "4140"
-      },
-      {
-        "name": "Lauren Rosenberg",
-        "paypal": "",
-        "venmo": "Lauren-Rosenberg-2",
-        "cashapp": "",
-        "last4": "4140"
       }
     ]
   },
@@ -4178,7 +4137,7 @@
       },
       {
         "name": "Tracy Skitka",
-        "paypal": "TracySkitka?locale.x=en_US",
+        "paypal": "TracySkitka",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -4425,13 +4384,6 @@
     "note": "",
     "workers": [
       {
-        "name": "Katherine biggins",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "Msktb1",
-        "last4": ""
-      },
-      {
         "name": "Katie Biggins",
         "paypal": "",
         "venmo": "",
@@ -4490,7 +4442,7 @@
       {
         "name": "Jaimie Coffman",
         "paypal": "",
-        "venmo": "code?user_id=2104876540624896777",
+        "venmo": "Jaimie-Catherine",
         "cashapp": "",
         "last4": "0261"
       },
@@ -5035,7 +4987,7 @@
       },
       {
         "name": "Garrett Ensley",
-        "paypal": "ensleygd?locale.x=en_US",
+        "paypal": "ensleygd",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -5486,7 +5438,7 @@
       {
         "name": "Vanessa Mathies",
         "paypal": "",
-        "venmo": "code?user_id=2421289759277056605",
+        "venmo": "nesslynne",
         "cashapp": "",
         "last4": "3083"
       }
@@ -6074,58 +6026,13 @@
     ]
   },
   {
-    "name": "Great Lakes Brewery",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Emily Giuliano",
-        "paypal": "emgiuly?locale.x=en_US",
-        "venmo": "Emgiuly",
-        "cashapp": "",
-        "last4": "7687"
-      }
-    ]
-  },
-  {
-    "name": "Great Lakes Brewing Co.",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Andrew Albertson",
-        "paypal": "andrewalbertson137",
-        "venmo": "Aga137",
-        "cashapp": "Aga137",
-        "last4": "8770"
-      },
-      {
-        "name": "Justyn Pawlus",
-        "paypal": "",
-        "venmo": "Justyn-Pawlus",
-        "cashapp": "",
-        "last4": "7981"
-      },
-      {
-        "name": "Michael Bader",
-        "paypal": "",
-        "venmo": "Michael-Bader-5",
-        "cashapp": "",
-        "last4": "2406"
-      },
-      {
-        "name": "Susan A. Douglass",
-        "paypal": "Yes",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      }
-    ]
-  },
-  {
     "name": "Great Lakes Brewing Company",
     "website": "",
     "note": "",
+    "alias": [
+      "Great Lakes Brewery",
+      "Great Lakes Brewing Co."
+    ],
     "workers": [
       {
         "name": "Amber Acord",
@@ -6140,6 +6047,13 @@
         "venmo": "Amber-Dolly-1",
         "cashapp": "dollyamber",
         "last4": "6136"
+      },
+      {
+        "name": "Andrew Albertson",
+        "paypal": "andrewalbertson137",
+        "venmo": "Aga137",
+        "cashapp": "Aga137",
+        "last4": "8770"
       },
       {
         "name": "Aniyah Griggs",
@@ -6177,11 +6091,25 @@
         "last4": "7036"
       },
       {
+        "name": "Emily Giuliano",
+        "paypal": "emgiuly",
+        "venmo": "Emgiuly",
+        "cashapp": "",
+        "last4": "7687"
+      },
+      {
         "name": "Haley Bissell",
         "paypal": "haleybissell",
         "venmo": "haleybissell",
         "cashapp": "",
         "last4": "5844"
+      },
+      {
+        "name": "Justyn Pawlus",
+        "paypal": "",
+        "venmo": "Justyn-Pawlus",
+        "cashapp": "",
+        "last4": "7981"
       },
       {
         "name": "Katie Blumenberg",
@@ -6210,6 +6138,13 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Michael Bader",
+        "paypal": "",
+        "venmo": "Michael-Bader-5",
+        "cashapp": "",
+        "last4": "2406"
       },
       {
         "name": "Peggy Costanzo",
@@ -6406,7 +6341,7 @@
       {
         "name": "Dalton Brewer",
         "paypal": "",
-        "venmo": "code?user_id=2824551167688704085",
+        "venmo": "daltonbrewer3",
         "cashapp": "",
         "last4": "7010"
       },
@@ -7591,7 +7526,7 @@
     "workers": [
       {
         "name": "Nikolaos Atheneos",
-        "paypal": "IncogNikoYo?locale.x=en_US",
+        "paypal": "IncogNikoYo",
         "venmo": "",
         "cashapp": "",
         "last4": "3888"
@@ -8022,7 +7957,7 @@
       {
         "name": "Michael(Donkey) Dodeci",
         "paypal": "MichaelDodeci",
-        "venmo": "code?user_id=2297607678328832687",
+        "venmo": "Michael-Dodeci",
         "cashapp": "",
         "last4": "6982"
       },
@@ -9406,7 +9341,7 @@
       {
         "name": "Christina Griffiths",
         "paypal": "",
-        "venmo": "code?user_id=2542225443520512029",
+        "venmo": "Damn-itschristina",
         "cashapp": "",
         "last4": "0365"
       },
@@ -9708,7 +9643,7 @@
     "workers": [
       {
         "name": "Cynthia Gregorio",
-        "paypal": "CynthiaGregorio?locale.x=en_US",
+        "paypal": "CynthiaGregorio",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -10097,7 +10032,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Miguel  Ferris",
+        "name": "Miguel Ferris",
         "paypal": "",
         "venmo": "miguel-ferris",
         "cashapp": "",
@@ -11957,7 +11892,7 @@
     "workers": [
       {
         "name": "Garrison Cummings",
-        "paypal": "garrison85?locale.x=en_US",
+        "paypal": "garrison85",
         "venmo": "Garrison-Lee-1",
         "cashapp": "",
         "last4": "3126"
@@ -12608,20 +12543,6 @@
         "cashapp": ""
       },
       {
-        "name": "Angel Savacool Melendez",
-        "paypal": "",
-        "venmo": "AngelMSavacool",
-        "cashapp": "",
-        "last4": "7906"
-      },
-      {
-        "name": "Angel Savacool Mendez",
-        "paypal": "",
-        "venmo": "AngelMSavacool",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
         "name": "Angelica Savacool Melendez",
         "paypal": "lilhoneybun",
         "venmo": "angelMSavacool",
@@ -13269,7 +13190,7 @@
       },
       {
         "name": "Sarah Eppele",
-        "paypal": "SarahEppele?locale.x=en_US",
+        "paypal": "SarahEppele",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -14433,7 +14354,7 @@
     "workers": [
       {
         "name": "Amber Scarberry",
-        "paypal": "ascarberry7?locale.x=en_US",
+        "paypal": "ascarberry7",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -14451,34 +14372,6 @@
         "venmo": "steph-mocnik",
         "cashapp": "",
         "last4": "6200"
-      }
-    ]
-  },
-  {
-    "name": "The Black Pig",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Amy Williams",
-        "paypal": "globalresident",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Derek Hill",
-        "paypal": "DerekRussellHill",
-        "venmo": "DerekRussell",
-        "cashapp": "",
-        "last4": "0863"
-      },
-      {
-        "name": "Rachel Raver",
-        "paypal": "",
-        "venmo": "Rachel-Raver",
-        "cashapp": "",
-        "last4": "9773"
       }
     ]
   },
@@ -14587,7 +14480,7 @@
       },
       {
         "name": "Lindsay Laska",
-        "paypal": "LLaska?locale.x=en_US",
+        "paypal": "LLaska",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -14714,7 +14607,7 @@
       {
         "name": "Jaimie Catherine Coffman",
         "paypal": "",
-        "venmo": "code?user_id=2104876540624896777",
+        "venmo": "Jaimie-Catherine",
         "cashapp": "",
         "last4": "0261"
       }
@@ -14832,7 +14725,7 @@
       },
       {
         "name": "Megan Shoff",
-        "paypal": "meganS1212?locale.x=en_US",
+        "paypal": "meganS1212",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -15244,9 +15137,9 @@
         "last4": "5999"
       },
       {
-        "name": "Maci bowman",
+        "name": "Maci Bowman",
         "paypal": "",
-        "venmo": "code?user_id=2586493671440384357",
+        "venmo": "Maci-Bowman",
         "cashapp": "macib3",
         "last4": "3589"
       },
@@ -16381,7 +16274,7 @@
         "last4": "3224"
       },
       {
-        "name": "Patricia  Miedl",
+        "name": "Patricia Miedl",
         "paypal": "",
         "venmo": "Patricia-Miedl",
         "cashapp": "",
@@ -16983,13 +16876,6 @@
         "last4": "6369"
       },
       {
-        "name": "Alivia Parrott",
-        "paypal": "",
-        "venmo": "Alivia-parrott",
-        "cashapp": "aliviaparrott",
-        "last4": "6369"
-      },
-      {
         "name": "Amanda Batzel",
         "paypal": "amandacb216",
         "venmo": "",
@@ -17001,13 +16887,6 @@
         "paypal": "cocvid19sucks",
         "venmo": "",
         "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Amber Bellew",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "amberbellew",
         "last4": ""
       },
       {
@@ -17032,25 +16911,11 @@
         "last4": ""
       },
       {
-        "name": "Andrea Davis",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "andnicoled",
-        "last4": ""
-      },
-      {
         "name": "Andrew Morilak",
         "paypal": "",
         "venmo": "Andrunas45",
         "cashapp": "",
         "last4": "5178"
-      },
-      {
-        "name": "Angelique Herak",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "AngeliqueHerak",
-        "last4": ""
       },
       {
         "name": "Angelique Herak",
@@ -17123,20 +16988,6 @@
         "last4": "2290"
       },
       {
-        "name": "Chelsea Scolaro",
-        "paypal": "",
-        "venmo": "Chelsea-Scolaro",
-        "cashapp": "scolaro88",
-        "last4": "2290"
-      },
-      {
-        "name": "Christian Petrila",
-        "paypal": "",
-        "venmo": "Christian-Petrila",
-        "cashapp": "",
-        "last4": "9248"
-      },
-      {
         "name": "Christian Petrila",
         "paypal": "",
         "venmo": "Christian-Petrila",
@@ -17158,13 +17009,6 @@
         "last4": ""
       },
       {
-        "name": "Crystal braun",
-        "paypal": "CrystalKappan",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
         "name": "Danielle Haubert",
         "paypal": "",
         "venmo": "",
@@ -17172,39 +17016,11 @@
         "last4": ""
       },
       {
-        "name": "Deanna booher",
+        "name": "Deanna Booher",
         "paypal": ".deannab016",
         "venmo": "",
         "cashapp": "",
         "last4": ""
-      },
-      {
-        "name": "Deanna booher",
-        "paypal": ".deannab016",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Eboni Teague",
-        "paypal": "",
-        "venmo": "Eboni-Teague",
-        "cashapp": "",
-        "last4": "0779"
-      },
-      {
-        "name": "Eboni Teague",
-        "paypal": "",
-        "venmo": "Eboni-Teague",
-        "cashapp": "",
-        "last4": "0779"
-      },
-      {
-        "name": "Eboni Teague",
-        "paypal": "",
-        "venmo": "Eboni-Teague",
-        "cashapp": "",
-        "last4": "0779"
       },
       {
         "name": "Eboni Teague",
@@ -17256,20 +17072,6 @@
         "last4": ""
       },
       {
-        "name": "Heather Eaton",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "heathle",
-        "last4": ""
-      },
-      {
-        "name": "Heather Langford",
-        "paypal": "HeatherLangford",
-        "venmo": "heatherose87",
-        "cashapp": "",
-        "last4": "5460"
-      },
-      {
         "name": "Heather Langford",
         "paypal": "HeatherLangford",
         "venmo": "heatherose87",
@@ -17278,14 +17080,14 @@
       },
       {
         "name": "Jackie Longo",
-        "paypal": "jaxwinkingliz?locale.x=en_US",
+        "paypal": "jaxwinkingliz",
         "venmo": "",
         "cashapp": "",
         "last4": ""
       },
       {
         "name": "Jackie Longo",
-        "paypal": "jaxwinkingliz?locale.x=en_US",
+        "paypal": "jaxwinkingliz",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -17628,7 +17430,7 @@
       },
       {
         "name": "Van Morrison",
-        "paypal": "leighbellz?locale.x=en_US",
+        "paypal": "leighbellz",
         "venmo": "",
         "cashapp": "",
         "last4": "3881"
@@ -17828,7 +17630,7 @@
     ]
   },
   {
-    "name": "Winking lizard Beachwood ohio",
+    "name": "Winking Lizard Beachwood",
     "website": "",
     "note": "",
     "workers": [
@@ -17855,7 +17657,7 @@
       },
       {
         "name": "Brittany Slack",
-        "paypal": "BrittanyNic83?locale.x=en_US",
+        "paypal": "BrittanyNic83",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -17898,7 +17700,7 @@
       {
         "name": "Jacob York",
         "paypal": "",
-        "venmo": "code?user_id=2748281180389376650",
+        "venmo": "Jacob-York-13",
         "cashapp": "",
         "last4": "6550"
       },
