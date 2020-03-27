@@ -24,7 +24,7 @@
 
   <!-- Style -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/main.css?v=2">
+  <link rel="stylesheet" href="css/main.css?v=3">
 
   <!-- Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58517406-5"></script>
@@ -65,7 +65,8 @@
       </p>
       <div class="selection">
         <p class="label">Your random worker is:</p>
-        <h1>{{random.worker.name}}</h1>
+        <h1 v-if="loading" class="text-muted">Loading...</h1>
+        <h1 v-else>{{random.worker.name}}</h1>
         <p class="place">{{random.place}}</p>
         <div class="tips" v-for="app in random.apps">
           <a class="btn" :class="app.type" :href="app.link"
@@ -83,10 +84,10 @@
           <button v-on:click="randomWorker">Tip another</button>
         </div>
       </div>
-      <p><small>
+      <p class="text-muted"><small>
         Note for Venmo: sometimes Venmo asks for the last 4 digits of the recipient’s
-        phone number to prevent spam. If the server has provided theirs, it is (shown
-        in parenthesis).
+        phone number to prevent spam. If the server has provided theirs, it is shown
+        (in parenthesis).
       </small></p>
 
       <h2>Thank You</h2>
@@ -151,6 +152,7 @@
         random: {
           worker: {}
         },
+        loading: true
       },
       methods: {
         paypalLink: function(username) {
@@ -232,6 +234,8 @@
             self.places = places;
             // Pick a random worker.
             self.randomWorker();
+            // Done loading.
+            self.loading = false;
           }
         };
         xmlhttp.open("GET", dataURL, true);
