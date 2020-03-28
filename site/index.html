@@ -110,12 +110,12 @@
         <input type="text" v-model="searchTerm"
           :placeholder="'Search ' + places.length.toLocaleString() + ' places...'">
       </p>
-      <div v-for="place in filteredPlaces" class="text-left place">
+      <div v-for="place in filteredPlaces" v-if="!place.hide" class="text-left place">
         <h3>{{place.name}}</h3>
         <a class="place-link" :href="place.website">{{place.website}}</a>
         <p v-if="place.note"><span class="place-icon">$</span> {{place.note}}</p>
         <table width="100%">
-          <tr v-for="worker in place.workers">
+          <tr v-for="worker in place.workers" v-if="!worker.hide">
             <td width="40%">{{worker.name}}</td>
             <td width="20%">
               <a v-if="worker.paypal" :href="paypalLink(worker.paypal)"
