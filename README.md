@@ -9,6 +9,9 @@ make a pull request updating this README to sign up for a shift importing and
 reviewing data. Then at the designated time, follow the steps below and make a
 pull request when complete. Each shift normally takes about 30 minutes.
 
+Please do a fresh pull or make a fresh fork before each shift, as the import
+script and README tend to change frequently as improvements are made.
+
 | Shift              | GitHub User  |
 | ------------------ | ------------ |
 | Monday mornings    | @roxcoldiron |
@@ -51,16 +54,21 @@ directory named `raw.csv`.
    python import.py --download
    ```
 
-   This script will download the latest data from the Google Sheet and alphabetize all entries.
+   This script will download the latest data from the Google Sheet and
+   alphabetize all entries.
 
 2. Review the `data.json` file diff before committing. Update any necessary
    data points such as website, and clean up misspellings, duplicates,
-   proper capitalization, etc. Add common mispellings or alternate place names
-   in the "alias" key and rerun the scrip to automatically merge places.
+   proper capitalization, etc.
 
-   It is helpful to view this file in a visual diff
-   tool, such as VS Code. This is the most labor intensive part and where we
-   need the most help.
+   Add common misspellings or alternate place names in the `alias` key in a list
+   and rerun the scrip to automatically merge places.
+
+   If a place or a person needs to be removed from the list, add a `hide: true`
+   key to the place or person entry.
+
+   It is helpful to view this file in a visual diff tool, such as VS Code. This
+   is the most labor intensive part and where we need the most help.
 
 3. Run the site locally using a web server, such as:
 

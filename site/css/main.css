@@ -14,6 +14,18 @@ button:hover {
   cursor: pointer;
 }
 
+input[type="text"] {
+  font-family: inherit;
+  font-size: inherit;
+  padding: 10px 15px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+}
+input[type="text"]:focus {
+  border: 2px solid slateblue;
+}
+
 h2 {
   border-bottom: 1.5px solid #ddd;
   padding: 0.5em 0;

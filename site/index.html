@@ -24,7 +24,7 @@
 
   <!-- Style -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/main.css?v=3">
+  <link rel="stylesheet" href="css/main.css?v=4">
 
   <!-- Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58517406-5"></script>
@@ -37,6 +37,7 @@
 
   <!-- Scripts -->
   <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js"></script>
 </head>
 
 <body>
@@ -98,6 +99,10 @@
         Developers: volunteer on
         <a href="https://github.com/vsalvino/clevelandtips">GitHub</a>.
       </p>
+      <p>
+        Over <b>3,000</b> tips have been given in our first 5 days!<br>
+        That’s about <b>one tip every 2 minutes</b>!
+      </p>
 
       <h2>Full List</h2>
       <p>
@@ -105,12 +110,16 @@
         <a href="https://forms.gle/ApQUChduP51yZ6Gr5">contact us</a> and we’ll
         list you first.
       </p>
-      <div v-for="place in places" class="text-left place">
+      <p>
+        <input type="text" v-model="searchTerm"
+          :placeholder="'Search ' + places.length.toLocaleString() + ' places...'">
+      </p>
+      <div v-for="place in filteredPlaces" v-if="!place.hide" class="text-left place">
         <h3>{{place.name}}</h3>
         <a class="place-link" :href="place.website">{{place.website}}</a>
         <p v-if="place.note"><span class="place-icon">$</span> {{place.note}}</p>
         <table width="100%">
-          <tr v-for="worker in place.workers">
+          <tr v-for="worker in place.workers" v-if="!worker.hide">
             <td width="40%">{{worker.name}}</td>
             <td width="20%">
               <a v-if="worker.paypal" :href="paypalLink(worker.paypal)"
@@ -144,15 +153,26 @@
 
   <script>
     dataURL = "data/data.json";
+    fuse = null;
 
     var App = new Vue({
       el: "#app",
       data: {
-        places: {},
+        places: [],
+        searchTerm: "",
         random: {
           worker: {}
         },
         loading: true
+      },
+      computed: {
+        filteredPlaces: function() {
+          if (this.searchTerm.length > 2) {
+            return fuse.search(this.searchTerm).map(x => x.item);
+          } else {
+            return this.places;
+          }
+        }
       },
       methods: {
         paypalLink: function(username) {
@@ -231,6 +251,16 @@
               }
               return 0;
             });
+            // Instantiate fuse search.
+            fuseOptions = {
+              shouldSort: true,
+              threshold: 0.2,
+              location: 0,
+              distance: 100,
+              keys: ['name']
+            }
+            fuse = new Fuse(places, fuseOptions);
+            // Set places.
             self.places = places;
             // Pick a random worker.
             self.randomWorker();
