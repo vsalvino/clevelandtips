@@ -31,10 +31,18 @@
         "venmo": "Joseph-Sadoski-1",
         "cashapp": "",
         "last4": "0041"
+      },
+      {
+        "name": "Lucia Stepp",
+        "paypal": "LuciaStepp",
+        "venmo": "luciafer",
+        "cashapp": "LuciaStepp",
+        "last4": "2095"
       }
     ],
     "alias": [
-      "16 Bit-Bar & Arcade"
+      "16 Bit-Bar & Arcade",
+      "16-Bit Bar+Arcade"
     ]
   },
   {
@@ -421,6 +429,9 @@
         "cashapp": "",
         "last4": "0893"
       }
+    ],
+    "alias": [
+      "Akronym"
     ]
   },
   {
@@ -428,6 +439,13 @@
     "website": "https://aladdins.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Alexandria Romanovich",
+        "paypal": "",
+        "venmo": "Alexandria-Romanovich",
+        "cashapp": "",
+        "last4": "7403"
+      },
       {
         "name": "Diane Wisner",
         "paypal": "",
@@ -504,6 +522,11 @@
         "venmo": "Dakneesbend@gmail.com",
         "cashapp": ""
       }
+    ],
+    "alias": [
+      "All Saints",
+      "All Saint's",
+      "All Saint's Public House"
     ]
   },
   {
@@ -525,6 +548,9 @@
         "cashapp": "hatiaaa",
         "last4": "8921"
       }
+    ],
+    "alias": [
+      "Alley Cat"
     ]
   },
   {
@@ -542,21 +568,7 @@
     ]
   },
   {
-    "name": "American Legion Post 91",
-    "website": "http://postbythelake.org/",
-    "note": "",
-    "workers": [
-      {
-        "name": "Regina Hoff",
-        "paypal": "",
-        "venmo": "Regina-Hoff",
-        "cashapp": "",
-        "last4": "8781"
-      }
-    ]
-  },
-  {
-    "name": "American legion",
+    "name": "American Legion",
     "website": "",
     "note": "",
     "workers": [
@@ -573,6 +585,20 @@
         "venmo": "",
         "cashapp": "sbiddle420",
         "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "American Legion Post 91",
+    "website": "http://postbythelake.org/",
+    "note": "",
+    "workers": [
+      {
+        "name": "Regina Hoff",
+        "paypal": "",
+        "venmo": "Regina-Hoff",
+        "cashapp": "",
+        "last4": "8781"
       }
     ]
   },
@@ -955,7 +981,7 @@
         "last4": "6088"
       },
       {
-        "name": "Gabby lamont",
+        "name": "Gabby Lamont",
         "paypal": "",
         "venmo": "Gabby-lamont",
         "cashapp": "",
@@ -1093,7 +1119,7 @@
         "last4": "2053"
       },
       {
-        "name": "Jacob hodgson",
+        "name": "Jacob Hodgson",
         "paypal": "",
         "venmo": "",
         "cashapp": "jakeCA23",
@@ -1204,6 +1230,13 @@
         "last4": "9693"
       },
       {
+        "name": "Christie oneal",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "cdenise77",
+        "last4": ""
+      },
+      {
         "name": "Michelle Patterson",
         "paypal": "coronajobless",
         "venmo": "",
@@ -1242,6 +1275,10 @@
         "cashapp": "",
         "last4": "3614"
       }
+    ],
+    "alias": [
+      "Bold",
+      "Bold food and drink"
     ]
   },
   {
@@ -1260,7 +1297,7 @@
   },
   {
     "name": "Backstage Bar",
-    "website": "",
+    "website": "http://www.backstagebarcleveland.com/",
     "note": "",
     "workers": [
       {
@@ -1283,6 +1320,13 @@
         "venmo": "Kaitlyn-Godic",
         "cashapp": "",
         "last4": "7911"
+      },
+      {
+        "name": "Lauren Kendig",
+        "paypal": "",
+        "venmo": "Lauren-Kendig",
+        "cashapp": "",
+        "last4": "8312"
       },
       {
         "name": "Leah M Fischer",
@@ -1312,20 +1356,9 @@
         "cashapp": "",
         "last4": "4040"
       }
-    ]
-  },
-  {
-    "name": "Backstage Bar Cleveland",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Lauren Kendig",
-        "paypal": "",
-        "venmo": "Lauren-Kendig",
-        "cashapp": "",
-        "last4": "8312"
-      }
+    ],
+    "alias": [
+      "Backstage Bar Cleveland"
     ]
   },
   {
@@ -1548,6 +1581,11 @@
         "cashapp": "RussellVig",
         "last4": "8718"
       }
+    ],
+    "alias": [
+      "Bar Cento",
+      "Bar Cento/Bier Market",
+      "Bier Market"
     ]
   },
   {
@@ -2497,6 +2535,20 @@
     ]
   },
   {
+    "name": "Blue Turtle Tavern",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Meghan Donelan",
+        "paypal": "",
+        "venmo": "Meghand6",
+        "cashapp": "meghand6",
+        "last4": "8928"
+      }
+    ]
+  },
+  {
     "name": "Blue Willow Lounge",
     "website": "https://bluewillowlounge.com",
     "note": "",
@@ -3125,6 +3177,13 @@
         "last4": "4395"
       },
       {
+        "name": "Cynthia Henry",
+        "paypal": "",
+        "venmo": "Cynthia-Henry-18",
+        "cashapp": "",
+        "last4": "3873"
+      },
+      {
         "name": "Emily Koehn",
         "paypal": "",
         "venmo": "EEKoehn",
@@ -3145,6 +3204,13 @@
         "last4": ""
       },
       {
+        "name": "Katie Thur",
+        "paypal": "",
+        "venmo": "Katie-Thur",
+        "cashapp": "KatieThur",
+        "last4": "2362"
+      },
+      {
         "name": "Laura Thompson",
         "paypal": "",
         "venmo": "LKT110590",
@@ -3157,6 +3223,13 @@
         "venmo": "laurenkwoods1287",
         "cashapp": "laurenkwoods1287",
         "last4": "2832"
+      },
+      {
+        "name": "Oscar Laboy",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Macho327",
+        "last4": ""
       },
       {
         "name": "Sabrina Tavakoli",
@@ -3178,6 +3251,20 @@
         "venmo": "",
         "cashapp": "tiphpay",
         "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Wild Wings Avon Lake",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Selina M Feliciano",
+        "paypal": "",
+        "venmo": "SelinaFeliciano",
+        "cashapp": "",
+        "last4": "5402"
       }
     ]
   },
@@ -3773,6 +3860,20 @@
     ]
   },
   {
+    "name": "Casa D\u2019Angelo",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Minute",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "nugwifee11",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "Cascade Lounge",
     "website": "",
     "note": "",
@@ -4016,6 +4117,20 @@
     ]
   },
   {
+    "name": "Chicago Deli",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Erica Buehner",
+        "paypal": "",
+        "venmo": "EricaMarie-11182",
+        "cashapp": "",
+        "last4": "4163"
+      }
+    ]
+  },
+  {
     "name": "Chicago's Chicken and Waffles",
     "website": "",
     "note": "",
@@ -4072,6 +4187,20 @@
     ],
     "alias": [
       "Chocolate Bar"
+    ]
+  },
+  {
+    "name": "Christie\u2019s Cabaret",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Mallory Soeder",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Soeder",
+        "last4": ""
+      }
     ]
   },
   {
@@ -4199,6 +4328,13 @@
         "last4": ""
       },
       {
+        "name": "Emma Pavlik",
+        "paypal": "pavlikemma",
+        "venmo": "Emma_Pavlik",
+        "cashapp": "",
+        "last4": "1118"
+      },
+      {
         "name": "Erika Durham",
         "paypal": "",
         "venmo": "reekadee",
@@ -4236,6 +4372,20 @@
     ],
     "alias": [
       "The Cleveland Bagel Co."
+    ]
+  },
+  {
+    "name": "Cleveland Bagel Company",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Amanda Frazier",
+        "paypal": "AmandaAlane",
+        "venmo": "forusbyus",
+        "cashapp": "forusbyus",
+        "last4": "2035"
+      }
     ]
   },
   {
@@ -4972,6 +5122,13 @@
     "note": "",
     "workers": [
       {
+        "name": "Elena Podgorski",
+        "paypal": "Mpoddog",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Kayla Hanson",
         "paypal": "",
         "venmo": "Kayla-521",
@@ -5037,6 +5194,13 @@
         "venmo": "eva_helle",
         "cashapp": "DViant",
         "last4": "6502"
+      },
+      {
+        "name": "Judy Larcomb",
+        "paypal": "",
+        "venmo": "Judy-larcomb",
+        "cashapp": "LNMinc",
+        "last4": "6702"
       }
     ]
   },
@@ -5288,7 +5452,17 @@
         "venmo": "Anne-Gearo",
         "cashapp": "",
         "last4": "3568"
+      },
+      {
+        "name": "Jeff Christian",
+        "paypal": "jeffvchristian",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       }
+    ],
+    "alias": [
+      "Delmonico\u2019s Steakhouse"
     ]
   },
   {
@@ -5559,6 +5733,13 @@
         "last4": "3685"
       },
       {
+        "name": "Kelly Shelton",
+        "paypal": "",
+        "venmo": "kshelton15",
+        "cashapp": "",
+        "last4": "4300"
+      },
+      {
         "name": "Natalie Wagner",
         "paypal": "natwags",
         "venmo": "",
@@ -5655,6 +5836,13 @@
         "venmo": "Rachel-Metz-2",
         "cashapp": "",
         "last4": "9585"
+      },
+      {
+        "name": "Sarah Gerding",
+        "paypal": "",
+        "venmo": "Sarah-Gerding-3",
+        "cashapp": "sarahgerding",
+        "last4": ""
       }
     ]
   },
@@ -6024,6 +6212,13 @@
         "last4": "6695"
       },
       {
+        "name": "Joshua M Godenswager",
+        "paypal": "",
+        "venmo": "Josh-Godenswager",
+        "cashapp": "JoshuaMGodenswager",
+        "last4": "5245"
+      },
+      {
         "name": "Kari Oliveri",
         "paypal": "KariOliveri",
         "venmo": "KariOliveri",
@@ -6096,7 +6291,8 @@
     ],
     "alias": [
       "Fatheads Brewery",
-      "Fat Head\u2019s"
+      "Fat Head\u2019s",
+      "Fat Heads Brewery"
     ]
   },
   {
@@ -6229,6 +6425,20 @@
         "venmo": "sbresler1102",
         "cashapp": "",
         "last4": "1604"
+      }
+    ]
+  },
+  {
+    "name": "Firebirds Woodfired Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Bill Noyes",
+        "paypal": "",
+        "venmo": "william-noyes-4",
+        "cashapp": "",
+        "last4": "5660"
       }
     ]
   },
@@ -6370,6 +6580,13 @@
     "website": "https://www.firstwatch.com",
     "note": "",
     "workers": [
+      {
+        "name": "Haley Collins",
+        "paypal": "",
+        "venmo": "Haley-Collins-8",
+        "cashapp": "hmcollins13",
+        "last4": "7649"
+      },
       {
         "name": "Kristina fretter",
         "paypal": "",
@@ -6946,6 +7163,20 @@
     ]
   },
   {
+    "name": "Game On Lorain",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Janill Jones",
+        "paypal": "",
+        "venmo": "janilljones",
+        "cashapp": "",
+        "last4": "5247"
+      }
+    ]
+  },
+  {
     "name": "Garage Bar",
     "website": "",
     "note": "",
@@ -6983,6 +7214,51 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "livluce",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Geeked Out Pub And Grille",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Chloe Schaufele",
+        "paypal": "",
+        "venmo": "Chloe-Schaufele",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Jay Hall",
+        "paypal": "TipsyPenguinn",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Kurt Cicirella",
+        "paypal": "",
+        "venmo": "Kurt-Cicirella",
+        "cashapp": "KurtCicirella",
+        "last4": "6334"
+      }
+    ],
+    "alias": [
+      "Geeked Out Pub & Grille"
+    ]
+  },
+  {
+    "name": "Geeked Out Pub N Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jaime Koren",
+        "paypal": "jkoren393",
+        "venmo": "",
+        "cashapp": "",
         "last4": ""
       }
     ]
@@ -8934,6 +9210,13 @@
         "last4": "6608"
       },
       {
+        "name": "Margaret Sutton (Meg)",
+        "paypal": "",
+        "venmo": "MegS5522",
+        "cashapp": "",
+        "last4": "4562"
+      },
+      {
         "name": "Nicole Disiena",
         "paypal": "",
         "venmo": "Nicole-Disiena",
@@ -8977,6 +9260,13 @@
         "venmo": "MelissaBoag-Norwex",
         "cashapp": "",
         "last4": "1866"
+      },
+      {
+        "name": "Sarah Black",
+        "paypal": "",
+        "venmo": "Sarah-Black-16",
+        "cashapp": "",
+        "last4": "5465"
       },
       {
         "name": "Shawna Johnson",
@@ -9513,6 +9803,20 @@
     ],
     "alias": [
       "Lindeys Lakehouse"
+    ]
+  },
+  {
+    "name": "Lindeys Lake House Lakewood",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Allison O'Connell",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "allisonmariee92",
+        "last4": ""
+      }
     ]
   },
   {
@@ -10255,7 +10559,7 @@
         "last4": "2367"
       },
       {
-        "name": "Tonya salyer",
+        "name": "Tonya Salyer",
         "paypal": "Tonyaannette@yahoo.com",
         "venmo": "",
         "cashapp": "",
@@ -10596,6 +10900,13 @@
         "last4": "2418"
       },
       {
+        "name": "Carlyle Franklin",
+        "paypal": "",
+        "venmo": "Carlyle-Franklin",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Carrie Kellner",
         "paypal": "",
         "venmo": "Carrie-Kellner-1",
@@ -10619,6 +10930,13 @@
       {
         "name": "Karissa Pagan",
         "paypal": "kpagan24",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Katie Schanz",
+        "paypal": "karinschanz1236",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -10696,6 +11014,9 @@
         "cashapp": "",
         "last4": "3582"
       }
+    ],
+    "alias": [
+      "Market Garden"
     ]
   },
   {
@@ -11040,12 +11361,24 @@
         "last4": "7743"
       },
       {
+        "name": "Rachel Kidner",
+        "paypal": "",
+        "venmo": "Rachel-Kidner",
+        "cashapp": "",
+        "last4": "1710"
+      },
+      {
         "name": "Tatum Brandenburg",
         "paypal": "",
         "venmo": "Tatum-Brandenburg",
         "cashapp": "",
         "last4": "8862"
       }
+    ],
+    "alias": [
+      "Melt",
+      "Melt Bar and Grille",
+      "Melt Bar"
     ]
   },
   {
@@ -11485,12 +11818,15 @@
     "note": "",
     "workers": [
       {
-        "name": "Kelsey vasilev",
+        "name": "Kelsey Vasilev",
         "paypal": "velisavk",
         "venmo": "",
         "cashapp": "",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Moonlight"
     ]
   },
   {
@@ -11599,21 +11935,7 @@
     ]
   },
   {
-    "name": "Mullen's",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Molly Stark",
-        "paypal": "oooh3003ies",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      }
-    ]
-  },
-  {
-    "name": "Mullens on Madison",
+    "name": "Mullen's on Madison",
     "website": "",
     "note": "",
     "workers": [
@@ -11651,11 +11973,22 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Molly Stark",
+        "paypal": "oooh3003ies",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       }
+    ],
+    "alias": [
+      "Mullens",
+      "Mullen's"
     ]
   },
   {
-    "name": "Mulligans Strongsville",
+    "name": "Mulligan\u2019s Pub And Grill",
     "website": "",
     "note": "",
     "workers": [
@@ -11665,14 +11998,7 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
-      }
-    ]
-  },
-  {
-    "name": "Mulligan\u2019s Pub And Grill",
-    "website": "",
-    "note": "",
-    "workers": [
+      },
       {
         "name": "Louise Barbera",
         "paypal": "simplythreads",
@@ -11691,7 +12017,8 @@
     "alias": [
       "Mulligan\u2019s",
       "Mulligan's Pub",
-      "Mulligan's Grill"
+      "Mulligan's Grill",
+      "Mulligans Strongsville"
     ]
   },
   {
@@ -11762,6 +12089,9 @@
         "cashapp": "",
         "last4": "9132"
       }
+    ],
+    "alias": [
+      "Music Box"
     ]
   },
   {
@@ -11811,6 +12141,9 @@
         "cashapp": "",
         "last4": "9130"
       }
+    ],
+    "alias": [
+      "Nervous Dog"
     ]
   },
   {
@@ -11955,7 +12288,8 @@
       }
     ],
     "alias": [
-      "Noble Beast Brewing Co."
+      "Noble Beast Brewing Co.",
+      "Noble Beast"
     ]
   },
   {
@@ -12032,6 +12366,10 @@
         "cashapp": "",
         "last4": "4571"
       }
+    ],
+    "alias": [
+      "Noras",
+      "Nora's"
     ]
   },
   {
@@ -12187,6 +12525,13 @@
         "last4": ""
       },
       {
+        "name": "Sherri Roe",
+        "paypal": "",
+        "venmo": "Sherri-Roe-1",
+        "cashapp": "",
+        "last4": "7494"
+      },
+      {
         "name": "Sommer Winterstein",
         "paypal": "",
         "venmo": "highfromastroworld",
@@ -12276,6 +12621,13 @@
         "venmo": "Jordy-Vargas",
         "cashapp": "",
         "last4": "6449"
+      },
+      {
+        "name": "Mindi Burton",
+        "paypal": "",
+        "venmo": "mindiburton",
+        "cashapp": "",
+        "last4": ""
       }
     ]
   },
@@ -12333,6 +12685,9 @@
         "cashapp": "jenna13marino",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Outback"
     ]
   },
   {
@@ -12513,7 +12868,8 @@
       }
     ],
     "alias": [
-      "Paladar Latin Kitchen And Rum Bar"
+      "Paladar Latin Kitchen And Rum Bar",
+      "Paladar"
     ]
   },
   {
@@ -12538,7 +12894,7 @@
     ]
   },
   {
-    "name": "Panini's Bar and Grille",
+    "name": "Panini's Bar and Grill",
     "website": "https://paninisgrill.com/",
     "note": "",
     "workers": [
@@ -12547,6 +12903,20 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "amandacassella",
+        "last4": ""
+      },
+      {
+        "name": "Any Harding",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "AMEE5",
+        "last4": ""
+      },
+      {
+        "name": "Ashleigh Fittipaldi",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Ashleigh529",
         "last4": ""
       },
       {
@@ -12571,6 +12941,13 @@
         "last4": "3990"
       },
       {
+        "name": "Caitlin Krentz",
+        "paypal": "cjkrentz",
+        "venmo": "caitlin-krentz",
+        "cashapp": "",
+        "last4": "2331"
+      },
+      {
         "name": "Chelsea Leavelle",
         "paypal": "",
         "venmo": "Chelsea-Leavelle",
@@ -12578,11 +12955,25 @@
         "last4": "5998"
       },
       {
+        "name": "Chrissy Liatchenkov",
+        "paypal": "",
+        "venmo": "Chrissy-Liatchenkov",
+        "cashapp": "",
+        "last4": "2579"
+      },
+      {
         "name": "Courtney Wagner",
         "paypal": "",
         "venmo": "courtk13",
         "cashapp": "",
         "last4": "2581"
+      },
+      {
+        "name": "Fiona Mangan",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "fmangan12",
+        "last4": ""
       },
       {
         "name": "Haley Oliver",
@@ -12597,6 +12988,13 @@
         "venmo": "",
         "cashapp": "Roldy1605",
         "last4": ""
+      },
+      {
+        "name": "Hayley Radvansky",
+        "paypal": "",
+        "venmo": "Hayley-Radvansky",
+        "cashapp": "",
+        "last4": "3424"
       },
       {
         "name": "Isiah Mowery",
@@ -12620,6 +13018,13 @@
         "last4": ""
       },
       {
+        "name": "Kim Neubecker",
+        "paypal": "",
+        "venmo": "Kim-Neubecker",
+        "cashapp": "",
+        "last4": "7899"
+      },
+      {
         "name": "Kimmy Johnson",
         "paypal": "kimfu666",
         "venmo": "KimmyJ-666",
@@ -12641,6 +13046,20 @@
         "last4": "4887"
       },
       {
+        "name": "Megan Ruth",
+        "paypal": "",
+        "venmo": "Megan-Ruth-1",
+        "cashapp": "meganruth7",
+        "last4": ""
+      },
+      {
+        "name": "Melanie Germ",
+        "paypal": "",
+        "venmo": "Melanie-germ",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Michael Brennan",
         "paypal": "brennan250",
         "venmo": "",
@@ -12660,6 +13079,13 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Molly Ebosh",
+        "paypal": "",
+        "venmo": "Molly-Ebosh",
+        "cashapp": "",
+        "last4": "4115"
       },
       {
         "name": "Nicole Gouldthred",
@@ -12706,99 +13132,12 @@
     ],
     "alias": [
       "Paninis Bar And Grille",
-      "Panini\u2019s Bar And Grille"
-    ]
-  },
-  {
-    "name": "Panini's Westlake",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Fiona Mangan",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "fmangan12",
-        "last4": ""
-      },
-      {
-        "name": "Kim Neubecker",
-        "paypal": "",
-        "venmo": "Kim-Neubecker",
-        "cashapp": "",
-        "last4": "7899"
-      },
-      {
-        "name": "Melanie Germ",
-        "paypal": "",
-        "venmo": "Melanie-germ",
-        "cashapp": "",
-        "last4": ""
-      }
-    ],
-    "alias": [
-      "Paninis Westlake",
-      "Paninis Westlake"
-    ]
-  },
-  {
-    "name": "Paninis Bar & Grill",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Caitlin Krentz",
-        "paypal": "cjkrentz",
-        "venmo": "caitlin-krentz",
-        "cashapp": "",
-        "last4": "2331"
-      },
-      {
-        "name": "Megan Ruth",
-        "paypal": "",
-        "venmo": "Megan-Ruth-1",
-        "cashapp": "meganruth7",
-        "last4": ""
-      },
-      {
-        "name": "Molly Ebosh",
-        "paypal": "",
-        "venmo": "Molly-Ebosh",
-        "cashapp": "",
-        "last4": "4115"
-      }
-    ],
-    "alias": [
+      "Panini\u2019s Bar And Grille",
       "Paninis",
-      "Paninis Bar And Grill"
-    ]
-  },
-  {
-    "name": "Paninis Bar And Grill Westlake",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Any Harding",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "AMEE5",
-        "last4": ""
-      }
-    ]
-  },
-  {
-    "name": "Panini\u2019s Bar And Grille Brunswick",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Chrissy Liatchenkov",
-        "paypal": "",
-        "venmo": "Chrissy-Liatchenkov",
-        "cashapp": "",
-        "last4": "2579"
-      }
+      "Panini's Westlake",
+      "Panini's Bar & Grill",
+      "Paninis Bar and Grill Westlake",
+      "Panini\u2019s Bar And Grille Brunswick"
     ]
   },
   {
@@ -12840,6 +13179,13 @@
         "venmo": "Ally-Dorsey-3",
         "cashapp": "allyd06",
         "last4": "0062"
+      },
+      {
+        "name": "Amanda Evans",
+        "paypal": "ae020314",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       },
       {
         "name": "Anja Testruth",
@@ -12899,6 +13245,13 @@
         "venmo": "Ashley-knight-70",
         "cashapp": "",
         "last4": "3208"
+      },
+      {
+        "name": "Erin Drew",
+        "paypal": "",
+        "venmo": "erinmckdrew",
+        "cashapp": "",
+        "last4": "6226"
       },
       {
         "name": "Mandi Sethman",
@@ -13087,6 +13440,13 @@
         "venmo": "",
         "cashapp": "Redstar1014",
         "last4": ""
+      },
+      {
+        "name": "Shannon Rodriguez",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "ShanMarie184",
+        "last4": ""
       }
     ],
     "alias": [
@@ -13129,7 +13489,7 @@
     ]
   },
   {
-    "name": "Perkins Restaurant and Bakery",
+    "name": "Perkin's Restaurant and Bakery",
     "website": "",
     "note": "",
     "workers": [
@@ -13148,12 +13508,23 @@
         "last4": "7826"
       },
       {
+        "name": "Michelle Ball",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Michelle021168",
+        "last4": ""
+      },
+      {
         "name": "Nehaya Najjar",
         "paypal": "",
         "venmo": "Nehaya-N",
         "cashapp": "",
         "last4": "7536"
       }
+    ],
+    "alias": [
+      "Perkins Restaurant",
+      "Perkins Restaurant and Bakery"
     ]
   },
   {
@@ -13175,6 +13546,13 @@
     "website": "https://phoenixcoffee.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Brian Johnson",
+        "paypal": "BrianJohnson135195",
+        "venmo": "claimedchains",
+        "cashapp": "",
+        "last4": "7114"
+      },
       {
         "name": "Tori Molchak",
         "paypal": "victoriamolchak",
@@ -13224,6 +13602,9 @@
         "cashapp": "",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Pic Nics"
     ]
   },
   {
@@ -13262,6 +13643,13 @@
     "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Adam Kaufman",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Asstodon",
+        "last4": ""
+      },
       {
         "name": "Gabby Rovito",
         "paypal": "",
@@ -13305,6 +13693,13 @@
         "last4": ""
       },
       {
+        "name": "Stephanie Berry",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Stephanie050285",
+        "last4": ""
+      },
+      {
         "name": "Trevor La Rosa",
         "paypal": "",
         "venmo": "trevlarosa",
@@ -13315,7 +13710,7 @@
   },
   {
     "name": "Pizza Pan",
-    "website": "",
+    "website": "http://pizzapancle.com",
     "note": "",
     "workers": [
       {
@@ -13343,7 +13738,7 @@
   },
   {
     "name": "Playhouse Square",
-    "website": "",
+    "website": "http://www.playhousesquare.org/",
     "note": "",
     "workers": [
       {
@@ -13681,7 +14076,7 @@
     ]
   },
   {
-    "name": "Quarter up Bar and Arcade",
+    "name": "Quarter Up Bar and Arcade",
     "website": "",
     "note": "",
     "workers": [
@@ -13699,6 +14094,10 @@
         "cashapp": "xrubyrabbitx",
         "last4": "6164"
       }
+    ],
+    "alias": [
+      "Quater up Bar and Arcade",
+      "Quarter Up"
     ]
   },
   {
@@ -13886,14 +14285,7 @@
         "venmo": "",
         "cashapp": "melii0619",
         "last4": ""
-      }
-    ]
-  },
-  {
-    "name": "Red Lobster - Mentor",
-    "website": "",
-    "note": "",
-    "workers": [
+      },
       {
         "name": "Steven Brown",
         "paypal": "",
@@ -13901,6 +14293,9 @@
         "cashapp": "Brown2010",
         "last4": "5398"
       }
+    ],
+    "alias": [
+      "Red Lobster - Mentor"
     ]
   },
   {
@@ -14466,7 +14861,7 @@
     ]
   },
   {
-    "name": "RushHhour Grille",
+    "name": "RushHour Grille",
     "website": "",
     "note": "",
     "workers": [
@@ -15294,7 +15689,8 @@
       }
     ],
     "alias": [
-      "The Side Quest"
+      "The Side Quest",
+      "Sidequest"
     ]
   },
   {
@@ -15549,6 +15945,13 @@
         "last4": "1417"
       },
       {
+        "name": "Jen McDaniel",
+        "paypal": "JenMcDaniel21",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Julie Lattanzi",
         "paypal": "julief92@aol.com",
         "venmo": "",
@@ -15589,6 +15992,13 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Michelle Guzi",
+        "paypal": "",
+        "venmo": "Michelle-Guzi",
+        "cashapp": "michelleguzi",
+        "last4": "4136"
       },
       {
         "name": "Samantha Parker",
@@ -16524,6 +16934,13 @@
         "last4": "7382"
       },
       {
+        "name": "Christie Vaughn",
+        "paypal": "christie1378",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Erin Burgess",
         "paypal": "",
         "venmo": "Erin-Burgess-27",
@@ -16555,6 +16972,9 @@
         "venmo": "",
         "cashapp": "Morgymig"
       }
+    ],
+    "alias": [
+      "Tgi Friday\u2019s Westlake"
     ]
   },
   {
@@ -16649,10 +17069,17 @@
     ]
   },
   {
-    "name": "Tavern of little Italy!",
-    "website": "",
+    "name": "Tavern of Little Italy!",
+    "website": "https://www.tolicleveland.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Elena Donofrio",
+        "paypal": "",
+        "venmo": "ElenaDonof",
+        "cashapp": "",
+        "last4": ""
+      },
       {
         "name": "Michelle R Dragon",
         "paypal": "",
@@ -16660,6 +17087,9 @@
         "cashapp": "Michelle1380",
         "last4": "0526"
       }
+    ],
+    "alias": [
+      "Tavern Of little Italy"
     ]
   },
   {
@@ -16793,20 +17223,6 @@
     ]
   },
   {
-    "name": "Tgi Friday\u2019s Westlake",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Christie Vaughn",
-        "paypal": "christie1378",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
-      }
-    ]
-  },
-  {
     "name": "The 1761 Old Mill Restaurant",
     "website": "",
     "note": "",
@@ -16892,6 +17308,13 @@
     "note": "",
     "workers": [
       {
+        "name": "Craig Stratton",
+        "paypal": "",
+        "venmo": "Cstratt710",
+        "cashapp": "",
+        "last4": "3918"
+      },
+      {
         "name": "Emily Fabrizi",
         "paypal": "",
         "venmo": "",
@@ -16918,6 +17341,13 @@
         "venmo": "kpedd7",
         "cashapp": "",
         "last4": "9226"
+      },
+      {
+        "name": "Marina Marti",
+        "paypal": "",
+        "venmo": "Marina-Marti",
+        "cashapp": "",
+        "last4": "6602"
       }
     ]
   },
@@ -17260,6 +17690,13 @@
     "note": "",
     "workers": [
       {
+        "name": "Alan Nash",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "bigalnash",
+        "last4": ""
+      },
+      {
         "name": "Bob Uhoda",
         "paypal": "",
         "venmo": "Robert-Uhoda",
@@ -17391,6 +17828,20 @@
     ]
   },
   {
+    "name": "The Lodge At Geneva On The Lake",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Melanie enricco",
+        "paypal": "MelanieSongBird",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "The Millard Fillmore Presidential Library",
     "website": "",
     "note": "",
@@ -17431,6 +17882,13 @@
         "last4": ""
       },
       {
+        "name": "Ambria Didion",
+        "paypal": "",
+        "venmo": "Ambria-Didion",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Annette E.",
         "paypal": "",
         "venmo": "anness",
@@ -17456,6 +17914,13 @@
         "paypal": "hanrope",
         "venmo": "",
         "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "KellyJo Mills",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "KeIIyJo",
         "last4": ""
       },
       {
@@ -17850,6 +18315,13 @@
     "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Calli harvey",
+        "paypal": "",
+        "venmo": "Calli-harvey-1",
+        "cashapp": "",
+        "last4": "6247"
+      },
       {
         "name": "Tricia Ortscheid",
         "paypal": "itstreeka",
@@ -18569,6 +19041,20 @@
     ]
   },
   {
+    "name": "Tozzi\u2019s On 12Th",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Melissa Tourno",
+        "paypal": "",
+        "venmo": "Melissa-Tourno-1",
+        "cashapp": "",
+        "last4": "4631"
+      }
+    ]
+  },
+  {
     "name": "Trader Jacks Riverside Grill",
     "website": "",
     "note": "",
@@ -18702,7 +19188,7 @@
     ]
   },
   {
-    "name": "Trolley House bar and grill",
+    "name": "Trolley House Bar and Grill",
     "website": "",
     "note": "",
     "workers": [
@@ -18928,6 +19414,20 @@
     ]
   },
   {
+    "name": "Uncle Joes Bar And Grille",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jeff messina",
+        "paypal": "",
+        "venmo": "anissem1207",
+        "cashapp": "",
+        "last4": "7666"
+      }
+    ]
+  },
+  {
     "name": "Unionhouse Bar and Restaurant",
     "website": "",
     "note": "",
@@ -18980,6 +19480,34 @@
         "venmo": "saramauser",
         "cashapp": "saramaus",
         "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Vaccaro\u2019s Trattoria",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Melanie Edwards",
+        "paypal": "",
+        "venmo": "MelanieLynneHyer",
+        "cashapp": "MelanieLynneHyer",
+        "last4": "4030"
+      }
+    ]
+  },
+  {
+    "name": "Valerio\u2019s",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Bryan Connell",
+        "paypal": "",
+        "venmo": "Bryan-Connell-3",
+        "cashapp": "BryanMatthewC",
+        "last4": "7863"
       }
     ]
   },
@@ -19127,6 +19655,34 @@
         "venmo": "Lindsey-Moore-24",
         "cashapp": "",
         "last4": "0366"
+      }
+    ]
+  },
+  {
+    "name": "Wagon Wheel",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brittany Vail",
+        "paypal": "brittanyvail24",
+        "venmo": "BritVail24",
+        "cashapp": "",
+        "last4": "6202"
+      }
+    ]
+  },
+  {
+    "name": "Wagon Wheel Pub",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Christina Stahurski",
+        "paypal": "",
+        "venmo": "Christina-Stahurski",
+        "cashapp": "cstahurski",
+        "last4": "9309"
       }
     ]
   },
@@ -19502,6 +20058,13 @@
         "name": "Amanda Konecny",
         "paypal": "cocvid19sucks",
         "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Amanda Rhodes",
+        "paypal": "",
+        "venmo": "Sparklyshark",
         "cashapp": "",
         "last4": ""
       },
@@ -20148,6 +20711,13 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Mondie Vargas",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "MondieVargas",
+        "last4": ""
       }
     ]
   },
@@ -20320,6 +20890,20 @@
         "venmo": "allierudolph_",
         "cashapp": "",
         "last4": "7165"
+      }
+    ]
+  },
+  {
+    "name": "Winking Lizard Tavern Mentor",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Rebecca Raddell",
+        "paypal": "",
+        "venmo": "Becky-Raddell",
+        "cashapp": "",
+        "last4": "3684"
       }
     ]
   },
@@ -20756,6 +21340,20 @@
         "venmo": "Laurel-Angelson",
         "cashapp": "",
         "last4": "0822"
+      }
+    ]
+  },
+  {
+    "name": "Ziggy\u2019s Pub & Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brandi",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "brannowlin",
+        "last4": ""
       }
     ]
   }
