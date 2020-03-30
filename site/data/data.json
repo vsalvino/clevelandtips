@@ -4314,6 +4314,13 @@
         "last4": "2514"
       },
       {
+        "name": "Amanda Frazier",
+        "paypal": "AmandaAlane",
+        "venmo": "forusbyus",
+        "cashapp": "forusbyus",
+        "last4": "2035"
+      },
+      {
         "name": "Chad Ellis Goehler",
         "paypal": "",
         "venmo": "Chad-Goehler",
@@ -4371,21 +4378,8 @@
       }
     ],
     "alias": [
-      "The Cleveland Bagel Co."
-    ]
-  },
-  {
-    "name": "Cleveland Bagel Company",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Amanda Frazier",
-        "paypal": "AmandaAlane",
-        "venmo": "forusbyus",
-        "cashapp": "forusbyus",
-        "last4": "2035"
-      }
+      "The Cleveland Bagel Co.",
+      "Cleveland Bagel Company"
     ]
   },
   {
@@ -11966,13 +11960,6 @@
         "venmo": "Laura-Dunn-54",
         "cashapp": "",
         "last4": "1894"
-      },
-      {
-        "name": "Molly Stark",
-        "paypal": "oooh3003ies",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
       },
       {
         "name": "Molly Stark",
@@ -19669,14 +19656,7 @@
         "venmo": "BritVail24",
         "cashapp": "",
         "last4": "6202"
-      }
-    ]
-  },
-  {
-    "name": "Wagon Wheel Pub",
-    "website": "",
-    "note": "",
-    "workers": [
+      },
       {
         "name": "Christina Stahurski",
         "paypal": "",
@@ -19684,6 +19664,9 @@
         "cashapp": "cstahurski",
         "last4": "9309"
       }
+    ],
+    "alias": [
+      "Wagon Wheel Pub"
     ]
   },
   {
