@@ -18693,7 +18693,8 @@
         "paypal": "",
         "venmo": "Michelle-Schanz",
         "cashapp": "",
-        "last4": "8342"
+        "last4": "8342",
+        "hide": true
       },
       {
         "name": "Michelle Schanz",
