@@ -2646,7 +2646,6 @@
     ]
   },
   {
-    "hide": true,
     "name": "Black Cat Barbershop",
     "website": "https://www.blackcatbarbershop.com/",
     "note": "",
@@ -23982,10 +23981,9 @@
         "last4": "4299"
       },
       {
-        "hide": true,
         "name": "Vanessa Morrison",
         "paypal": "",
-        "venmo": "code?user_id=2714079860883456771",
+        "venmo": "Vanessa-Leigh-54",
         "cashapp": "",
         "last4": "3881"
       },
@@ -24416,7 +24414,7 @@
         "venmo": "",
         "cashapp": "AvaMesser",
         "last4": ""
-      }
+      },
       {
         "name": "Shauna Koehl",
         "paypal": "",
