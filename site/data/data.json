@@ -2288,17 +2288,17 @@
         "last4": "1028"
       },
       {
-        "name": "Steveie Argirakis",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "StevieArgirakis",
-        "last4": ""
-      },
-      {
         "name": "Jezael Sanchez",
         "paypal": "",
         "venmo": "jezael-sanchez",
         "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Steveie Argirakis",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "StevieArgirakis",
         "last4": ""
       }
     ]
@@ -4297,6 +4297,20 @@
     ]
   },
   {
+    "name": "CLE",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Angela Hale",
+        "paypal": "",
+        "venmo": "AngelaH75",
+        "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "CLE Hopkins United Lounge",
     "website": "",
     "note": "",
@@ -4393,18 +4407,18 @@
     "note": "",
     "workers": [
       {
-        "name": "Lindsey Henderson",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "Lindsey47",
-        "last4": ""
-      },
-      {
         "name": "Bronwyn Demich",
         "paypal": "bronwynlauren",
         "venmo": "Bronwyn-Demich",
         "cashapp": "",
         "last4": "6961"
+      },
+      {
+        "name": "Lindsey Henderson",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Lindsey47",
+        "last4": ""
       }
     ],
     "alias": [
@@ -4564,7 +4578,7 @@
       },
       {
         "name": "Jody walczak",
-        "paypal": "PayPal me",
+        "paypal": "Jodywalczak",
         "venmo": "",
         "cashapp": "",
         "last4": ""
@@ -5130,20 +5144,6 @@
         "venmo": "Abbey-Wilson-19",
         "cashapp": "",
         "last4": "2629"
-      }
-    ]
-  },
-  {
-    "name": "CLE",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Angela Hale",
-        "paypal": "",
-        "venmo": "AngelaH75",
-        "cashapp": "",
-        "last4": ""
       }
     ]
   },
@@ -5861,18 +5861,18 @@
         "last4": ""
       },
       {
-        "name": "Ocean Dicillo",
-        "paypal": "",
-        "venmo": "occiexo",
-        "cashapp": "aspenocean",
-        "last4": "5712"
-      },
-      {
         "name": "Lisa M Hill",
         "paypal": "pleasehill",
         "venmo": "",
         "cashapp": "",
         "last4": "6232"
+      },
+      {
+        "name": "Ocean Dicillo",
+        "paypal": "",
+        "venmo": "occiexo",
+        "cashapp": "aspenocean",
+        "last4": "5712"
       }
     ]
   },
@@ -14135,17 +14135,10 @@
     ]
   },
   {
-    "name": "Mother\u2019s",
+    "name": "Morton\u2019s The Steakhouse",
     "website": "",
     "note": "",
     "workers": [
-      {
-        "name": "Dave Poczobut",
-        "paypal": "",
-        "venmo": "David-Poczobut",
-        "cashapp": "",
-        "last4": "8845"
-      },
       {
         "name": "John Gardner",
         "paypal": "",
@@ -14176,7 +14169,22 @@
       }
     ],
     "alias": [
+      "Morton\u2019s Steakhouse",
       "Mortons The Steakhouse"
+    ]
+  },
+  {
+    "name": "Mother\u2019s",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Dave Poczobut",
+        "paypal": "",
+        "venmo": "David-Poczobut",
+        "cashapp": "",
+        "last4": "8845"
+      }
     ]
   },
   {
