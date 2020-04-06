@@ -14465,7 +14465,8 @@
         "paypal": "Paypal.me",
         "venmo": "",
         "cashapp": "",
-        "last4": ""
+        "last4": "",
+        "hide": true
       },
       {
         "name": "Jennifer Akers",
