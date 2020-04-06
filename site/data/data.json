@@ -2083,6 +2083,13 @@
         "last4": "2575"
       },
       {
+        "name": "House mom kat",
+        "paypal": "",
+        "venmo": "housemomkat",
+        "cashapp": "housemomkat",
+        "last4": "5205"
+      },
+      {
         "name": "Lianna Fertig",
         "paypal": "liannafertig",
         "venmo": "Lianna-enticingcakes",
@@ -2297,8 +2304,8 @@
     ]
   },
   {
-    "name": "Barroco",
-    "website": "",
+    "name": "Barroco Arepa Bar",
+    "website": "https://www.barrocoarepabar.com/",
     "note": "",
     "workers": [
       {
@@ -2308,27 +2315,6 @@
         "cashapp": "thecolombianconnect",
         "last4": "1028"
       },
-      {
-        "name": "Jezael Sanchez",
-        "paypal": "",
-        "venmo": "jezael-sanchez",
-        "cashapp": "",
-        "last4": ""
-      },
-      {
-        "name": "Steveie Argirakis",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "StevieArgirakis",
-        "last4": ""
-      }
-    ]
-  },
-  {
-    "name": "Barroco Arepa Bar",
-    "website": "https://www.barrocoarepabar.com/",
-    "note": "",
-    "workers": [
       {
         "name": "Haley Norman",
         "paypal": "",
@@ -2351,6 +2337,13 @@
         "last4": "6742"
       },
       {
+        "name": "Jezael Sanchez",
+        "paypal": "",
+        "venmo": "jezael-sanchez",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
         "name": "Rhonda Basen",
         "paypal": "",
         "venmo": "",
@@ -2365,12 +2358,22 @@
         "last4": "9273"
       },
       {
+        "name": "Steveie Argirakis",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "StevieArgirakis",
+        "last4": ""
+      },
+      {
         "name": "Yomy Alvarez",
         "paypal": "yomayraliz",
         "venmo": "",
         "cashapp": "Yomayraliz",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Barroco"
     ]
   },
   {
@@ -3060,6 +3063,20 @@
     ],
     "alias": [
       "The Blue Willow"
+    ]
+  },
+  {
+    "name": "Blueline Bar And Grill",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brittany Montgomery",
+        "paypal": "",
+        "venmo": "BrittanyMontgomery103010",
+        "cashapp": "",
+        "last4": "6657"
+      }
     ]
   },
   {
@@ -10652,6 +10669,20 @@
     ]
   },
   {
+    "name": "J Bistro Sandusky",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Luetta Thomas",
+        "paypal": "itrulymissyouallandt",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "JACK Thistledown Casino",
     "website": "",
     "note": "",
@@ -10732,20 +10763,6 @@
         "venmo": "Mothmanisreal",
         "cashapp": "Kourtneyweber",
         "last4": "3583"
-      }
-    ]
-  },
-  {
-    "name": "Jbistro (Sandusky)",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Luetta Thomas",
-        "paypal": "Itrulymissyouallandthankyou",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
       }
     ]
   },
@@ -13622,6 +13639,20 @@
         "venmo": "Denise-Gallo-8",
         "cashapp": "",
         "last4": "4464"
+      }
+    ]
+  },
+  {
+    "name": "Meldrums",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Ashley Marie Fenton",
+        "paypal": "ashleymarie1993",
+        "venmo": "Ashley-Fenton-13",
+        "cashapp": "ashm1212",
+        "last4": "2648"
       }
     ]
   },
@@ -18738,7 +18769,7 @@
       },
       {
         "name": "Jessica Brown",
-        "paypal": "",
+        "paypal": "jrb2484",
         "venmo": "Jessicabrown820",
         "cashapp": "",
         "last4": "6863"
@@ -20279,11 +20310,10 @@
       },
       {
         "name": "Michelle Schanz",
-        "paypal": "Paypal.meshellyschanz",
+        "paypal": "shellyschanz",
         "venmo": "",
         "cashapp": "",
-        "last4": "",
-        "hide": true
+        "last4": ""
       },
       {
         "name": "Patrick T Kenny",
@@ -20296,7 +20326,7 @@
   },
   {
     "name": "Stonehouse Grill",
-    "website": "",
+    "website": "https://stonehousegrill.com/",
     "note": "",
     "workers": [
       {
@@ -20331,7 +20361,7 @@
   },
   {
     "name": "Strip Steakhouse",
-    "website": "",
+    "website": "http://www.stripsteakhouse.com/",
     "note": "",
     "workers": [
       {
