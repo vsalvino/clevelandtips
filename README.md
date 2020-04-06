@@ -12,22 +12,22 @@ pull request when complete. Each shift normally takes about 30 minutes.
 Please do a fresh pull or make a fresh fork before each shift, as the import
 script and README tend to change frequently as improvements are made.
 
-| Shift              | GitHub User  |
-| ------------------ | ------------ |
-| Monday mornings    | @roxcoldiron |
-| Monday evenings    |              |
-| Tuesday mornings   | @vsalvino    |
-| Tuesday evenings   |              |
-| Wednesday mornings | @roxcoldiron |
-| Wednesday evenings | @shawninman  |
-| Thursday mornings  | @vsalvino    |
-| Thursday evenings  |              |
-| Friday mornings    | @shawninman  |
-| Friday evenings    | @samsawan    |
-| Saturday mornings  | @vsalvino    |
-| Saturday evenings  |              |
-| Sunday mornings    | @samsawan    |
-| Sunday evenings    | @shawninman  |
+| Shift              | GitHub User     |
+| ------------------ | ------------    |
+| Monday mornings    | @roxcoldiron    |
+| Monday evenings    |                 |
+| Tuesday mornings   | @vsalvino       |
+| Tuesday evenings   | @nathanbardwell |
+| Wednesday mornings | @roxcoldiron    |
+| Wednesday evenings | @shawninman     |
+| Thursday mornings  | @vsalvino       |
+| Thursday evenings  | @nathanbardwell |
+| Friday mornings    | @shawninman     |
+| Friday evenings    | @samsawan       |
+| Saturday mornings  | @vsalvino       |
+| Saturday evenings  |                 |
+| Sunday mornings    | @samsawan       |
+| Sunday evenings    | @shawninman     |
 
 Code is in a static HTML page in `site/` directory, rendered client-side with
 Vue.js.
