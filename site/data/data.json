@@ -1653,6 +1653,20 @@
     ]
   },
   {
+    "name": "Bakersfiel Short North",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alyssa Moss",
+        "paypal": "",
+        "venmo": "alyssatruelove",
+        "cashapp": "",
+        "last4": "8313"
+      }
+    ]
+  },
+  {
     "name": "Bakersfield",
     "website": "",
     "note": "",
@@ -2332,6 +2346,20 @@
     ]
   },
   {
+    "name": "Barrio, Gateway Location",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Samantha Fox",
+        "paypal": "sfox212",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "Barroco Arepa Bar",
     "website": "https://www.barrocoarepabar.com/",
     "note": "",
@@ -2447,10 +2475,17 @@
     ]
   },
   {
-    "name": "Bd\u2019s Mongolian Grill",
+    "name": "Bd\u2019s Mongolian Grill - Various Locations",
     "website": "https://www.gomongo.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Laura Turman",
+        "paypal": "moneyforLo",
+        "venmo": "moneyforlo",
+        "cashapp": "Turmanator",
+        "last4": "6764"
+      },
       {
         "name": "Maureen Matthews",
         "paypal": "",
@@ -3171,7 +3206,7 @@
     ]
   },
   {
-    "name": "Bob Evans",
+    "name": "Bob Evan's",
     "website": "https://www.bobevans.com/",
     "note": "",
     "workers": [
@@ -3239,26 +3274,23 @@
         "last4": "8113"
       },
       {
+        "name": "Tam McDowell",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "mizztamtation",
+        "last4": ""
+      },
+      {
         "name": "Veronica Kopronica",
         "paypal": "VeronicaKopronica",
         "venmo": "",
         "cashapp": "",
         "last4": ""
       }
-    ]
-  },
-  {
-    "name": "Bob Evans Restaurant",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Tam McDowell",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "mizztamtation",
-        "last4": ""
-      }
+    ],
+    "alias": [
+      "Bob Evans",
+      "Bob Evans Restaurant"
     ]
   },
   {
@@ -3321,20 +3353,6 @@
     ]
   },
   {
-    "name": "Bomba",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Ricardo Gee",
-        "paypal": "",
-        "venmo": "Ricardo-gee",
-        "cashapp": "",
-        "last4": "9556"
-      }
-    ]
-  },
-  {
     "name": "Bomba Tacos and Rum",
     "website": "https://bombatacos.com/",
     "note": "",
@@ -3373,7 +3391,17 @@
         "venmo": "nicklewis48",
         "cashapp": "",
         "last4": "6180"
+      },
+      {
+        "name": "Ricardo Gee",
+        "paypal": "",
+        "venmo": "Ricardo-gee",
+        "cashapp": "",
+        "last4": "9556"
       }
+    ],
+    "alias": [
+      "Bomba"
     ]
   },
   {
@@ -4459,8 +4487,8 @@
     "workers": [
       {
         "name": "Angela Hale",
-        "paypal": "",
-        "venmo": "AngelaH75",
+        "paypal": "AngelaH75",
+        "venmo": "",
         "cashapp": "",
         "last4": ""
       }
@@ -6460,7 +6488,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Jackie Rosewell",
+        "name": "Jackie Rosewell -- To be split among 8 workers",
         "paypal": "JacquelineRosewell",
         "venmo": "Jacqueline-Rosewell",
         "cashapp": "JackieRosewell",
@@ -8470,6 +8498,20 @@
         "venmo": "",
         "cashapp": "hrolen",
         "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Frank And Tonys",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nora Chafin",
+        "paypal": "",
+        "venmo": "Nora-Chafin",
+        "cashapp": "",
+        "last4": "1642"
       }
     ]
   },
@@ -10780,6 +10822,20 @@
     ]
   },
   {
+    "name": "Inn Walden",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brittany Kidd",
+        "paypal": "brittvnyk27",
+        "venmo": "brittvnyk27",
+        "cashapp": "brittvnyk27",
+        "last4": "1386"
+      }
+    ]
+  },
+  {
     "name": "Ironwood Cafe",
     "website": "",
     "note": "",
@@ -11178,6 +11234,13 @@
         "venmo": "Chelsea-Ramser",
         "cashapp": "",
         "last4": "6848"
+      },
+      {
+        "name": "Jim Kasper",
+        "paypal": "",
+        "venmo": "jkasper",
+        "cashapp": "",
+        "last4": "6759"
       },
       {
         "name": "Nicholas Cooper",
@@ -14474,13 +14537,6 @@
         "last4": ""
       },
       {
-        "name": "Laura Turman",
-        "paypal": "moneyforLo",
-        "venmo": "moneyforlo",
-        "cashapp": "Turmanator",
-        "last4": "6764"
-      },
-      {
         "name": "Maryann Chapin",
         "paypal": "Eyerollmac",
         "venmo": "",
@@ -16241,6 +16297,20 @@
     ],
     "alias": [
       "Paridise island saloon"
+    ]
+  },
+  {
+    "name": "Paragon",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Mandi Rae Sethman",
+        "paypal": "",
+        "venmo": "Mandi-Sethman",
+        "cashapp": "",
+        "last4": "8448"
+      }
     ]
   },
   {
@@ -19617,6 +19687,20 @@
     ]
   },
   {
+    "name": "Slymans Tavern, Beachwood And Mentor Location",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Beth Mascia",
+        "paypal": "Bethie1964",
+        "venmo": "",
+        "cashapp": "",
+        "last4": "9377"
+      }
+    ]
+  },
+  {
     "name": "Slyman\u2019s Tavern",
     "website": "",
     "note": "",
@@ -20598,6 +20682,13 @@
       },
       {
         "name": "Michelle Schanz",
+        "paypal": "shellyschanz",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
+      {
+        "name": "Michelle Schanz",
         "paypal": "",
         "venmo": "Michelle-Schanz",
         "cashapp": "",
@@ -20619,13 +20710,6 @@
         "cashapp": "",
         "last4": "0827",
         "hide": true
-      },
-      {
-        "name": "Michelle Schanz",
-        "paypal": "shellyschanz",
-        "venmo": "",
-        "cashapp": "",
-        "last4": ""
       },
       {
         "name": "Patrick T Kenny",
@@ -21612,6 +21696,20 @@
         "venmo": "",
         "cashapp": "",
         "last4": "4231"
+      }
+    ]
+  },
+  {
+    "name": "The Dark Room",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Sybella Valtman",
+        "paypal": "freyasgarden",
+        "venmo": "",
+        "cashapp": "thewaywardvixen",
+        "last4": ""
       }
     ]
   },
@@ -24087,9 +24185,9 @@
     "workers": [
       {
         "name": "Kassandra Scholz",
-        "paypal": "",
+        "paypal": "kassy513",
         "venmo": "",
-        "cashapp": "Makassandraa2u",
+        "cashapp": "kassandraa2u",
         "last4": ""
       },
       {
@@ -26112,7 +26210,7 @@
     "workers": [
       {
         "name": "Chrissy DeLuca",
-        "paypal": "profile",
+        "paypal": "chrissydeluca",
         "venmo": "Chrissy-DeLuca",
         "cashapp": "",
         "last4": "8999"
