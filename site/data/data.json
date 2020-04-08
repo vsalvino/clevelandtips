@@ -2475,10 +2475,17 @@
     ]
   },
   {
-    "name": "Bd\u2019s Mongolian Grill",
+    "name": "Bd\u2019s Mongolian Grill - Various Locations",
     "website": "https://www.gomongo.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Laura Turman",
+        "paypal": "moneyforLo",
+        "venmo": "moneyforlo",
+        "cashapp": "Turmanator",
+        "last4": "6764"
+      },
       {
         "name": "Maureen Matthews",
         "paypal": "",
@@ -4460,11 +4467,7 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "name": "Bw3S",
-=======
     "name": "Buffalo Wild Wings",
->>>>>>> master
     "website": "",
     "note": "",
     "workers": [
@@ -4484,8 +4487,8 @@
     "workers": [
       {
         "name": "Angela Hale",
-        "paypal": "",
-        "venmo": "AngelaH75",
+        "paypal": "AngelaH75",
+        "venmo": "",
         "cashapp": "",
         "last4": ""
       }
@@ -6485,7 +6488,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Jackie Rosewell",
+        "name": "Jackie Rosewell -- To be split among 8 workers",
         "paypal": "JacquelineRosewell",
         "venmo": "Jacqueline-Rosewell",
         "cashapp": "JackieRosewell",
@@ -9372,11 +9375,7 @@
         "last4": ""
       },
       {
-<<<<<<< HEAD
-        "name": "caroline komandt",
-=======
         "name": "Caroline Komandt",
->>>>>>> master
         "paypal": "carriefromgreatlakes",
         "venmo": "",
         "cashapp": "",
@@ -12733,11 +12732,7 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "name": "Luna Deli",
-=======
     "name": "Luna\u2019s Deli \u0026 Restaurant",
->>>>>>> master
     "website": "",
     "note": "",
     "workers": [
@@ -12747,37 +12742,6 @@
         "venmo": "",
         "cashapp": " elmerstaufer",
         "last4": ""
-<<<<<<< HEAD
-      }
-    ]
-  },
-  {
-    "name": "Lunas Deli Restaurant",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Tina Dajani",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "TinaDajani",
-        "last4": ""
-      }
-    ]
-  },
-  {
-    "name": "Lunas Family Restaurant",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Kristen Ketkeo",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "InfamousAzn",
-        "last4": ""
-      }
-=======
       },
       {
         "name": "Kristen Ketkeo",
@@ -12797,7 +12761,6 @@
     "alias": [
       "Luna Deli",
       "Lunas Family Restaurant"
->>>>>>> master
     ]
   },
   {
@@ -14572,13 +14535,6 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
-      },
-      {
-        "name": "Laura Turman",
-        "paypal": "moneyforLo",
-        "venmo": "moneyforlo",
-        "cashapp": "Turmanator",
-        "last4": "6764"
       },
       {
         "name": "Maryann Chapin",
@@ -25820,11 +25776,7 @@
         "last4": ""
       },
       {
-<<<<<<< HEAD
-        "name": "Daniel sadowski",
-=======
         "name": "Daniel Sadowski",
->>>>>>> master
         "paypal": "danthemansadowski",
         "venmo": "",
         "cashapp": "",
@@ -26258,7 +26210,7 @@
     "workers": [
       {
         "name": "Chrissy DeLuca",
-        "paypal": "profile",
+        "paypal": "chrissydeluca",
         "venmo": "Chrissy-DeLuca",
         "cashapp": "",
         "last4": "8999"
