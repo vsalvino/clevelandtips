@@ -14882,13 +14882,6 @@
     "note": "",
     "workers": [
       {
-        "name": "Dave Poczobut",
-        "paypal": "",
-        "venmo": "David-Poczobut",
-        "cashapp": "",
-        "last4": "8845"
-      },
-      {
         "name": "John Gardner",
         "paypal": "",
         "venmo": "John-Gardner-158",
@@ -14920,6 +14913,21 @@
     "alias": [
       "Morton\u2019s Steakhouse",
       "Mortons The Steakhouse"
+    ]
+  },
+  {
+    "name": "Mother\u2019s Restaurant",
+    "hide": true,
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Dave Poczobut",
+        "paypal": "",
+        "venmo": "David-Poczobut",
+        "cashapp": "",
+        "last4": "8845"
+      }
     ]
   },
   {
