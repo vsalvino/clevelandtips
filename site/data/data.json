@@ -10,7 +10,17 @@
         "venmo": "himanshu-kakkar",
         "cashapp": "himanshukakkar",
         "last4": "8114"
+      },
+      {
+        "name": "Luis Rizzo",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "luisrizzo",
+        "last4": ""
       }
+    ],
+    "alias": [
+      "Pizza 216"
     ]
   },
   {
@@ -225,7 +235,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Kim hixenbaugh",
+        "name": "Kim Hixenbaugh",
         "paypal": "",
         "venmo": "kim-hixenbaugh",
         "cashapp": "",
@@ -234,12 +244,12 @@
     ]
   },
   {
-    "name": "801 restaurant",
+    "name": "801 Restaurant",
     "website": "",
     "note": "",
     "workers": [
       {
-        "name": "Himanshu kakkar",
+        "name": "Himanshu Kakkar",
         "paypal": "kakkar1988",
         "venmo": "himanshu-kakkar",
         "cashapp": "himanshukakkar",
@@ -685,7 +695,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Halle carnahan",
+        "name": "Halle Carnahan",
         "paypal": "",
         "venmo": "",
         "cashapp": "HalleCarnahan",
@@ -716,7 +726,7 @@
         "last4": ""
       },
       {
-        "name": "Shelly hall",
+        "name": "Shelly Hall",
         "paypal": "",
         "venmo": "",
         "cashapp": "shellybelly216",
@@ -2833,6 +2843,20 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Biggby Coffee",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Caleb Waybright",
+        "paypal": "",
+        "venmo": "CalebKetchum",
+        "cashapp": "",
+        "last4": "2151"
       }
     ]
   },
@@ -7681,6 +7705,13 @@
         "last4": "4661"
       },
       {
+        "name": "Elisa Marchione",
+        "paypal": "",
+        "venmo": "Elisa-Marchione",
+        "cashapp": "",
+        "last4": "2328"
+      },
+      {
         "name": "Wendy Howell",
         "paypal": "ilikethatbike",
         "venmo": "ilikethatbike",
@@ -9215,6 +9246,13 @@
         "venmo": "Chris-Bassitt",
         "cashapp": "",
         "last4": "9581"
+      },
+      {
+        "name": "Jacqueline Zachary",
+        "paypal": "",
+        "venmo": "Jacqueline-Zachary",
+        "cashapp": "",
+        "last4": "4365"
       },
       {
         "name": "Joseph Latina",
@@ -11178,6 +11216,13 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "ebrinz",
+        "last4": ""
+      },
+      {
+        "name": "Kamira Waller",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Fancyscorpio21",
         "last4": ""
       }
     ]
@@ -13680,6 +13725,13 @@
         "last4": ""
       },
       {
+        "name": "Dion Jones",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "1908jones",
+        "last4": ""
+      },
+      {
         "name": "Diontae Wilson",
         "paypal": "",
         "venmo": "",
@@ -14839,6 +14891,20 @@
     ]
   },
   {
+    "name": "Moms Restaurant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Tiffany greiner",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "tbunny216",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "Moonlite",
     "website": "",
     "note": "",
@@ -15692,6 +15758,13 @@
         "venmo": "Emily-Reynolds-129",
         "cashapp": "",
         "last4": "8707"
+      },
+      {
+        "name": "Erica greiner",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "eluv216",
+        "last4": ""
       },
       {
         "name": "Isabella Isabella",
@@ -16678,6 +16751,20 @@
     ]
   },
   {
+    "name": "Park Social Lounge",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "John Krakowski",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Johnkrak",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "Park Tavern (Bar)",
     "website": "",
     "note": "",
@@ -16734,6 +16821,20 @@
     ],
     "alias": [
       "Parker\u2019s Grille And Tavern"
+    ]
+  },
+  {
+    "name": "Parking Attendant",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Brandon Thompson",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "brandonkt91",
+        "last4": ""
+      }
     ]
   },
   {
@@ -18547,6 +18648,13 @@
     "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Joshua Samol",
+        "paypal": "Thrizzop",
+        "venmo": "Thrizzop",
+        "cashapp": "Thrizzop",
+        "last4": "1650"
+      },
       {
         "name": "Malorie Newingham",
         "paypal": "",
@@ -20398,6 +20506,20 @@
     ],
     "alias": [
       "South East Gears an Cheers"
+    ]
+  },
+  {
+    "name": "Southeast Gears And Cheers",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Kristi priestley",
+        "paypal": "",
+        "venmo": "KRP21",
+        "cashapp": "",
+        "last4": "1886"
+      }
     ]
   },
   {
