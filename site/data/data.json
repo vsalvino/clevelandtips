@@ -714,6 +714,20 @@
     ]
   },
   {
+    "name": "Amf Bowling North Ridgeville",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Shawnna Dicus",
+        "paypal": "bartrvlr",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "Amherst Diner",
     "website": "",
     "note": "",
@@ -5229,6 +5243,13 @@
         "last4": "1818"
       },
       {
+        "name": "Dre Payton",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Drepayton23",
+        "last4": ""
+      },
+      {
         "name": "Jenelle Bejcek",
         "paypal": "",
         "venmo": "Jenelle-Bejcek",
@@ -5241,6 +5262,13 @@
         "venmo": "Jennifer-Willis-10",
         "cashapp": "",
         "last4": "2060"
+      },
+      {
+        "name": "Kendra Rosiak",
+        "paypal": "",
+        "venmo": "Kendra-Rosiak",
+        "cashapp": "kendrarosiak",
+        "last4": "4384"
       },
       {
         "name": "Lindsay Laska",
@@ -19738,6 +19766,13 @@
         "venmo": "Jeremy-Hank",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Paige Decker",
+        "paypal": "",
+        "venmo": "Pdecker45",
+        "cashapp": "",
+        "last4": ""
       }
     ]
   },
@@ -22001,7 +22036,17 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Steven Dicus",
+        "paypal": "Stevenpacksfan",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       }
+    ],
+    "alias": [
+      "Takis Greek Kitchen"
     ]
   },
   {
