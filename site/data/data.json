@@ -631,9 +631,9 @@
       {
         "name": "Cadence Madrid",
         "paypal": "cayxo",
-        "venmo": "",
+        "venmo": "spicycay",
         "cashapp": "spicycay",
-        "last4": ""
+        "last4": "9273"
       },
       {
         "name": "Shatia Waxter",
@@ -1137,7 +1137,7 @@
   },
   {
     "name": "Architectural Justice Gallery And Cafe",
-    "website": "",
+    "website": "https://www.architecturaljustice.com/",
     "note": "",
     "workers": [
       {
@@ -3992,6 +3992,20 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "Sarahsnyder220",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Brunswick Eagles",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alicia kudryk",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Alicia kudryk",
         "last4": ""
       }
     ]
@@ -22685,6 +22699,20 @@
     ]
   },
   {
+    "name": "The Corner Joint",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lily Woodbury",
+        "paypal": "lilywoodbury",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
     "name": "The Dark Room Bar",
     "website": "https://thedarkroombar.com",
     "note": "",
@@ -25666,6 +25694,20 @@
         "paypal": "",
         "venmo": "Cshanno81@gmail.com",
         "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Wilberts",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nikki Belt",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "sparkles218",
         "last4": ""
       }
     ]
