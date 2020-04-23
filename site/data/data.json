@@ -950,6 +950,13 @@
         "last4": ""
       },
       {
+        "name": "Angel Burrus",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Burrus6381",
+        "last4": ""
+      },
+      {
         "name": "Ashley Szpak",
         "paypal": "",
         "venmo": "",
@@ -2408,6 +2415,20 @@
     ],
     "alias": [
       "Barrio Tacos"
+    ]
+  },
+  {
+    "name": "Barrio Tremont",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Angela Radloff",
+        "paypal": "",
+        "venmo": "angela-radloff12",
+        "cashapp": "",
+        "last4": "6041"
+      }
     ]
   },
   {
@@ -7260,6 +7281,20 @@
         "paypal": "olliesmom714",
         "venmo": "",
         "cashapp": "ollie714",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Dianna\u2019s Deli Restaurant Lakewood",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "MARIA DAVID",
+        "paypal": "positivesmiles",
+        "venmo": "",
+        "cashapp": "",
         "last4": ""
       }
     ]
@@ -13728,7 +13763,7 @@
     ]
   },
   {
-    "name": "Macnameras Pub",
+    "name": "McNamara’s Pub",
     "website": "",
     "note": "",
     "workers": [
@@ -13739,6 +13774,9 @@
         "cashapp": "marleepickles",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Macnameras Pub"
     ]
   },
   {
@@ -13952,6 +13990,13 @@
     "website": "http://www.maproomcleveland.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Brendan McGreal",
+        "paypal": "",
+        "venmo": "brendan-mcgreal-1",
+        "cashapp": "",
+        "last4": "4273"
+      },
       {
         "name": "Diana Firem",
         "paypal": "dianafirem",
@@ -14561,6 +14606,20 @@
     ],
     "alias": [
       "McNamera's Pub"
+    ]
+  },
+  {
+    "name": "Mcnamaras",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Corinna Lohser",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "CorinnaLohser",
+        "last4": ""
+      }
     ]
   },
   {
@@ -20880,6 +20939,20 @@
         "venmo": "OdP-R",
         "cashapp": "",
         "last4": "1257"
+      }
+    ]
+  },
+  {
+    "name": "Soothe Massage And Wellness",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Douglas perry",
+        "paypal": "",
+        "venmo": "Douglas-Perry-23",
+        "cashapp": "",
+        "last4": "8012"
       }
     ]
   },
