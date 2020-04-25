@@ -631,9 +631,9 @@
       {
         "name": "Cadence Madrid",
         "paypal": "cayxo",
-        "venmo": "",
+        "venmo": "spicycay",
         "cashapp": "spicycay",
-        "last4": ""
+        "last4": "9273"
       },
       {
         "name": "Shatia Waxter",
@@ -950,6 +950,13 @@
         "last4": ""
       },
       {
+        "name": "Angel Burrus",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Burrus6381",
+        "last4": ""
+      },
+      {
         "name": "Ashley Szpak",
         "paypal": "",
         "venmo": "",
@@ -1137,7 +1144,7 @@
   },
   {
     "name": "Architectural Justice Gallery And Cafe",
-    "website": "",
+    "website": "https://www.architecturaljustice.com/",
     "note": "",
     "workers": [
       {
@@ -2408,6 +2415,20 @@
     ],
     "alias": [
       "Barrio Tacos"
+    ]
+  },
+  {
+    "name": "Barrio Tremont",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Angela Radloff",
+        "paypal": "",
+        "venmo": "angela-radloff12",
+        "cashapp": "",
+        "last4": "6041"
+      }
     ]
   },
   {
@@ -3992,6 +4013,20 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "Sarahsnyder220",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Brunswick Eagles",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Alicia kudryk",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Alicia kudryk",
         "last4": ""
       }
     ]
@@ -7246,6 +7281,20 @@
         "paypal": "olliesmom714",
         "venmo": "",
         "cashapp": "ollie714",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Dianna\u2019s Deli Restaurant Lakewood",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "MARIA DAVID",
+        "paypal": "positivesmiles",
+        "venmo": "",
+        "cashapp": "",
         "last4": ""
       }
     ]
@@ -13714,7 +13763,7 @@
     ]
   },
   {
-    "name": "Macnameras Pub",
+    "name": "McNamara’s Pub",
     "website": "",
     "note": "",
     "workers": [
@@ -13725,6 +13774,9 @@
         "cashapp": "marleepickles",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Macnameras Pub"
     ]
   },
   {
@@ -13938,6 +13990,13 @@
     "website": "http://www.maproomcleveland.com/",
     "note": "",
     "workers": [
+      {
+        "name": "Brendan McGreal",
+        "paypal": "",
+        "venmo": "brendan-mcgreal-1",
+        "cashapp": "",
+        "last4": "4273"
+      },
       {
         "name": "Diana Firem",
         "paypal": "dianafirem",
@@ -14547,6 +14606,20 @@
     ],
     "alias": [
       "McNamera's Pub"
+    ]
+  },
+  {
+    "name": "Mcnamaras",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Corinna Lohser",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "CorinnaLohser",
+        "last4": ""
+      }
     ]
   },
   {
@@ -20870,6 +20943,20 @@
     ]
   },
   {
+    "name": "Soothe Massage And Wellness",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Douglas perry",
+        "paypal": "",
+        "venmo": "Douglas-Perry-23",
+        "cashapp": "",
+        "last4": "8012"
+      }
+    ]
+  },
+  {
     "name": "Southeast Gears And Cheers",
     "website": "",
     "note": "",
@@ -22681,6 +22768,20 @@
         "venmo": "",
         "cashapp": "",
         "last4": "4231"
+      }
+    ]
+  },
+  {
+    "name": "The Corner Joint",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Lily Woodbury",
+        "paypal": "lilywoodbury",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       }
     ]
   },
@@ -25666,6 +25767,20 @@
         "paypal": "",
         "venmo": "Cshanno81@gmail.com",
         "cashapp": "",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Wilberts",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nikki Belt",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "sparkles218",
         "last4": ""
       }
     ]
