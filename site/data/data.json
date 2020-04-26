@@ -2255,6 +2255,20 @@
     ]
   },
   {
+    "name": "Barra Amherst",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Nick Gennari",
+        "paypal": "",
+        "venmo": "Nick-Gennari",
+        "cashapp": "ngennar",
+        "last4": "3984"
+      }
+    ]
+  },
+  {
     "name": "Barra Modern Mexican",
     "website": "https://www.barra-sandusky.com/",
     "note": "",
@@ -21897,6 +21911,20 @@
         "venmo": "ryan-richardson-181",
         "cashapp": "olryebread",
         "last4": "9449"
+      }
+    ]
+  },
+  {
+    "name": "Subway",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Monica Wilke",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "monicawilke",
+        "last4": ""
       }
     ]
   },
