@@ -503,6 +503,13 @@
     "note": "",
     "workers": [
       {
+        "name": "Alyssa Fishel",
+        "paypal": "",
+        "venmo": "lyssaloo92",
+        "cashapp": "lyssaloo92",
+        "last4": "8845"
+      },
+      {
         "name": "Emily Johnson",
         "paypal": "",
         "venmo": "Emily-J-1313",
@@ -5229,7 +5236,7 @@
   },
   {
     "name": "Characters Sports Bar And Grille",
-    "website": "",
+    "website": "http://www.characterssportsbarandgrill.com/",
     "note": "",
     "workers": [
       {
@@ -5424,7 +5431,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Rhonda woods",
+        "name": "Rhonda Woods",
         "paypal": "",
         "venmo": "",
         "cashapp": "Woods223",
@@ -5434,7 +5441,7 @@
   },
   {
     "name": "Chilis",
-    "website": "",
+    "website": "https://www.chilis.com/",
     "note": "",
     "workers": [
       {
@@ -5465,7 +5472,7 @@
   },
   {
     "name": "Chives Grille",
-    "website": "",
+    "website": "http://www.chivesgrille.com/",
     "note": "",
     "workers": [
       {
@@ -8025,6 +8032,20 @@
         "venmo": "Rasha-Alnazer",
         "cashapp": "",
         "last4": "0724"
+      },
+      {
+        "name": "Sarah Nicol",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "LittleSarah6",
+        "last4": ""
+      },
+      {
+        "name": "Steve williams",
+        "paypal": "",
+        "venmo": "Steve-williams-313",
+        "cashapp": "",
+        "last4": ""
       }
     ],
     "alias": [
@@ -14068,6 +14089,13 @@
         "last4": "4273"
       },
       {
+        "name": "Carl Duktig",
+        "paypal": "cduktig?locale.x=en_US",
+        "venmo": "Carl-Duktig",
+        "cashapp": "",
+        "last4": "2357"
+      },
+      {
         "name": "Diana Firem",
         "paypal": "dianafirem",
         "venmo": "Diana-Firem",
@@ -14384,6 +14412,20 @@
         "venmo": "Ashley-Lentz3571",
         "cashapp": "",
         "last4": "2132"
+      }
+    ]
+  },
+  {
+    "name": "Martino\u2019s International Cafe",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jeanette R Johnson",
+        "paypal": "",
+        "venmo": "Jeanette-Johnson-54",
+        "cashapp": "",
+        "last4": "9302"
       }
     ]
   },
@@ -16555,6 +16597,13 @@
     "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Katie Chapman",
+        "paypal": "Ktprecious",
+        "venmo": "",
+        "cashapp": "",
+        "last4": "1222"
+      },
       {
         "name": "Mike Sheridan",
         "paypal": "mikey822",
@@ -23298,7 +23347,7 @@
     "note": "",
     "workers": [
       {
-        "name": "Melanie enricco",
+        "name": "Melanie Enricco",
         "paypal": "MelanieSongBird",
         "venmo": "",
         "cashapp": "",
@@ -23911,6 +23960,13 @@
         "venmo": "Calli-harvey-1",
         "cashapp": "",
         "last4": "6247"
+      },
+      {
+        "name": "Nicco Lemonis",
+        "paypal": "NiccoLemonis",
+        "venmo": "Nicco_Lemon",
+        "cashapp": "NiccoLemonis",
+        "last4": "1989"
       },
       {
         "name": "Tricia Ortscheid",
