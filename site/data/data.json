@@ -2514,6 +2514,13 @@
         "last4": ""
       },
       {
+        "name": "Sebastian Albornoz",
+        "paypal": "",
+        "venmo": "JuanSebastian-Albornoz",
+        "cashapp": "",
+        "last4": "6952"
+      },
+      {
         "name": "Skye Dudek",
         "paypal": "",
         "venmo": "skye-dudek",
@@ -16153,10 +16160,17 @@
     ]
   },
   {
-    "name": "Nuevo Modern Mex",
+    "name": "Nuevo Modern Mexican",
     "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Kyle Whittaker",
+        "paypal": "KyleWhittaker",
+        "venmo": "kylerwhittaker",
+        "cashapp": "KWhittaker",
+        "last4": ""
+      },
       {
         "name": "Miguel Ferris",
         "paypal": "",
@@ -16164,6 +16178,9 @@
         "cashapp": "",
         "last4": "7648"
       }
+    ],
+    "alias": [
+      "Nuevo Modern Mex"
     ]
   },
   {
@@ -21478,7 +21495,38 @@
         "venmo": "",
         "cashapp": "",
         "last4": ""
+      },
+      {
+        "name": "Patricia Ann Fisher",
+        "paypal": "Purplefiesta",
+        "venmo": "Purplefiesta",
+        "cashapp": "",
+        "last4": "1534"
+      },
+      {
+        "name": "Tammy Vuyancih",
+        "paypal": "LilTammyVHappy",
+        "venmo": "Tammy-Vuyancih",
+        "cashapp": "",
+        "last4": "1058"
+      },
+      {
+        "name": "Traci Lilley",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "TraciLilley",
+        "last4": "3544"
+      },
+      {
+        "name": "Zoe Austin",
+        "paypal": "zoenoelaustin",
+        "venmo": "Zoe-Austin-7",
+        "cashapp": "zoenoelaustin",
+        "last4": "6066"
       }
+    ],
+    "alias": [
+      "The Winery At Spring Hill"
     ]
   },
   {
@@ -21701,6 +21749,13 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "DreG98",
+        "last4": ""
+      },
+      {
+        "name": "Renee L Moore",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "mizwizofoz",
         "last4": ""
       },
       {
@@ -24186,6 +24241,20 @@
         "venmo": "",
         "cashapp": "MichelleHerzogYoung",
         "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "Tiki Underground",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Tara Daugherty",
+        "paypal": "TDaugherty664",
+        "venmo": "code?user_id=2922063593472000230",
+        "cashapp": "IHeartPineapplez",
+        "last4": "3839"
       }
     ]
   },
