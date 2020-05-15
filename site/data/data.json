@@ -819,6 +819,20 @@
     ]
   },
   {
+    "name": "Angel Falls Coffee Company",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Jacob Densford",
+        "paypal": "JacobDensford",
+        "venmo": "Jacob-Densford",
+        "cashapp": "JacobDensford",
+        "last4": "3495"
+      }
+    ]
+  },
+  {
     "name": "Angelo\u2019s Pizza",
     "website": "http://angeloslakewood.com/",
     "note": "",
@@ -11740,12 +11754,22 @@
         "last4": "7488"
       },
       {
+        "name": "Patricia Sboukis",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "mariesb1211",
+        "last4": ""
+      },
+      {
         "name": "Skye",
         "paypal": "skye1222",
         "venmo": "",
         "cashapp": "",
         "last4": ""
       }
+    ],
+    "alias": [
+      "Jennifer\u2019s"
     ]
   },
   {
@@ -16614,6 +16638,13 @@
     "website": "",
     "note": "",
     "workers": [
+      {
+        "name": "Katherine Chapman",
+        "paypal": "KatieChapman404",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
+      },
       {
         "name": "Katie Chapman",
         "paypal": "Ktprecious",
