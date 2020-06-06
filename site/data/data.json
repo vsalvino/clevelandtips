@@ -1467,6 +1467,13 @@
         "last4": ""
       },
       {
+        "name": "Lydia Holman",
+        "paypal": "",
+        "venmo": "lydia_holman01",
+        "cashapp": "",
+        "last4": "7557"
+      },
+      {
         "name": "Taylor Behringer",
         "paypal": "",
         "venmo": "Taylor-Behringer",
@@ -1482,7 +1489,8 @@
       }
     ],
     "alias": [
-      "Bspot"
+      "Bspot",
+      "Bspot Burgers"
     ]
   },
   {
@@ -3888,6 +3896,20 @@
         "venmo": "moiramcguire",
         "cashapp": "",
         "last4": "6885"
+      }
+    ]
+  },
+  {
+    "name": "Breakwall",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Serena Zinsmeister",
+        "paypal": "getridofit20",
+        "venmo": "",
+        "cashapp": "",
+        "last4": ""
       }
     ]
   },
@@ -6419,6 +6441,20 @@
         "paypal": "",
         "venmo": "",
         "cashapp": "JocelynPyros",
+        "last4": ""
+      }
+    ]
+  },
+  {
+    "name": "County Hospital",
+    "website": "",
+    "note": "",
+    "workers": [
+      {
+        "name": "Richard Sword",
+        "paypal": "",
+        "venmo": "",
+        "cashapp": "Richyrich44105",
         "last4": ""
       }
     ]
@@ -11770,20 +11806,6 @@
     ],
     "alias": [
       "Jennifer\u2019s"
-    ]
-  },
-  {
-    "name": "Jennifer\u2019s",
-    "website": "",
-    "note": "",
-    "workers": [
-      {
-        "name": "Patricia Sboukis",
-        "paypal": "",
-        "venmo": "",
-        "cashapp": "mariesb1211",
-        "last4": ""
-      }
     ]
   },
   {
